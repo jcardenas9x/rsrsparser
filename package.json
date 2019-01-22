@@ -1,0 +1,24 @@
+{
+  "name": "rsrsparser",
+  "version": "0.1.0",
+  "description": "Parses data for RSRS into a serialized JSON format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcardenas9x/rsrsparser.git"
+  },
+  "keywords": [
+    "json",
+    "parse",
+    "game"
+  ],
+  "author": "astalotte @trancehime",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/jcardenas9x/rsrsparser/issues"
+  },
+  "homepage": "https://github.com/jcardenas9x/rsrsparser#readme"
+}
