@@ -1,5 +1,3 @@
-'use strict';
-
 export default class skillInfo {
     constructor (
         id, name, flavorText,

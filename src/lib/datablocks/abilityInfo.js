@@ -1,5 +1,3 @@
-'use strict';
-
 export default class AbilityInfo {
     constructor (id, name, flavorText) {
         this.id = id;
