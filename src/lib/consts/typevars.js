@@ -25,7 +25,4 @@ const weaponTypes = [
     ''
 ];
 
-module.exports = {
-    styleRarities: styleRarities,
-    weaponTypes: weaponTypes
-}
+export { styleRarities, weaponTypes }

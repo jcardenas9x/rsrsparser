@@ -1,6 +1,6 @@
 'use strict';
 
-export class styleInfo {
+export default class styleInfo {
     constructor (
         strCast, conCast, dexCast, spdCast,
         intCast, sprCast, loveCast, chaCast,

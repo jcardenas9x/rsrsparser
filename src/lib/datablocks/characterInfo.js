@@ -1,6 +1,6 @@
 'use strict';
 
-/* export class characterInfo {
+export default class characterInfo {
     constructor (
         id, name, str, con, dex,
         spd, int, spr, love, cha
@@ -16,4 +16,4 @@
         this.love = love;
         this.cha = cha;
     }
-} */
+}

@@ -1,6 +1,6 @@
 'use strict';
 
-export class skillInfo {
+export default class skillInfo {
     constructor (
         id, name, flavorText,
         attackAttributes, powerGrade,
