@@ -1,0 +1,9533 @@
+[
+  {
+    "id": 210101,
+    "charId": 2101,
+    "name": "アルベルト",
+    "altName": "[左利きの戦士]",
+    "rarity": "S",
+    "weaponType": "Sword",
+    "lp": 5,
+    "jutsuList": [],
+    "role": 4,
+    "skillRefs": [
+      110100017,
+      110100025,
+      110100001
+    ],
+    "bonusId": 210101,
+    "strCast": [
+      113,
+      156,
+      1
+    ],
+    "conCast": [
+      110,
+      151,
+      0
+    ],
+    "dexCast": [
+      102,
+      141,
+      1
+    ],
+    "spdCast": [
+      110,
+      151,
+      1
+    ],
+    "intCast": [
+      95,
+      131,
+      0
+    ],
+    "sprCast": [
+      92,
+      126,
+      -1
+    ],
+    "loveCast": [
+      95,
+      131,
+      -4
+    ],
+    "chaCast": [
+      99,
+      136,
+      2
+    ],
+    "slashRes": 45,
+    "bashRes": -55,
+    "pierceRes": 10,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 210102,
+    "charId": 2101,
+    "name": "アルベルト",
+    "altName": "[伝説の名誉騎士]",
+    "rarity": "SS",
+    "weaponType": "Sword",
+    "lp": 6,
+    "jutsuList": [],
+    "role": 2,
+    "skillRefs": [
+      110100022,
+      110100016,
+      110100008
+    ],
+    "bonusId": 210102,
+    "strCast": [
+      133,
+      166,
+      0
+    ],
+    "conCast": [
+      137,
+      171,
+      3
+    ],
+    "dexCast": [
+      112,
+      140,
+      0
+    ],
+    "spdCast": [
+      112,
+      140,
+      0
+    ],
+    "intCast": [
+      99,
+      124,
+      -1
+    ],
+    "sprCast": [
+      128,
+      161,
+      0
+    ],
+    "loveCast": [
+      112,
+      140,
+      0
+    ],
+    "chaCast": [
+      124,
+      155,
+      -3
+    ],
+    "slashRes": 65,
+    "bashRes": -45,
+    "pierceRes": 25,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 210103,
+    "charId": 2101,
+    "name": "アルベルト",
+    "altName": "[聖夜の名誉騎士]",
+    "rarity": "SS",
+    "weaponType": "Sword",
+    "lp": 6,
+    "jutsuList": [
+      55
+    ],
+    "role": 3,
+    "skillRefs": [
+      110100019,
+      125500009,
+      110100005
+    ],
+    "bonusId": 210103,
+    "strCast": [
+      129,
+      180,
+      -2
+    ],
+    "conCast": [
+      125,
+      164,
+      -1
+    ],
+    "dexCast": [
+      108,
+      135,
+      0
+    ],
+    "spdCast": [
+      112,
+      147,
+      0
+    ],
+    "intCast": [
+      112,
+      147,
+      -1
+    ],
+    "sprCast": [
+      129,
+      170,
+      0
+    ],
+    "loveCast": [
+      125,
+      152,
+      0
+    ],
+    "chaCast": [
+      116,
+      153,
+      3
+    ],
+    "slashRes": 65,
+    "bashRes": -45,
+    "pierceRes": 25,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 210201,
+    "charId": 2102,
+    "name": "ジャミル",
+    "altName": "[疾風の盗賊]",
+    "rarity": "A",
+    "weaponType": "Shortsword",
+    "lp": 4,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110700012,
+      110700017,
+      110700001
+    ],
+    "bonusId": 210201,
+    "strCast": [
+      104,
+      135,
+      -6
+    ],
+    "conCast": [
+      104,
+      135,
+      2
+    ],
+    "dexCast": [
+      104,
+      135,
+      6
+    ],
+    "spdCast": [
+      115,
+      149,
+      1
+    ],
+    "intCast": [
+      97,
+      126,
+      0
+    ],
+    "sprCast": [
+      93,
+      121,
+      -1
+    ],
+    "loveCast": [
+      90,
+      117,
+      0
+    ],
+    "chaCast": [
+      90,
+      117,
+      -2
+    ],
+    "slashRes": -65,
+    "bashRes": -25,
+    "pierceRes": 25,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 210202,
+    "charId": 2102,
+    "name": "ジャミル",
+    "altName": "[怪盗参上！]",
+    "rarity": "S",
+    "weaponType": "Shortsword",
+    "lp": 5,
+    "jutsuList": [
+      54
+    ],
+    "role": 4,
+    "skillRefs": [
+      110700016,
+      125400006,
+      110700002
+    ],
+    "bonusId": 210202,
+    "strCast": [
+      102,
+      141,
+      -5
+    ],
+    "conCast": [
+      99,
+      143,
+      -1
+    ],
+    "dexCast": [
+      113,
+      151,
+      3
+    ],
+    "spdCast": [
+      117,
+      154,
+      3
+    ],
+    "intCast": [
+      95,
+      139,
+      0
+    ],
+    "sprCast": [
+      92,
+      126,
+      0
+    ],
+    "loveCast": [
+      99,
+      136,
+      0
+    ],
+    "chaCast": [
+      99,
+      136,
+      0
+    ],
+    "slashRes": -55,
+    "bashRes": 10,
+    "pierceRes": 45,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 210301,
+    "charId": 2103,
+    "name": "グレイ",
+    "altName": "[放浪の冒険者]",
+    "rarity": "S",
+    "weaponType": "Greatsword",
+    "lp": 5,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110200012,
+      110200016,
+      110200014
+    ],
+    "bonusId": 210301,
+    "strCast": [
+      114,
+      156,
+      2
+    ],
+    "conCast": [
+      103,
+      141,
+      -1
+    ],
+    "dexCast": [
+      110,
+      151,
+      3
+    ],
+    "spdCast": [
+      110,
+      151,
+      0
+    ],
+    "intCast": [
+      96,
+      131,
+      -3
+    ],
+    "sprCast": [
+      103,
+      141,
+      -1
+    ],
+    "loveCast": [
+      85,
+      117,
+      0
+    ],
+    "chaCast": [
+      96,
+      131,
+      0
+    ],
+    "slashRes": 45,
+    "bashRes": -55,
+    "pierceRes": 10,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 210302,
+    "charId": 2103,
+    "name": "グレイ",
+    "altName": "[剣の真実を求める者]",
+    "rarity": "SS",
+    "weaponType": "Greatsword",
+    "lp": 6,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110200027,
+      110200018,
+      110200007
+    ],
+    "bonusId": 210302,
+    "strCast": [
+      138,
+      172,
+      2
+    ],
+    "conCast": [
+      121,
+      158,
+      -1
+    ],
+    "dexCast": [
+      121,
+      151,
+      0
+    ],
+    "spdCast": [
+      142,
+      172,
+      1
+    ],
+    "intCast": [
+      104,
+      130,
+      0
+    ],
+    "sprCast": [
+      116,
+      146,
+      -2
+    ],
+    "loveCast": [
+      95,
+      119,
+      0
+    ],
+    "chaCast": [
+      121,
+      151,
+      -1
+    ],
+    "slashRes": 65,
+    "bashRes": -45,
+    "pierceRes": 25,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 210303,
+    "charId": 2103,
+    "name": "グレイ",
+    "altName": "[酔うのも悪くない]",
+    "rarity": "SS",
+    "weaponType": "Greatsword",
+    "lp": 6,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110200027,
+      110200025,
+      110200021
+    ],
+    "bonusId": 210303,
+    "strCast": [
+      116,
+      164,
+      1
+    ],
+    "conCast": [
+      112,
+      159,
+      -1
+    ],
+    "dexCast": [
+      105,
+      148,
+      1
+    ],
+    "spdCast": [
+      116,
+      164,
+      1
+    ],
+    "intCast": [
+      87,
+      122,
+      0
+    ],
+    "sprCast": [
+      101,
+      143,
+      -1
+    ],
+    "loveCast": [
+      94,
+      133,
+      -1
+    ],
+    "chaCast": [
+      105,
+      148,
+      -1
+    ],
+    "slashRes": 65,
+    "bashRes": -45,
+    "pierceRes": 25,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 210401,
+    "charId": 2104,
+    "name": "ホーク",
+    "altName": "[風を捕まえろ！]",
+    "rarity": "A",
+    "weaponType": "Axe",
+    "lp": 4,
+    "jutsuList": [],
+    "role": 4,
+    "skillRefs": [
+      110300007,
+      110300011,
+      110300014
+    ],
+    "bonusId": 210401,
+    "strCast": [
+      103,
+      135,
+      -1
+    ],
+    "conCast": [
+      110,
+      144,
+      5
+    ],
+    "dexCast": [
+      103,
+      135,
+      3
+    ],
+    "spdCast": [
+      107,
+      139,
+      0
+    ],
+    "intCast": [
+      93,
+      121,
+      0
+    ],
+    "sprCast": [
+      100,
+      130,
+      -7
+    ],
+    "loveCast": [
+      79,
+      103,
+      0
+    ],
+    "chaCast": [
+      100,
+      130,
+      0
+    ],
+    "slashRes": 25,
+    "bashRes": -65,
+    "pierceRes": -25,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 210402,
+    "charId": 2104,
+    "name": "ホーク",
+    "altName": "[キャプテンホークだ！]",
+    "rarity": "S",
+    "weaponType": "Axe",
+    "lp": 5,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110300006,
+      110300008,
+      110300013
+    ],
+    "bonusId": 210402,
+    "strCast": [
+      113,
+      155,
+      -2
+    ],
+    "conCast": [
+      109,
+      150,
+      0
+    ],
+    "dexCast": [
+      109,
+      150,
+      4
+    ],
+    "spdCast": [
+      106,
+      145,
+      1
+    ],
+    "intCast": [
+      84,
+      116,
+      0
+    ],
+    "sprCast": [
+      95,
+      130,
+      -1
+    ],
+    "loveCast": [
+      102,
+      140,
+      -1
+    ],
+    "chaCast": [
+      98,
+      135,
+      -1
+    ],
+    "slashRes": 45,
+    "bashRes": -55,
+    "pierceRes": 10,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 210501,
+    "charId": 2105,
+    "name": "アイシャ",
+    "altName": "[冬枯れは春の準備よ]",
+    "rarity": "S",
+    "weaponType": "Axe",
+    "lp": 5,
+    "jutsuList": [
+      53
+    ],
+    "role": 4,
+    "skillRefs": [
+      110300005,
+      125300003,
+      110300013
+    ],
+    "bonusId": 210501,
+    "strCast": [
+      113,
+      156,
+      3
+    ],
+    "conCast": [
+      95,
+      131,
+      -3
+    ],
+    "dexCast": [
+      106,
+      146,
+      0
+    ],
+    "spdCast": [
+      106,
+      146,
+      3
+    ],
+    "intCast": [
+      92,
+      126,
+      0
+    ],
+    "sprCast": [
+      106,
+      146,
+      -3
+    ],
+    "loveCast": [
+      84,
+      116,
+      0
+    ],
+    "chaCast": [
+      113,
+      156,
+      0
+    ],
+    "slashRes": 45,
+    "bashRes": -55,
+    "pierceRes": 10,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 210502,
+    "charId": 2105,
+    "name": "アイシャ",
+    "altName": "[おいで、蝶々さんたち]",
+    "rarity": "SS",
+    "weaponType": "Axe",
+    "lp": 6,
+    "jutsuList": [
+      53
+    ],
+    "role": 4,
+    "skillRefs": [
+      110300007,
+      125300005,
+      110300001
+    ],
+    "bonusId": 210502,
+    "strCast": [
+      130,
+      172,
+      0
+    ],
+    "conCast": [
+      108,
+      136,
+      2
+    ],
+    "dexCast": [
+      125,
+      147,
+      0
+    ],
+    "spdCast": [
+      134,
+      167,
+      1
+    ],
+    "intCast": [
+      125,
+      162,
+      -1
+    ],
+    "sprCast": [
+      121,
+      146,
+      -1
+    ],
+    "loveCast": [
+      100,
+      125,
+      0
+    ],
+    "chaCast": [
+      113,
+      141,
+      -2
+    ],
+    "slashRes": 65,
+    "bashRes": -45,
+    "pierceRes": 25,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 210601,
+    "charId": 2106,
+    "name": "クローディア",
+    "altName": "[森の守護者]",
+    "rarity": "A",
+    "weaponType": "Bow",
+    "lp": 4,
+    "jutsuList": [],
+    "role": 4,
+    "skillRefs": [
+      110900013,
+      110900009,
+      110900008
+    ],
+    "bonusId": 210601,
+    "strCast": [
+      100,
+      131,
+      -6
+    ],
+    "conCast": [
+      90,
+      117,
+      2
+    ],
+    "dexCast": [
+      111,
+      144,
+      6
+    ],
+    "spdCast": [
+      111,
+      144,
+      1
+    ],
+    "intCast": [
+      104,
+      135,
+      0
+    ],
+    "sprCast": [
+      97,
+      126,
+      -1
+    ],
+    "loveCast": [
+      90,
+      117,
+      0
+    ],
+    "chaCast": [
+      93,
+      121,
+      -2
+    ],
+    "slashRes": -65,
+    "bashRes": -25,
+    "pierceRes": 25,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 210602,
+    "charId": 2106,
+    "name": "クローディア",
+    "altName": "[心を射貫く者]",
+    "rarity": "S",
+    "weaponType": "Bow",
+    "lp": 5,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110900007,
+      110900012,
+      110900003
+    ],
+    "bonusId": 210602,
+    "strCast": [
+      103,
+      141,
+      -1
+    ],
+    "conCast": [
+      88,
+      122,
+      -1
+    ],
+    "dexCast": [
+      117,
+      161,
+      3
+    ],
+    "spdCast": [
+      110,
+      151,
+      0
+    ],
+    "intCast": [
+      114,
+      156,
+      0
+    ],
+    "sprCast": [
+      99,
+      136,
+      -1
+    ],
+    "loveCast": [
+      85,
+      117,
+      -3
+    ],
+    "chaCast": [
+      99,
+      136,
+      3
+    ],
+    "slashRes": -55,
+    "bashRes": 10,
+    "pierceRes": 45,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 210701,
+    "charId": 2107,
+    "name": "バーバラ",
+    "altName": "[情熱のダンサー]",
+    "rarity": "S",
+    "weaponType": "Spear",
+    "lp": 5,
+    "jutsuList": [
+      56
+    ],
+    "role": 4,
+    "skillRefs": [
+      110800008,
+      125600004,
+      110800001
+    ],
+    "bonusId": 210701,
+    "strCast": [
+      117,
+      161,
+      4
+    ],
+    "conCast": [
+      95,
+      131,
+      0
+    ],
+    "dexCast": [
+      110,
+      151,
+      1
+    ],
+    "spdCast": [
+      102,
+      141,
+      1
+    ],
+    "intCast": [
+      92,
+      126,
+      -3
+    ],
+    "sprCast": [
+      102,
+      141,
+      -1
+    ],
+    "loveCast": [
+      95,
+      131,
+      -1
+    ],
+    "chaCast": [
+      102,
+      141,
+      -1
+    ],
+    "slashRes": -55,
+    "bashRes": 10,
+    "pierceRes": 45,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 210702,
+    "charId": 2107,
+    "name": "バーバラ",
+    "altName": "[私の薔薇を受け止めて]",
+    "rarity": "SS",
+    "weaponType": "Spear",
+    "lp": 6,
+    "jutsuList": [
+      56
+    ],
+    "role": 4,
+    "skillRefs": [
+      110800009,
+      110800013,
+      110800005
+    ],
+    "bonusId": 210702,
+    "strCast": [
+      133,
+      162,
+      2
+    ],
+    "conCast": [
+      104,
+      142,
+      -1
+    ],
+    "dexCast": [
+      129,
+      161,
+      0
+    ],
+    "spdCast": [
+      138,
+      172,
+      1
+    ],
+    "intCast": [
+      112,
+      140,
+      0
+    ],
+    "sprCast": [
+      121,
+      151,
+      -2
+    ],
+    "loveCast": [
+      95,
+      119,
+      0
+    ],
+    "chaCast": [
+      125,
+      156,
+      -1
+    ],
+    "slashRes": -45,
+    "bashRes": 25,
+    "pierceRes": 65,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 210703,
+    "charId": 2107,
+    "name": "バーバラ",
+    "altName": "[木の葉を舞い踊らせよ]",
+    "rarity": "A",
+    "weaponType": "Spear",
+    "lp": 4,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110800019,
+      110800014,
+      110800021
+    ],
+    "bonusId": 210703,
+    "strCast": [
+      107,
+      139,
+      1
+    ],
+    "conCast": [
+      103,
+      134,
+      6
+    ],
+    "dexCast": [
+      103,
+      134,
+      1
+    ],
+    "spdCast": [
+      100,
+      130,
+      1
+    ],
+    "intCast": [
+      89,
+      116,
+      0
+    ],
+    "sprCast": [
+      100,
+      130,
+      -7
+    ],
+    "loveCast": [
+      89,
+      116,
+      -1
+    ],
+    "chaCast": [
+      107,
+      139,
+      -1
+    ],
+    "slashRes": -65,
+    "bashRes": -25,
+    "pierceRes": 25,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 210801,
+    "charId": 2108,
+    "name": "シフ",
+    "altName": "[あんたじゃ役不足だ]",
+    "rarity": "A",
+    "weaponType": "Axe",
+    "lp": 4,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110300007,
+      110300008,
+      110300014
+    ],
+    "bonusId": 210801,
+    "strCast": [
+      107,
+      139,
+      1
+    ],
+    "conCast": [
+      103,
+      134,
+      6
+    ],
+    "dexCast": [
+      103,
+      134,
+      1
+    ],
+    "spdCast": [
+      100,
+      130,
+      1
+    ],
+    "intCast": [
+      89,
+      116,
+      0
+    ],
+    "sprCast": [
+      100,
+      130,
+      -7
+    ],
+    "loveCast": [
+      89,
+      116,
+      -1
+    ],
+    "chaCast": [
+      107,
+      139,
+      -1
+    ],
+    "slashRes": 25,
+    "bashRes": -65,
+    "pierceRes": -25,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 210802,
+    "charId": 2108,
+    "name": "シフ",
+    "altName": "[バルハル族の舞い]",
+    "rarity": "SS",
+    "weaponType": "Axe",
+    "lp": 6,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110300005,
+      110300014,
+      110300002
+    ],
+    "bonusId": 210802,
+    "strCast": [
+      134,
+      169,
+      0
+    ],
+    "conCast": [
+      117,
+      153,
+      1
+    ],
+    "dexCast": [
+      121,
+      146,
+      1
+    ],
+    "spdCast": [
+      117,
+      141,
+      1
+    ],
+    "intCast": [
+      108,
+      136,
+      -1
+    ],
+    "sprCast": [
+      125,
+      157,
+      -1
+    ],
+    "loveCast": [
+      108,
+      136,
+      -1
+    ],
+    "chaCast": [
+      125,
+      157,
+      -1
+    ],
+    "slashRes": 65,
+    "bashRes": -45,
+    "pierceRes": 25,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 211101,
+    "charId": 2111,
+    "name": "ディアナ",
+    "altName": "[幸せを待つ日々]",
+    "rarity": "A",
+    "weaponType": "Shortsword",
+    "lp": 4,
+    "jutsuList": [],
+    "role": 2,
+    "skillRefs": [
+      110700010,
+      110700015,
+      110700005
+    ],
+    "bonusId": 211101,
+    "strCast": [
+      100,
+      130,
+      -6
+    ],
+    "conCast": [
+      100,
+      130,
+      3
+    ],
+    "dexCast": [
+      107,
+      139,
+      6
+    ],
+    "spdCast": [
+      89,
+      116,
+      0
+    ],
+    "intCast": [
+      89,
+      116,
+      0
+    ],
+    "sprCast": [
+      107,
+      139,
+      0
+    ],
+    "loveCast": [
+      100,
+      130,
+      0
+    ],
+    "chaCast": [
+      107,
+      139,
+      -3
+    ],
+    "slashRes": -65,
+    "bashRes": -25,
+    "pierceRes": 25,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 211102,
+    "charId": 2111,
+    "name": "ディアナ",
+    "altName": "[薔薇騎士の旋風]",
+    "rarity": "S",
+    "weaponType": "Shortsword",
+    "lp": 5,
+    "jutsuList": [],
+    "role": 4,
+    "skillRefs": [
+      110700016,
+      110700007,
+      110700019
+    ],
+    "bonusId": 211102,
+    "strCast": [
+      103,
+      142,
+      0
+    ],
+    "conCast": [
+      92,
+      127,
+      -1
+    ],
+    "dexCast": [
+      107,
+      147,
+      0
+    ],
+    "spdCast": [
+      122,
+      167,
+      4
+    ],
+    "intCast": [
+      107,
+      147,
+      0
+    ],
+    "sprCast": [
+      103,
+      142,
+      -1
+    ],
+    "loveCast": [
+      82,
+      112,
+      0
+    ],
+    "chaCast": [
+      100,
+      137,
+      -2
+    ],
+    "slashRes": -55,
+    "bashRes": 10,
+    "pierceRes": 45,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 211401,
+    "charId": 2114,
+    "name": "ミリアム",
+    "altName": "[火術士の真実]",
+    "rarity": "S",
+    "weaponType": "Staff",
+    "lp": 5,
+    "jutsuList": [
+      51
+    ],
+    "role": 4,
+    "skillRefs": [
+      125100004,
+      125100008,
+      125100001
+    ],
+    "bonusId": 211401,
+    "strCast": [
+      92,
+      126,
+      -3
+    ],
+    "conCast": [
+      85,
+      117,
+      -3
+    ],
+    "dexCast": [
+      114,
+      156,
+      0
+    ],
+    "spdCast": [
+      103,
+      141,
+      3
+    ],
+    "intCast": [
+      114,
+      156,
+      3
+    ],
+    "sprCast": [
+      114,
+      156,
+      0
+    ],
+    "loveCast": [
+      92,
+      126,
+      0
+    ],
+    "chaCast": [
+      103,
+      141,
+      0
+    ],
+    "slashRes": 10,
+    "bashRes": 45,
+    "pierceRes": -55,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 211502,
+    "charId": 2115,
+    "name": "ゲラ＝ハ",
+    "altName": "[どこへ向かいますか？]",
+    "rarity": "S",
+    "weaponType": "Spear",
+    "lp": 5,
+    "jutsuList": [],
+    "role": 4,
+    "skillRefs": [
+      110800008,
+      110800021,
+      110800002
+    ],
+    "bonusId": 211502,
+    "strCast": [
+      111,
+      152,
+      0
+    ],
+    "conCast": [
+      114,
+      157,
+      1
+    ],
+    "dexCast": [
+      96,
+      132,
+      1
+    ],
+    "spdCast": [
+      107,
+      147,
+      1
+    ],
+    "intCast": [
+      96,
+      132,
+      0
+    ],
+    "sprCast": [
+      96,
+      132,
+      -1
+    ],
+    "loveCast": [
+      92,
+      127,
+      -4
+    ],
+    "chaCast": [
+      103,
+      142,
+      2
+    ],
+    "slashRes": -55,
+    "bashRes": 10,
+    "pierceRes": 45,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 220101,
+    "charId": 2201,
+    "name": "レオン",
+    "altName": "[私は何者なのだ]",
+    "rarity": "S",
+    "weaponType": "Sword",
+    "lp": 5,
+    "jutsuList": [
+      55
+    ],
+    "role": 1,
+    "skillRefs": [
+      125500005,
+      110100023,
+      110100003
+    ],
+    "bonusId": 220101,
+    "strCast": [
+      107,
+      147,
+      0
+    ],
+    "conCast": [
+      114,
+      157,
+      1
+    ],
+    "dexCast": [
+      100,
+      137,
+      0
+    ],
+    "spdCast": [
+      111,
+      152,
+      0
+    ],
+    "intCast": [
+      107,
+      153,
+      0
+    ],
+    "sprCast": [
+      103,
+      142,
+      1
+    ],
+    "loveCast": [
+      85,
+      117,
+      -5
+    ],
+    "chaCast": [
+      89,
+      122,
+      1
+    ],
+    "slashRes": 45,
+    "bashRes": -55,
+    "pierceRes": 10,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 220201,
+    "charId": 2202,
+    "name": "ジェラール",
+    "altName": "[これは寝間着じゃない]",
+    "rarity": "S",
+    "weaponType": "Sword",
+    "lp": 5,
+    "jutsuList": [
+      55
+    ],
+    "role": 2,
+    "skillRefs": [
+      110100018,
+      125500007,
+      110100002
+    ],
+    "bonusId": 220201,
+    "strCast": [
+      99,
+      136,
+      0
+    ],
+    "conCast": [
+      117,
+      161,
+      3
+    ],
+    "dexCast": [
+      95,
+      131,
+      0
+    ],
+    "spdCast": [
+      92,
+      126,
+      0
+    ],
+    "intCast": [
+      92,
+      126,
+      0
+    ],
+    "sprCast": [
+      113,
+      156,
+      0
+    ],
+    "loveCast": [
+      106,
+      146,
+      3
+    ],
+    "chaCast": [
+      102,
+      141,
+      -6
+    ],
+    "slashRes": 45,
+    "bashRes": -55,
+    "pierceRes": 10,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 220202,
+    "charId": 2202,
+    "name": "ジェラール",
+    "altName": "[受け継ぐ者の決意]",
+    "rarity": "SS",
+    "weaponType": "Sword",
+    "lp": 6,
+    "jutsuList": [
+      55
+    ],
+    "role": 2,
+    "skillRefs": [
+      110100022,
+      110100020,
+      110100003
+    ],
+    "bonusId": 220202,
+    "strCast": [
+      124,
+      155,
+      0
+    ],
+    "conCast": [
+      149,
+      186,
+      3
+    ],
+    "dexCast": [
+      107,
+      134,
+      0
+    ],
+    "spdCast": [
+      111,
+      139,
+      0
+    ],
+    "intCast": [
+      99,
+      123,
+      0
+    ],
+    "sprCast": [
+      128,
+      160,
+      -1
+    ],
+    "loveCast": [
+      107,
+      134,
+      0
+    ],
+    "chaCast": [
+      132,
+      165,
+      -3
+    ],
+    "slashRes": 65,
+    "bashRes": -45,
+    "pierceRes": 25,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 220601,
+    "charId": 2206,
+    "name": "ヴィクトール",
+    "altName": "[これが流し斬りだ！]",
+    "rarity": "A",
+    "weaponType": "Greatsword",
+    "lp": 4,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110200012,
+      110200016,
+      110200026
+    ],
+    "bonusId": 220601,
+    "strCast": [
+      107,
+      139,
+      3
+    ],
+    "conCast": [
+      107,
+      139,
+      0
+    ],
+    "dexCast": [
+      96,
+      126,
+      0
+    ],
+    "spdCast": [
+      96,
+      126,
+      0
+    ],
+    "intCast": [
+      89,
+      116,
+      0
+    ],
+    "sprCast": [
+      103,
+      135,
+      -3
+    ],
+    "loveCast": [
+      96,
+      126,
+      6
+    ],
+    "chaCast": [
+      100,
+      130,
+      -6
+    ],
+    "slashRes": 25,
+    "bashRes": -65,
+    "pierceRes": -25,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 220602,
+    "charId": 2206,
+    "name": "ヴィクトール",
+    "altName": "[卑怯者めが！]",
+    "rarity": "S",
+    "weaponType": "Greatsword",
+    "lp": 5,
+    "jutsuList": [],
+    "role": 4,
+    "skillRefs": [
+      110200017,
+      110200016,
+      110200020
+    ],
+    "bonusId": 220602,
+    "strCast": [
+      120,
+      165,
+      4
+    ],
+    "conCast": [
+      110,
+      151,
+      0
+    ],
+    "dexCast": [
+      102,
+      141,
+      1
+    ],
+    "spdCast": [
+      106,
+      146,
+      1
+    ],
+    "intCast": [
+      84,
+      116,
+      -3
+    ],
+    "sprCast": [
+      99,
+      136,
+      -1
+    ],
+    "loveCast": [
+      95,
+      131,
+      -1
+    ],
+    "chaCast": [
+      99,
+      136,
+      -1
+    ],
+    "slashRes": 45,
+    "bashRes": -55,
+    "pierceRes": 10,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 221111,
+    "charId": 2211,
+    "name": "ジェイムズ",
+    "altName": "[アバロンは私が守る]",
+    "rarity": "A",
+    "weaponType": "Greatsword",
+    "lp": 4,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110200012,
+      110200016,
+      110200025
+    ],
+    "bonusId": 221111,
+    "strCast": [
+      103,
+      135,
+      1
+    ],
+    "conCast": [
+      107,
+      139,
+      0
+    ],
+    "dexCast": [
+      100,
+      130,
+      1
+    ],
+    "spdCast": [
+      100,
+      130,
+      1
+    ],
+    "intCast": [
+      89,
+      116,
+      0
+    ],
+    "sprCast": [
+      100,
+      130,
+      -1
+    ],
+    "loveCast": [
+      103,
+      135,
+      5
+    ],
+    "chaCast": [
+      93,
+      121,
+      -7
+    ],
+    "slashRes": 25,
+    "bashRes": -65,
+    "pierceRes": -25,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 221211,
+    "charId": 2212,
+    "name": "ライーザ",
+    "altName": "[軽装を甘くみないでね]",
+    "rarity": "A",
+    "weaponType": "Shortsword",
+    "lp": 4,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110700012,
+      110700013,
+      110700018
+    ],
+    "bonusId": 221211,
+    "strCast": [
+      100,
+      130,
+      -1
+    ],
+    "conCast": [
+      96,
+      126,
+      5
+    ],
+    "dexCast": [
+      110,
+      144,
+      3
+    ],
+    "spdCast": [
+      103,
+      135,
+      0
+    ],
+    "intCast": [
+      100,
+      130,
+      0
+    ],
+    "sprCast": [
+      103,
+      135,
+      -7
+    ],
+    "loveCast": [
+      79,
+      103,
+      0
+    ],
+    "chaCast": [
+      103,
+      135,
+      0
+    ],
+    "slashRes": -65,
+    "bashRes": -25,
+    "pierceRes": 25,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 221411,
+    "charId": 2214,
+    "name": "テレーズ",
+    "altName": "[狙いは絶対外さない]",
+    "rarity": "A",
+    "weaponType": "Bow",
+    "lp": 4,
+    "jutsuList": [],
+    "role": 4,
+    "skillRefs": [
+      110900007,
+      110900011,
+      110900003
+    ],
+    "bonusId": 221411,
+    "strCast": [
+      90,
+      117,
+      -2
+    ],
+    "conCast": [
+      86,
+      112,
+      -7
+    ],
+    "dexCast": [
+      104,
+      135,
+      0
+    ],
+    "spdCast": [
+      100,
+      131,
+      6
+    ],
+    "intCast": [
+      107,
+      140,
+      0
+    ],
+    "sprCast": [
+      111,
+      144,
+      0
+    ],
+    "loveCast": [
+      100,
+      131,
+      3
+    ],
+    "chaCast": [
+      97,
+      126,
+      0
+    ],
+    "slashRes": -65,
+    "bashRes": -25,
+    "pierceRes": 25,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 221611,
+    "charId": 2216,
+    "name": "エメラルド",
+    "altName": "[火術乙女]",
+    "rarity": "A",
+    "weaponType": "Staff",
+    "lp": 4,
+    "jutsuList": [
+      51
+    ],
+    "role": 4,
+    "skillRefs": [
+      125100004,
+      125100008,
+      125100009
+    ],
+    "bonusId": 221611,
+    "strCast": [
+      101,
+      131,
+      0
+    ],
+    "conCast": [
+      90,
+      117,
+      2
+    ],
+    "dexCast": [
+      104,
+      136,
+      0
+    ],
+    "spdCast": [
+      115,
+      150,
+      1
+    ],
+    "intCast": [
+      115,
+      150,
+      0
+    ],
+    "sprCast": [
+      94,
+      122,
+      -1
+    ],
+    "loveCast": [
+      83,
+      108,
+      -6
+    ],
+    "chaCast": [
+      94,
+      122,
+      4
+    ],
+    "slashRes": -25,
+    "bashRes": 25,
+    "pierceRes": -65,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 221612,
+    "charId": 2216,
+    "name": "エメラルド",
+    "altName": "[火の奥義を目指して]",
+    "rarity": "SS",
+    "weaponType": "Staff",
+    "lp": 6,
+    "jutsuList": [
+      51
+    ],
+    "role": 3,
+    "skillRefs": [
+      125100006,
+      125100007,
+      125100001
+    ],
+    "bonusId": 221612,
+    "strCast": [
+      99,
+      124,
+      -3
+    ],
+    "conCast": [
+      99,
+      124,
+      0
+    ],
+    "dexCast": [
+      133,
+      167,
+      0
+    ],
+    "spdCast": [
+      108,
+      135,
+      0
+    ],
+    "intCast": [
+      142,
+      177,
+      3
+    ],
+    "sprCast": [
+      138,
+      172,
+      0
+    ],
+    "loveCast": [
+      125,
+      156,
+      0
+    ],
+    "chaCast": [
+      112,
+      140,
+      -1
+    ],
+    "slashRes": 25,
+    "bashRes": 65,
+    "pierceRes": -45,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 221613,
+    "charId": 2216,
+    "name": "エメラルド",
+    "altName": "[期待していいのよ]",
+    "rarity": "S",
+    "weaponType": "Staff",
+    "lp": 5,
+    "jutsuList": [
+      51
+    ],
+    "role": 1,
+    "skillRefs": [
+      125100004,
+      125100008,
+      125100001
+    ],
+    "bonusId": 221613,
+    "strCast": [
+      88,
+      121,
+      -1
+    ],
+    "conCast": [
+      88,
+      121,
+      -4
+    ],
+    "dexCast": [
+      102,
+      141,
+      -1
+    ],
+    "spdCast": [
+      99,
+      136,
+      0
+    ],
+    "intCast": [
+      113,
+      156,
+      1
+    ],
+    "sprCast": [
+      120,
+      165,
+      4
+    ],
+    "loveCast": [
+      99,
+      136,
+      1
+    ],
+    "chaCast": [
+      106,
+      146,
+      0
+    ],
+    "slashRes": 10,
+    "bashRes": 45,
+    "pierceRes": -55,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 221711,
+    "charId": 2217,
+    "name": "ヘクター",
+    "altName": "[傭兵だ、好きにやる]",
+    "rarity": "SS",
+    "weaponType": "Greatsword",
+    "lp": 6,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110200012,
+      110200014,
+      110200011
+    ],
+    "bonusId": 221711,
+    "strCast": [
+      116,
+      163,
+      1
+    ],
+    "conCast": [
+      123,
+      174,
+      0
+    ],
+    "dexCast": [
+      101,
+      143,
+      1
+    ],
+    "spdCast": [
+      108,
+      153,
+      1
+    ],
+    "intCast": [
+      86,
+      122,
+      0
+    ],
+    "sprCast": [
+      101,
+      143,
+      -2
+    ],
+    "loveCast": [
+      93,
+      132,
+      -1
+    ],
+    "chaCast": [
+      108,
+      153,
+      -1
+    ],
+    "slashRes": 65,
+    "bashRes": -45,
+    "pierceRes": 25,
+    "heatRes": 45,
+    "coldRes": -45,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 221712,
+    "charId": 2217,
+    "name": "ヘクター",
+    "altName": "[獅子頭でツーショット]",
+    "rarity": "SS",
+    "weaponType": "Greatsword",
+    "lp": 6,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110200017,
+      110200026,
+      110200003
+    ],
+    "bonusId": 221712,
+    "strCast": [
+      137,
+      180,
+      3
+    ],
+    "conCast": [
+      128,
+      169,
+      -1
+    ],
+    "dexCast": [
+      116,
+      152,
+      0
+    ],
+    "spdCast": [
+      128,
+      169,
+      0
+    ],
+    "intCast": [
+      99,
+      130,
+      0
+    ],
+    "sprCast": [
+      120,
+      158,
+      -3
+    ],
+    "loveCast": [
+      99,
+      130,
+      0
+    ],
+    "chaCast": [
+      128,
+      169,
+      0
+    ],
+    "slashRes": 65,
+    "bashRes": -45,
+    "pierceRes": 25,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 221721,
+    "charId": 2217,
+    "name": "オライオン",
+    "altName": "[俺が世界を変えてやる]",
+    "rarity": "A",
+    "weaponType": "Greatsword",
+    "lp": 4,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110200027,
+      110200016,
+      110200025
+    ],
+    "bonusId": 221721,
+    "strCast": [
+      101,
+      131,
+      0
+    ],
+    "conCast": [
+      111,
+      145,
+      1
+    ],
+    "dexCast": [
+      94,
+      122,
+      1
+    ],
+    "spdCast": [
+      97,
+      127,
+      1
+    ],
+    "intCast": [
+      90,
+      117,
+      0
+    ],
+    "sprCast": [
+      104,
+      136,
+      -1
+    ],
+    "loveCast": [
+      101,
+      131,
+      5
+    ],
+    "chaCast": [
+      97,
+      127,
+      -7
+    ],
+    "slashRes": 25,
+    "bashRes": -65,
+    "pierceRes": -25,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 221811,
+    "charId": 2218,
+    "name": "アンドロマケー",
+    "altName": "[我が力、思い知れ]",
+    "rarity": "S",
+    "weaponType": "Spear",
+    "lp": 5,
+    "jutsuList": [],
+    "role": 2,
+    "skillRefs": [
+      110800009,
+      110800013,
+      110800002
+    ],
+    "bonusId": 221811,
+    "strCast": [
+      110,
+      151,
+      3
+    ],
+    "conCast": [
+      102,
+      141,
+      3
+    ],
+    "dexCast": [
+      102,
+      141,
+      0
+    ],
+    "spdCast": [
+      92,
+      126,
+      0
+    ],
+    "intCast": [
+      92,
+      126,
+      -3
+    ],
+    "sprCast": [
+      113,
+      156,
+      0
+    ],
+    "loveCast": [
+      95,
+      131,
+      0
+    ],
+    "chaCast": [
+      110,
+      151,
+      -3
+    ],
+    "slashRes": -55,
+    "bashRes": 10,
+    "pierceRes": 45,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 222111,
+    "charId": 2221,
+    "name": "ワレンシュタイン",
+    "altName": "[皇帝陛下は私が護る]",
+    "rarity": "S",
+    "weaponType": "Spear",
+    "lp": 5,
+    "jutsuList": [],
+    "role": 2,
+    "skillRefs": [
+      110800008,
+      110800016,
+      110800002
+    ],
+    "bonusId": 222111,
+    "strCast": [
+      99,
+      136,
+      0
+    ],
+    "conCast": [
+      117,
+      161,
+      3
+    ],
+    "dexCast": [
+      95,
+      131,
+      0
+    ],
+    "spdCast": [
+      92,
+      126,
+      0
+    ],
+    "intCast": [
+      92,
+      126,
+      0
+    ],
+    "sprCast": [
+      113,
+      156,
+      0
+    ],
+    "loveCast": [
+      106,
+      146,
+      3
+    ],
+    "chaCast": [
+      102,
+      141,
+      -6
+    ],
+    "slashRes": -55,
+    "bashRes": 10,
+    "pierceRes": 45,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 222211,
+    "charId": 2222,
+    "name": "ミネルバ",
+    "altName": "[触れれば死を与えよう]",
+    "rarity": "A",
+    "weaponType": "Spear",
+    "lp": 4,
+    "jutsuList": [],
+    "role": 2,
+    "skillRefs": [
+      110800007,
+      110800014,
+      110800018
+    ],
+    "bonusId": 222211,
+    "strCast": [
+      101,
+      131,
+      0
+    ],
+    "conCast": [
+      101,
+      131,
+      -5
+    ],
+    "dexCast": [
+      97,
+      127,
+      1
+    ],
+    "spdCast": [
+      94,
+      122,
+      1
+    ],
+    "intCast": [
+      94,
+      122,
+      0
+    ],
+    "sprCast": [
+      111,
+      145,
+      5
+    ],
+    "loveCast": [
+      90,
+      117,
+      -1
+    ],
+    "chaCast": [
+      108,
+      140,
+      -1
+    ],
+    "slashRes": -65,
+    "bashRes": -25,
+    "pierceRes": 25,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 222311,
+    "charId": 2223,
+    "name": "ベア",
+    "altName": "[ここは通さない]",
+    "rarity": "A",
+    "weaponType": "Sword",
+    "lp": 4,
+    "jutsuList": [],
+    "role": 2,
+    "skillRefs": [
+      110100022,
+      110100016,
+      110100012
+    ],
+    "bonusId": 222311,
+    "strCast": [
+      96,
+      126,
+      0
+    ],
+    "conCast": [
+      114,
+      148,
+      3
+    ],
+    "dexCast": [
+      93,
+      121,
+      0
+    ],
+    "spdCast": [
+      89,
+      116,
+      0
+    ],
+    "intCast": [
+      89,
+      116,
+      0
+    ],
+    "sprCast": [
+      110,
+      144,
+      0
+    ],
+    "loveCast": [
+      103,
+      135,
+      6
+    ],
+    "chaCast": [
+      100,
+      130,
+      -9
+    ],
+    "slashRes": 25,
+    "bashRes": -65,
+    "pierceRes": -25,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 222511,
+    "charId": 2225,
+    "name": "ジュウベイ",
+    "altName": "[常在戦場の心構え]",
+    "rarity": "S",
+    "weaponType": "Greatsword",
+    "lp": 5,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110200027,
+      110200025,
+      110200020
+    ],
+    "bonusId": 222511,
+    "strCast": [
+      117,
+      161,
+      2
+    ],
+    "conCast": [
+      103,
+      141,
+      0
+    ],
+    "dexCast": [
+      103,
+      141,
+      0
+    ],
+    "spdCast": [
+      117,
+      161,
+      1
+    ],
+    "intCast": [
+      99,
+      136,
+      0
+    ],
+    "sprCast": [
+      92,
+      126,
+      -2
+    ],
+    "loveCast": [
+      85,
+      117,
+      -3
+    ],
+    "chaCast": [
+      99,
+      136,
+      2
+    ],
+    "slashRes": 45,
+    "bashRes": -55,
+    "pierceRes": 10,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 222581,
+    "charId": 2225,
+    "name": "ソウジ",
+    "altName": "[ただ一つの命を懸けて]",
+    "rarity": "A",
+    "weaponType": "Greatsword",
+    "lp": 1,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110200017,
+      110200016,
+      110200014
+    ],
+    "bonusId": 222581,
+    "strCast": [
+      115,
+      154,
+      2
+    ],
+    "conCast": [
+      100,
+      121,
+      -6
+    ],
+    "dexCast": [
+      100,
+      146,
+      0
+    ],
+    "spdCast": [
+      118,
+      159,
+      7
+    ],
+    "intCast": [
+      86,
+      107,
+      0
+    ],
+    "sprCast": [
+      97,
+      116,
+      -2
+    ],
+    "loveCast": [
+      79,
+      103,
+      0
+    ],
+    "chaCast": [
+      100,
+      131,
+      -1
+    ],
+    "slashRes": 25,
+    "bashRes": -65,
+    "pierceRes": -25,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 222711,
+    "charId": 2227,
+    "name": "ジャンヌ",
+    "altName": "[男どもよ、去れ！]",
+    "rarity": "S",
+    "weaponType": "Spear",
+    "lp": 5,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110800007,
+      110800021,
+      110800002
+    ],
+    "bonusId": 222711,
+    "strCast": [
+      114,
+      156,
+      2
+    ],
+    "conCast": [
+      88,
+      122,
+      -3
+    ],
+    "dexCast": [
+      110,
+      151,
+      0
+    ],
+    "spdCast": [
+      117,
+      161,
+      4
+    ],
+    "intCast": [
+      96,
+      131,
+      0
+    ],
+    "sprCast": [
+      103,
+      141,
+      -2
+    ],
+    "loveCast": [
+      81,
+      112,
+      0
+    ],
+    "chaCast": [
+      107,
+      146,
+      -1
+    ],
+    "slashRes": -55,
+    "bashRes": 10,
+    "pierceRes": 45,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 223111,
+    "charId": 2231,
+    "name": "ゲオルグ",
+    "altName": "[聖なる剣、受けてみよ]",
+    "rarity": "A",
+    "weaponType": "Sword",
+    "lp": 4,
+    "jutsuList": [
+      55
+    ],
+    "role": 2,
+    "skillRefs": [
+      110100022,
+      125500007,
+      110100002
+    ],
+    "bonusId": 223111,
+    "strCast": [
+      108,
+      140,
+      0
+    ],
+    "conCast": [
+      111,
+      145,
+      1
+    ],
+    "dexCast": [
+      94,
+      122,
+      1
+    ],
+    "spdCast": [
+      104,
+      136,
+      1
+    ],
+    "intCast": [
+      94,
+      122,
+      0
+    ],
+    "sprCast": [
+      94,
+      122,
+      -1
+    ],
+    "loveCast": [
+      90,
+      117,
+      -7
+    ],
+    "chaCast": [
+      101,
+      131,
+      5
+    ],
+    "slashRes": 25,
+    "bashRes": -65,
+    "pierceRes": -25,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 223211,
+    "charId": 2232,
+    "name": "ソフィア",
+    "altName": "[この思いが全てに通ず]",
+    "rarity": "SS",
+    "weaponType": "Pole",
+    "lp": 6,
+    "jutsuList": [
+      55
+    ],
+    "role": 3,
+    "skillRefs": [
+      125500006,
+      110400011,
+      110400001
+    ],
+    "bonusId": 223211,
+    "strCast": [
+      120,
+      155,
+      1
+    ],
+    "conCast": [
+      112,
+      150,
+      0
+    ],
+    "dexCast": [
+      128,
+      156,
+      1
+    ],
+    "spdCast": [
+      116,
+      140,
+      1
+    ],
+    "intCast": [
+      116,
+      145,
+      0
+    ],
+    "sprCast": [
+      124,
+      155,
+      -1
+    ],
+    "loveCast": [
+      124,
+      155,
+      -1
+    ],
+    "chaCast": [
+      116,
+      145,
+      -2
+    ],
+    "slashRes": 25,
+    "bashRes": 65,
+    "pierceRes": -45,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 223212,
+    "charId": 2232,
+    "name": "ソフィア",
+    "altName": "[聖騎士の正装です]",
+    "rarity": "S",
+    "weaponType": "Pole",
+    "lp": 5,
+    "jutsuList": [
+      55
+    ],
+    "role": 1,
+    "skillRefs": [
+      125500005,
+      110400009,
+      110400005
+    ],
+    "bonusId": 223212,
+    "strCast": [
+      117,
+      161,
+      4
+    ],
+    "conCast": [
+      95,
+      131,
+      0
+    ],
+    "dexCast": [
+      110,
+      151,
+      1
+    ],
+    "spdCast": [
+      102,
+      141,
+      1
+    ],
+    "intCast": [
+      92,
+      126,
+      -3
+    ],
+    "sprCast": [
+      102,
+      141,
+      -1
+    ],
+    "loveCast": [
+      95,
+      131,
+      -1
+    ],
+    "chaCast": [
+      102,
+      141,
+      -1
+    ],
+    "slashRes": 10,
+    "bashRes": 45,
+    "pierceRes": -55,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 223221,
+    "charId": 2232,
+    "name": "アガタ",
+    "altName": "[術こそが我が真の力]",
+    "rarity": "A",
+    "weaponType": "Pole",
+    "lp": 4,
+    "jutsuList": [
+      55
+    ],
+    "role": 3,
+    "skillRefs": [
+      125500006,
+      110400010,
+      125500007
+    ],
+    "bonusId": 223221,
+    "strCast": [
+      103,
+      135,
+      1
+    ],
+    "conCast": [
+      96,
+      126,
+      -6
+    ],
+    "dexCast": [
+      103,
+      135,
+      1
+    ],
+    "spdCast": [
+      96,
+      126,
+      1
+    ],
+    "intCast": [
+      93,
+      121,
+      0
+    ],
+    "sprCast": [
+      107,
+      139,
+      5
+    ],
+    "loveCast": [
+      93,
+      121,
+      -1
+    ],
+    "chaCast": [
+      103,
+      135,
+      -1
+    ],
+    "slashRes": -25,
+    "bashRes": 25,
+    "pierceRes": -65,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 223321,
+    "charId": 2233,
+    "name": "マライア",
+    "altName": "[海はわたしの友達]",
+    "rarity": "S",
+    "weaponType": "Spear",
+    "lp": 5,
+    "jutsuList": [
+      52
+    ],
+    "role": 3,
+    "skillRefs": [
+      125200005,
+      110800021,
+      110800001
+    ],
+    "bonusId": 223321,
+    "strCast": [
+      92,
+      126,
+      -2
+    ],
+    "conCast": [
+      92,
+      126,
+      -1
+    ],
+    "dexCast": [
+      99,
+      136,
+      0
+    ],
+    "spdCast": [
+      88,
+      122,
+      0
+    ],
+    "intCast": [
+      110,
+      151,
+      0
+    ],
+    "sprCast": [
+      117,
+      161,
+      0
+    ],
+    "loveCast": [
+      117,
+      161,
+      3
+    ],
+    "chaCast": [
+      99,
+      136,
+      0
+    ],
+    "slashRes": -55,
+    "bashRes": 10,
+    "pierceRes": 45,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 223411,
+    "charId": 2234,
+    "name": "エンリケ",
+    "altName": "[海賊じゃない商船団だ]",
+    "rarity": "A",
+    "weaponType": "Axe",
+    "lp": 4,
+    "jutsuList": [],
+    "role": 4,
+    "skillRefs": [
+      110300005,
+      110300011,
+      110300013
+    ],
+    "bonusId": 223411,
+    "strCast": [
+      107,
+      140,
+      4
+    ],
+    "conCast": [
+      97,
+      126,
+      -1
+    ],
+    "dexCast": [
+      104,
+      135,
+      0
+    ],
+    "spdCast": [
+      115,
+      149,
+      3
+    ],
+    "intCast": [
+      93,
+      121,
+      -6
+    ],
+    "sprCast": [
+      93,
+      121,
+      0
+    ],
+    "loveCast": [
+      90,
+      117,
+      0
+    ],
+    "chaCast": [
+      97,
+      126,
+      0
+    ],
+    "slashRes": 25,
+    "bashRes": -65,
+    "pierceRes": -25,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 223611,
+    "charId": 2236,
+    "name": "カール",
+    "altName": "[修行は岩をも貫く]",
+    "rarity": "A",
+    "weaponType": "Martial Arts",
+    "lp": 4,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110500025,
+      110500011,
+      110500027
+    ],
+    "bonusId": 223611,
+    "strCast": [
+      107,
+      139,
+      1
+    ],
+    "conCast": [
+      110,
+      144,
+      -6
+    ],
+    "dexCast": [
+      96,
+      126,
+      1
+    ],
+    "spdCast": [
+      100,
+      130,
+      1
+    ],
+    "intCast": [
+      86,
+      112,
+      0
+    ],
+    "sprCast": [
+      103,
+      135,
+      5
+    ],
+    "loveCast": [
+      93,
+      121,
+      -1
+    ],
+    "chaCast": [
+      100,
+      130,
+      -1
+    ],
+    "slashRes": -25,
+    "bashRes": 25,
+    "pierceRes": -65,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 223811,
+    "charId": 2238,
+    "name": "キャット",
+    "altName": "[夜は私たちの時間]",
+    "rarity": "A",
+    "weaponType": "Martial Arts",
+    "lp": 4,
+    "jutsuList": [],
+    "role": 4,
+    "skillRefs": [
+      110500013,
+      110500016,
+      110500026
+    ],
+    "bonusId": 223811,
+    "strCast": [
+      100,
+      131,
+      -1
+    ],
+    "conCast": [
+      86,
+      122,
+      -7
+    ],
+    "dexCast": [
+      115,
+      149,
+      3
+    ],
+    "spdCast": [
+      111,
+      140,
+      6
+    ],
+    "intCast": [
+      100,
+      131,
+      0
+    ],
+    "sprCast": [
+      104,
+      135,
+      -1
+    ],
+    "loveCast": [
+      79,
+      103,
+      0
+    ],
+    "chaCast": [
+      100,
+      131,
+      0
+    ],
+    "slashRes": -25,
+    "bashRes": 25,
+    "pierceRes": -65,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 223812,
+    "charId": 2238,
+    "name": "キャット",
+    "altName": "[猫の爪は痛いわよ]",
+    "rarity": "SS",
+    "weaponType": "Martial Arts",
+    "lp": 6,
+    "jutsuList": [],
+    "role": 4,
+    "skillRefs": [
+      110500019,
+      110500021,
+      110500005
+    ],
+    "bonusId": 223812,
+    "strCast": [
+      121,
+      168,
+      -1
+    ],
+    "conCast": [
+      104,
+      141,
+      -2
+    ],
+    "dexCast": [
+      138,
+      177,
+      3
+    ],
+    "spdCast": [
+      133,
+      178,
+      0
+    ],
+    "intCast": [
+      121,
+      158,
+      0
+    ],
+    "sprCast": [
+      125,
+      164,
+      -1
+    ],
+    "loveCast": [
+      95,
+      125,
+      0
+    ],
+    "chaCast": [
+      121,
+      158,
+      0
+    ],
+    "slashRes": 25,
+    "bashRes": 65,
+    "pierceRes": -45,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 223813,
+    "charId": 2238,
+    "name": "キャット",
+    "altName": "[今日だけはプレゼント]",
+    "rarity": "S",
+    "weaponType": "Martial Arts",
+    "lp": 5,
+    "jutsuList": [],
+    "role": 4,
+    "skillRefs": [
+      110500025,
+      110500027,
+      110500004
+    ],
+    "bonusId": 223813,
+    "strCast": [
+      103,
+      142,
+      0
+    ],
+    "conCast": [
+      92,
+      127,
+      -1
+    ],
+    "dexCast": [
+      107,
+      147,
+      0
+    ],
+    "spdCast": [
+      122,
+      167,
+      4
+    ],
+    "intCast": [
+      107,
+      147,
+      0
+    ],
+    "sprCast": [
+      103,
+      142,
+      -1
+    ],
+    "loveCast": [
+      82,
+      112,
+      0
+    ],
+    "chaCast": [
+      100,
+      137,
+      -2
+    ],
+    "slashRes": 10,
+    "bashRes": 45,
+    "pierceRes": -55,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 224011,
+    "charId": 2240,
+    "name": "シエロ",
+    "altName": "[メガネは何のために？]",
+    "rarity": "A",
+    "weaponType": "Shortsword",
+    "lp": 4,
+    "jutsuList": [
+      53
+    ],
+    "role": 4,
+    "skillRefs": [
+      110700016,
+      125300003,
+      110700013
+    ],
+    "bonusId": 224011,
+    "strCast": [
+      104,
+      135,
+      -6
+    ],
+    "conCast": [
+      104,
+      135,
+      2
+    ],
+    "dexCast": [
+      104,
+      135,
+      6
+    ],
+    "spdCast": [
+      115,
+      149,
+      1
+    ],
+    "intCast": [
+      97,
+      126,
+      0
+    ],
+    "sprCast": [
+      93,
+      121,
+      -1
+    ],
+    "loveCast": [
+      90,
+      117,
+      0
+    ],
+    "chaCast": [
+      90,
+      117,
+      -2
+    ],
+    "slashRes": -65,
+    "bashRes": -25,
+    "pierceRes": 25,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 224211,
+    "charId": 2242,
+    "name": "ウィンディ",
+    "altName": "[空はわたしの世界]",
+    "rarity": "S",
+    "weaponType": "Bow",
+    "lp": 5,
+    "jutsuList": [
+      54
+    ],
+    "role": 3,
+    "skillRefs": [
+      125400002,
+      110900009,
+      110900001
+    ],
+    "bonusId": 224211,
+    "strCast": [
+      96,
+      131,
+      -1
+    ],
+    "conCast": [
+      88,
+      122,
+      -1
+    ],
+    "dexCast": [
+      117,
+      161,
+      3
+    ],
+    "spdCast": [
+      103,
+      141,
+      0
+    ],
+    "intCast": [
+      110,
+      151,
+      0
+    ],
+    "sprCast": [
+      110,
+      151,
+      -1
+    ],
+    "loveCast": [
+      96,
+      131,
+      3
+    ],
+    "chaCast": [
+      96,
+      131,
+      -3
+    ],
+    "slashRes": 45,
+    "bashRes": 10,
+    "pierceRes": -55,
+    "heatRes": -55,
+    "coldRes": 40,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 224212,
+    "charId": 2242,
+    "name": "ウィンディ",
+    "altName": "[真っ先に飛んできたよ]",
+    "rarity": "A",
+    "weaponType": "Bow",
+    "lp": 4,
+    "jutsuList": [
+      54
+    ],
+    "role": 3,
+    "skillRefs": [
+      125400002,
+      110900012,
+      125400009
+    ],
+    "bonusId": 224212,
+    "strCast": [
+      100,
+      131,
+      -6
+    ],
+    "conCast": [
+      90,
+      117,
+      2
+    ],
+    "dexCast": [
+      111,
+      144,
+      6
+    ],
+    "spdCast": [
+      111,
+      144,
+      1
+    ],
+    "intCast": [
+      104,
+      135,
+      0
+    ],
+    "sprCast": [
+      97,
+      126,
+      -1
+    ],
+    "loveCast": [
+      90,
+      117,
+      0
+    ],
+    "chaCast": [
+      93,
+      121,
+      -2
+    ],
+    "slashRes": 25,
+    "bashRes": -25,
+    "pierceRes": -65,
+    "heatRes": -65,
+    "coldRes": 35,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 224411,
+    "charId": 2244,
+    "name": "アザミ",
+    "altName": "[身軽な鎧が必要なの]",
+    "rarity": "SS",
+    "weaponType": "Martial Arts",
+    "lp": 6,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110500010,
+      110500027,
+      110500007
+    ],
+    "bonusId": 224411,
+    "strCast": [
+      125,
+      169,
+      -2
+    ],
+    "conCast": [
+      99,
+      136,
+      -1
+    ],
+    "dexCast": [
+      133,
+      175,
+      0
+    ],
+    "spdCast": [
+      133,
+      178,
+      3
+    ],
+    "intCast": [
+      121,
+      154,
+      -1
+    ],
+    "sprCast": [
+      116,
+      153,
+      0
+    ],
+    "loveCast": [
+      108,
+      142,
+      0
+    ],
+    "chaCast": [
+      121,
+      158,
+      0
+    ],
+    "slashRes": 25,
+    "bashRes": 65,
+    "pierceRes": -45,
+    "heatRes": -45,
+    "coldRes": 45,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 224412,
+    "charId": 2244,
+    "name": "アザミ",
+    "altName": "[忍術、受けてみる？]",
+    "rarity": "A",
+    "weaponType": "Martial Arts",
+    "lp": 4,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110500025,
+      110500016,
+      110500026
+    ],
+    "bonusId": 224412,
+    "strCast": [
+      111,
+      144,
+      2
+    ],
+    "conCast": [
+      86,
+      112,
+      0
+    ],
+    "dexCast": [
+      107,
+      140,
+      0
+    ],
+    "spdCast": [
+      111,
+      144,
+      1
+    ],
+    "intCast": [
+      104,
+      135,
+      0
+    ],
+    "sprCast": [
+      93,
+      121,
+      -2
+    ],
+    "loveCast": [
+      83,
+      108,
+      -6
+    ],
+    "chaCast": [
+      100,
+      131,
+      5
+    ],
+    "slashRes": -25,
+    "bashRes": 25,
+    "pierceRes": -65,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 224413,
+    "charId": 2244,
+    "name": "アザミ",
+    "altName": "[体でバッチシお返し]",
+    "rarity": "S",
+    "weaponType": "Martial Arts",
+    "lp": 5,
+    "jutsuList": [],
+    "role": 4,
+    "skillRefs": [
+      110500019,
+      110500021,
+      110500017
+    ],
+    "bonusId": 224413,
+    "strCast": [
+      111,
+      152,
+      3
+    ],
+    "conCast": [
+      92,
+      127,
+      2
+    ],
+    "dexCast": [
+      107,
+      147,
+      0
+    ],
+    "spdCast": [
+      114,
+      157,
+      1
+    ],
+    "intCast": [
+      107,
+      147,
+      -3
+    ],
+    "sprCast": [
+      103,
+      142,
+      -1
+    ],
+    "loveCast": [
+      85,
+      117,
+      0
+    ],
+    "chaCast": [
+      96,
+      132,
+      -2
+    ],
+    "slashRes": 10,
+    "bashRes": 45,
+    "pierceRes": -55,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 228101,
+    "charId": 2281,
+    "name": "ヴァンパイアレディ",
+    "altName": "[人間に見えるかしら？]",
+    "rarity": "A",
+    "weaponType": "Sword",
+    "lp": 4,
+    "jutsuList": [],
+    "role": 4,
+    "skillRefs": [
+      110100017,
+      110100014,
+      110100027
+    ],
+    "bonusId": 228101,
+    "strCast": [
+      110,
+      144,
+      3
+    ],
+    "conCast": [
+      93,
+      121,
+      0
+    ],
+    "dexCast": [
+      103,
+      135,
+      0
+    ],
+    "spdCast": [
+      100,
+      130,
+      0
+    ],
+    "intCast": [
+      100,
+      130,
+      0
+    ],
+    "sprCast": [
+      96,
+      126,
+      -3
+    ],
+    "loveCast": [
+      86,
+      112,
+      -6
+    ],
+    "chaCast": [
+      107,
+      139,
+      6
+    ],
+    "slashRes": 25,
+    "bashRes": -65,
+    "pierceRes": -25,
+    "heatRes": -30,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 35
+  },
+  {
+    "id": 228201,
+    "charId": 2282,
+    "name": "セフィラス",
+    "altName": "[裁きの剣を受けよ]",
+    "rarity": "A",
+    "weaponType": "Sword",
+    "lp": 4,
+    "jutsuList": [],
+    "role": 2,
+    "skillRefs": [
+      110100022,
+      110100020,
+      110100003
+    ],
+    "bonusId": 228201,
+    "strCast": [
+      107,
+      139,
+      1
+    ],
+    "conCast": [
+      103,
+      134,
+      6
+    ],
+    "dexCast": [
+      103,
+      134,
+      1
+    ],
+    "spdCast": [
+      100,
+      130,
+      1
+    ],
+    "intCast": [
+      89,
+      116,
+      0
+    ],
+    "sprCast": [
+      100,
+      130,
+      -7
+    ],
+    "loveCast": [
+      89,
+      116,
+      -1
+    ],
+    "chaCast": [
+      107,
+      139,
+      -1
+    ],
+    "slashRes": -25,
+    "bashRes": -65,
+    "pierceRes": 25,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 229201,
+    "charId": 2292,
+    "name": "ノエル",
+    "altName": "[火の粉は払うまで]",
+    "rarity": "S",
+    "weaponType": "Greatsword",
+    "lp": 5,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110200027,
+      110200018,
+      110200003
+    ],
+    "bonusId": 229201,
+    "strCast": [
+      116,
+      160,
+      3
+    ],
+    "conCast": [
+      120,
+      165,
+      3
+    ],
+    "dexCast": [
+      95,
+      130,
+      0
+    ],
+    "spdCast": [
+      102,
+      140,
+      0
+    ],
+    "intCast": [
+      84,
+      116,
+      0
+    ],
+    "sprCast": [
+      102,
+      140,
+      -6
+    ],
+    "loveCast": [
+      84,
+      116,
+      0
+    ],
+    "chaCast": [
+      113,
+      155,
+      0
+    ],
+    "slashRes": 45,
+    "bashRes": -55,
+    "pierceRes": 10,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 229202,
+    "charId": 2292,
+    "name": "ノエル",
+    "altName": "[仇は取らせてもらう]",
+    "rarity": "SS",
+    "weaponType": "Greatsword",
+    "lp": 6,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110200031,
+      110200025,
+      110200030
+    ],
+    "bonusId": 229202,
+    "strCast": [
+      142,
+      186,
+      2
+    ],
+    "conCast": [
+      125,
+      164,
+      0
+    ],
+    "dexCast": [
+      112,
+      147,
+      0
+    ],
+    "spdCast": [
+      133,
+      175,
+      1
+    ],
+    "intCast": [
+      112,
+      147,
+      -1
+    ],
+    "sprCast": [
+      116,
+      153,
+      0
+    ],
+    "loveCast": [
+      104,
+      136,
+      -2
+    ],
+    "chaCast": [
+      112,
+      147,
+      -2
+    ],
+    "slashRes": 65,
+    "bashRes": -45,
+    "pierceRes": 25,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 229301,
+    "charId": 2293,
+    "name": "ロックブーケ",
+    "altName": "[うるさい人はキライよ]",
+    "rarity": "S",
+    "weaponType": "Staff",
+    "lp": 5,
+    "jutsuList": [
+      52,
+      56
+    ],
+    "role": 4,
+    "skillRefs": [
+      125200009,
+      125600006,
+      125600009
+    ],
+    "bonusId": 229301,
+    "strCast": [
+      103,
+      130,
+      0
+    ],
+    "conCast": [
+      92,
+      139,
+      2
+    ],
+    "dexCast": [
+      107,
+      147,
+      0
+    ],
+    "spdCast": [
+      118,
+      162,
+      1
+    ],
+    "intCast": [
+      118,
+      162,
+      0
+    ],
+    "sprCast": [
+      96,
+      132,
+      -1
+    ],
+    "loveCast": [
+      85,
+      117,
+      -3
+    ],
+    "chaCast": [
+      96,
+      132,
+      1
+    ],
+    "slashRes": 10,
+    "bashRes": 45,
+    "pierceRes": -55,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 10,
+    "sunRes": 10,
+    "shadowRes": 0
+  },
+  {
+    "id": 229302,
+    "charId": 2293,
+    "name": "ロックブーケ",
+    "altName": "[お兄様、見守っていて]",
+    "rarity": "SS",
+    "weaponType": "Staff",
+    "lp": 6,
+    "jutsuList": [
+      52,
+      56
+    ],
+    "role": 1,
+    "skillRefs": [
+      125200005,
+      125600007,
+      125200015
+    ],
+    "bonusId": 229302,
+    "strCast": [
+      108,
+      142,
+      -3
+    ],
+    "conCast": [
+      99,
+      131,
+      0
+    ],
+    "dexCast": [
+      133,
+      175,
+      0
+    ],
+    "spdCast": [
+      116,
+      153,
+      0
+    ],
+    "intCast": [
+      146,
+      192,
+      3
+    ],
+    "sprCast": [
+      125,
+      164,
+      0
+    ],
+    "loveCast": [
+      112,
+      147,
+      -1
+    ],
+    "chaCast": [
+      116,
+      153,
+      0
+    ],
+    "slashRes": 25,
+    "bashRes": 65,
+    "pierceRes": -45,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 15,
+    "sunRes": 15,
+    "shadowRes": 0
+  },
+  {
+    "id": 229401,
+    "charId": 2294,
+    "name": "スービエ",
+    "altName": "[海は我がテリトリーだ]",
+    "rarity": "S",
+    "weaponType": "Spear",
+    "lp": 5,
+    "jutsuList": [],
+    "role": 4,
+    "skillRefs": [
+      110800009,
+      110800016,
+      110800002
+    ],
+    "bonusId": 229401,
+    "strCast": [
+      113,
+      155,
+      1
+    ],
+    "conCast": [
+      120,
+      152,
+      3
+    ],
+    "dexCast": [
+      98,
+      135,
+      1
+    ],
+    "spdCast": [
+      106,
+      145,
+      1
+    ],
+    "intCast": [
+      84,
+      128,
+      0
+    ],
+    "sprCast": [
+      98,
+      135,
+      -4
+    ],
+    "loveCast": [
+      91,
+      125,
+      -1
+    ],
+    "chaCast": [
+      106,
+      145,
+      -1
+    ],
+    "slashRes": -55,
+    "bashRes": 10,
+    "pierceRes": 45,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 230101,
+    "charId": 2301,
+    "name": "ユリアン",
+    "altName": "[シノンは俺が護る]",
+    "rarity": "A",
+    "weaponType": "Sword",
+    "lp": 4,
+    "jutsuList": [],
+    "role": 2,
+    "skillRefs": [
+      110100017,
+      110100014,
+      110100020
+    ],
+    "bonusId": 230101,
+    "strCast": [
+      101,
+      131,
+      0
+    ],
+    "conCast": [
+      111,
+      145,
+      1
+    ],
+    "dexCast": [
+      94,
+      122,
+      1
+    ],
+    "spdCast": [
+      97,
+      127,
+      1
+    ],
+    "intCast": [
+      90,
+      117,
+      0
+    ],
+    "sprCast": [
+      104,
+      136,
+      -1
+    ],
+    "loveCast": [
+      101,
+      131,
+      5
+    ],
+    "chaCast": [
+      97,
+      127,
+      -7
+    ],
+    "slashRes": 25,
+    "bashRes": -65,
+    "pierceRes": -25,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 230102,
+    "charId": 2301,
+    "name": "ユリアン",
+    "altName": "[この拳、受けてみるか]",
+    "rarity": "S",
+    "weaponType": "Sword",
+    "lp": 5,
+    "jutsuList": [],
+    "role": 2,
+    "skillRefs": [
+      110100018,
+      110100014,
+      110100024
+    ],
+    "bonusId": 230102,
+    "strCast": [
+      113,
+      156,
+      3
+    ],
+    "conCast": [
+      117,
+      161,
+      3
+    ],
+    "dexCast": [
+      95,
+      131,
+      0
+    ],
+    "spdCast": [
+      95,
+      131,
+      0
+    ],
+    "intCast": [
+      84,
+      116,
+      -3
+    ],
+    "sprCast": [
+      110,
+      151,
+      0
+    ],
+    "loveCast": [
+      95,
+      131,
+      0
+    ],
+    "chaCast": [
+      106,
+      146,
+      -3
+    ],
+    "slashRes": 45,
+    "bashRes": -55,
+    "pierceRes": 10,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 230103,
+    "charId": 2301,
+    "name": "ユリアン",
+    "altName": "[今夜は気取ってもいい]",
+    "rarity": "SS",
+    "weaponType": "Sword",
+    "lp": 6,
+    "jutsuList": [],
+    "role": 4,
+    "skillRefs": [
+      110100028,
+      110100013,
+      110100006
+    ],
+    "bonusId": 230103,
+    "strCast": [
+      134,
+      174,
+      0
+    ],
+    "conCast": [
+      125,
+      162,
+      2
+    ],
+    "dexCast": [
+      117,
+      146,
+      0
+    ],
+    "spdCast": [
+      138,
+      173,
+      1
+    ],
+    "intCast": [
+      117,
+      154,
+      -1
+    ],
+    "sprCast": [
+      117,
+      141,
+      -1
+    ],
+    "loveCast": [
+      100,
+      125,
+      0
+    ],
+    "chaCast": [
+      108,
+      136,
+      -2
+    ],
+    "slashRes": 65,
+    "bashRes": -45,
+    "pierceRes": 25,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 230201,
+    "charId": 2302,
+    "name": "トーマス",
+    "altName": "[ベント家の誇り]",
+    "rarity": "A",
+    "weaponType": "Spear",
+    "lp": 4,
+    "jutsuList": [
+      53
+    ],
+    "role": 4,
+    "skillRefs": [
+      125300008,
+      125300003,
+      110800013
+    ],
+    "bonusId": 230201,
+    "strCast": [
+      111,
+      145,
+      6
+    ],
+    "conCast": [
+      104,
+      136,
+      2
+    ],
+    "dexCast": [
+      97,
+      127,
+      0
+    ],
+    "spdCast": [
+      115,
+      150,
+      1
+    ],
+    "intCast": [
+      97,
+      127,
+      -6
+    ],
+    "sprCast": [
+      97,
+      127,
+      -1
+    ],
+    "loveCast": [
+      83,
+      108,
+      0
+    ],
+    "chaCast": [
+      90,
+      117,
+      -2
+    ],
+    "slashRes": -65,
+    "bashRes": -25,
+    "pierceRes": 25,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 230202,
+    "charId": 2302,
+    "name": "トーマス",
+    "altName": "[ロアーヌの為に]",
+    "rarity": "SS",
+    "weaponType": "Spear",
+    "lp": 6,
+    "jutsuList": [
+      53
+    ],
+    "role": 4,
+    "skillRefs": [
+      110800008,
+      110800021,
+      110800005
+    ],
+    "bonusId": 230202,
+    "strCast": [
+      124,
+      155,
+      0
+    ],
+    "conCast": [
+      124,
+      155,
+      0
+    ],
+    "dexCast": [
+      124,
+      155,
+      1
+    ],
+    "spdCast": [
+      120,
+      150,
+      1
+    ],
+    "intCast": [
+      112,
+      140,
+      0
+    ],
+    "sprCast": [
+      116,
+      145,
+      -1
+    ],
+    "loveCast": [
+      116,
+      145,
+      -1
+    ],
+    "chaCast": [
+      120,
+      150,
+      -1
+    ],
+    "slashRes": 25,
+    "bashRes": -45,
+    "pierceRes": 65,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 230301,
+    "charId": 2303,
+    "name": "ミカエル",
+    "altName": "[ロアーヌ侯爵]",
+    "rarity": "A",
+    "weaponType": "Shortsword",
+    "lp": 4,
+    "jutsuList": [],
+    "role": 4,
+    "skillRefs": [
+      110700016,
+      110700007,
+      110700001
+    ],
+    "bonusId": 230301,
+    "strCast": [
+      104,
+      135,
+      -1
+    ],
+    "conCast": [
+      100,
+      131,
+      -1
+    ],
+    "dexCast": [
+      107,
+      140,
+      3
+    ],
+    "spdCast": [
+      111,
+      144,
+      0
+    ],
+    "intCast": [
+      104,
+      135,
+      0
+    ],
+    "sprCast": [
+      93,
+      121,
+      -1
+    ],
+    "loveCast": [
+      83,
+      108,
+      -6
+    ],
+    "chaCast": [
+      93,
+      121,
+      6
+    ],
+    "slashRes": -65,
+    "bashRes": -25,
+    "pierceRes": 25,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 230302,
+    "charId": 2303,
+    "name": "ミカエル",
+    "altName": "[ロアーヌの民を護る]",
+    "rarity": "SS",
+    "weaponType": "Shortsword",
+    "lp": 6,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110700012,
+      110700014,
+      110700003
+    ],
+    "bonusId": 230302,
+    "strCast": [
+      124,
+      155,
+      -1
+    ],
+    "conCast": [
+      133,
+      166,
+      -1
+    ],
+    "dexCast": [
+      124,
+      155,
+      3
+    ],
+    "spdCast": [
+      128,
+      161,
+      0
+    ],
+    "intCast": [
+      112,
+      140,
+      0
+    ],
+    "sprCast": [
+      120,
+      150,
+      -2
+    ],
+    "loveCast": [
+      95,
+      119,
+      0
+    ],
+    "chaCast": [
+      120,
+      150,
+      0
+    ],
+    "slashRes": 25,
+    "bashRes": -45,
+    "pierceRes": 65,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 230601,
+    "charId": 2306,
+    "name": "エレン",
+    "altName": "[あんたは黙ってて]",
+    "rarity": "SS",
+    "weaponType": "Axe",
+    "lp": 6,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110300005,
+      110300008,
+      110300004
+    ],
+    "bonusId": 230601,
+    "strCast": [
+      133,
+      174,
+      3
+    ],
+    "conCast": [
+      112,
+      147,
+      -1
+    ],
+    "dexCast": [
+      124,
+      163,
+      0
+    ],
+    "spdCast": [
+      124,
+      163,
+      0
+    ],
+    "intCast": [
+      107,
+      141,
+      0
+    ],
+    "sprCast": [
+      124,
+      163,
+      -3
+    ],
+    "loveCast": [
+      99,
+      130,
+      0
+    ],
+    "chaCast": [
+      133,
+      174,
+      0
+    ],
+    "slashRes": 65,
+    "bashRes": 25,
+    "pierceRes": -35,
+    "heatRes": -45,
+    "coldRes": 45,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 230602,
+    "charId": 2306,
+    "name": "エレン",
+    "altName": "[やっぱり斧が好き]",
+    "rarity": "S",
+    "weaponType": "Axe",
+    "lp": 5,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110300006,
+      110300011,
+      110300013
+    ],
+    "bonusId": 230602,
+    "strCast": [
+      116,
+      155,
+      3
+    ],
+    "conCast": [
+      108,
+      145,
+      3
+    ],
+    "dexCast": [
+      105,
+      140,
+      0
+    ],
+    "spdCast": [
+      101,
+      135,
+      0
+    ],
+    "intCast": [
+      93,
+      125,
+      0
+    ],
+    "sprCast": [
+      108,
+      145,
+      -6
+    ],
+    "loveCast": [
+      86,
+      116,
+      0
+    ],
+    "chaCast": [
+      119,
+      160,
+      0
+    ],
+    "slashRes": 45,
+    "bashRes": -55,
+    "pierceRes": 10,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 230701,
+    "charId": 2307,
+    "name": "モニカ",
+    "altName": "[ロアーヌ侯の妹]",
+    "rarity": "S",
+    "weaponType": "Shortsword",
+    "lp": 5,
+    "jutsuList": [],
+    "role": 2,
+    "skillRefs": [
+      110700016,
+      110700001,
+      110700019
+    ],
+    "bonusId": 230701,
+    "strCast": [
+      102,
+      141,
+      -1
+    ],
+    "conCast": [
+      99,
+      136,
+      2
+    ],
+    "dexCast": [
+      113,
+      156,
+      3
+    ],
+    "spdCast": [
+      106,
+      146,
+      0
+    ],
+    "intCast": [
+      102,
+      141,
+      0
+    ],
+    "sprCast": [
+      106,
+      146,
+      -4
+    ],
+    "loveCast": [
+      81,
+      111,
+      0
+    ],
+    "chaCast": [
+      106,
+      146,
+      0
+    ],
+    "slashRes": -55,
+    "bashRes": 10,
+    "pierceRes": 45,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 230702,
+    "charId": 2307,
+    "name": "モニカ",
+    "altName": "[モニカです、よろしく]",
+    "rarity": "SS",
+    "weaponType": "Shortsword",
+    "lp": 6,
+    "jutsuList": [],
+    "role": 2,
+    "skillRefs": [
+      110700010,
+      110700015,
+      110700018
+    ],
+    "bonusId": 230702,
+    "strCast": [
+      105,
+      143,
+      0
+    ],
+    "conCast": [
+      105,
+      143,
+      3
+    ],
+    "dexCast": [
+      105,
+      143,
+      0
+    ],
+    "spdCast": [
+      98,
+      133,
+      0
+    ],
+    "intCast": [
+      105,
+      143,
+      0
+    ],
+    "sprCast": [
+      109,
+      148,
+      0
+    ],
+    "loveCast": [
+      98,
+      133,
+      -1
+    ],
+    "chaCast": [
+      112,
+      153,
+      -3
+    ],
+    "slashRes": -45,
+    "bashRes": 25,
+    "pierceRes": 65,
+    "heatRes": 45,
+    "coldRes": -45,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 230703,
+    "charId": 2307,
+    "name": "モニカ",
+    "altName": "[お兄様には秘密です]",
+    "rarity": "SS",
+    "weaponType": "Shortsword",
+    "lp": 6,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110700012,
+      110700014,
+      110700003
+    ],
+    "bonusId": 230703,
+    "strCast": [
+      116,
+      140,
+      -3
+    ],
+    "conCast": [
+      99,
+      135,
+      -1
+    ],
+    "dexCast": [
+      141,
+      185,
+      0
+    ],
+    "spdCast": [
+      133,
+      174,
+      3
+    ],
+    "intCast": [
+      120,
+      158,
+      0
+    ],
+    "sprCast": [
+      112,
+      154,
+      0
+    ],
+    "loveCast": [
+      116,
+      152,
+      0
+    ],
+    "chaCast": [
+      120,
+      158,
+      0
+    ],
+    "slashRes": -45,
+    "bashRes": 25,
+    "pierceRes": 65,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 230801,
+    "charId": 2308,
+    "name": "カタリナ",
+    "altName": "[マスカレイド]",
+    "rarity": "S",
+    "weaponType": "Greatsword",
+    "lp": 5,
+    "jutsuList": [],
+    "role": 4,
+    "skillRefs": [
+      110200027,
+      110200016,
+      110200010
+    ],
+    "bonusId": 230801,
+    "strCast": [
+      107,
+      146,
+      -1
+    ],
+    "conCast": [
+      85,
+      117,
+      0
+    ],
+    "dexCast": [
+      114,
+      156,
+      0
+    ],
+    "spdCast": [
+      107,
+      146,
+      1
+    ],
+    "intCast": [
+      107,
+      146,
+      3
+    ],
+    "sprCast": [
+      103,
+      141,
+      -2
+    ],
+    "loveCast": [
+      88,
+      122,
+      0
+    ],
+    "chaCast": [
+      107,
+      146,
+      -1
+    ],
+    "slashRes": 45,
+    "bashRes": -55,
+    "pierceRes": 10,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 230802,
+    "charId": 2308,
+    "name": "カタリナ",
+    "altName": "[ここはわたくしが！]",
+    "rarity": "SS",
+    "weaponType": "Greatsword",
+    "lp": 6,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110200012,
+      110200026,
+      110200005
+    ],
+    "bonusId": 230802,
+    "strCast": [
+      137,
+      180,
+      1
+    ],
+    "conCast": [
+      112,
+      147,
+      0
+    ],
+    "dexCast": [
+      128,
+      169,
+      1
+    ],
+    "spdCast": [
+      120,
+      158,
+      1
+    ],
+    "intCast": [
+      107,
+      141,
+      -1
+    ],
+    "sprCast": [
+      120,
+      158,
+      -1
+    ],
+    "loveCast": [
+      112,
+      147,
+      -1
+    ],
+    "chaCast": [
+      120,
+      158,
+      -1
+    ],
+    "slashRes": 65,
+    "bashRes": 25,
+    "pierceRes": -35,
+    "heatRes": -45,
+    "coldRes": 45,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 230803,
+    "charId": 2308,
+    "name": "カタリナ",
+    "altName": "[新しい年を祝おう]",
+    "rarity": "SS",
+    "weaponType": "Greatsword",
+    "lp": 6,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110200017,
+      110200018,
+      110200008
+    ],
+    "bonusId": 230803,
+    "strCast": [
+      133,
+      175,
+      2
+    ],
+    "conCast": [
+      104,
+      136,
+      -1
+    ],
+    "dexCast": [
+      129,
+      170,
+      0
+    ],
+    "spdCast": [
+      138,
+      181,
+      1
+    ],
+    "intCast": [
+      112,
+      147,
+      0
+    ],
+    "sprCast": [
+      121,
+      158,
+      -2
+    ],
+    "loveCast": [
+      95,
+      125,
+      0
+    ],
+    "chaCast": [
+      125,
+      164,
+      -1
+    ],
+    "slashRes": 65,
+    "bashRes": -45,
+    "pierceRes": 25,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 231101,
+    "charId": 2311,
+    "name": "タチアナ",
+    "altName": "[名前はサンタよ]",
+    "rarity": "A",
+    "weaponType": "Pole",
+    "lp": 4,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110400012,
+      110400011,
+      110400010
+    ],
+    "bonusId": 231101,
+    "strCast": [
+      118,
+      153,
+      9
+    ],
+    "conCast": [
+      93,
+      121,
+      0
+    ],
+    "dexCast": [
+      103,
+      135,
+      0
+    ],
+    "spdCast": [
+      96,
+      126,
+      0
+    ],
+    "intCast": [
+      89,
+      116,
+      -6
+    ],
+    "sprCast": [
+      103,
+      135,
+      -3
+    ],
+    "loveCast": [
+      86,
+      112,
+      0
+    ],
+    "chaCast": [
+      107,
+      139,
+      0
+    ],
+    "slashRes": -25,
+    "bashRes": 25,
+    "pierceRes": -65,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 231301,
+    "charId": 2313,
+    "name": "ミューズ",
+    "altName": "[希望を与える麗しき花]",
+    "rarity": "A",
+    "weaponType": "Staff",
+    "lp": 4,
+    "jutsuList": [
+      52
+    ],
+    "role": 3,
+    "skillRefs": [
+      125200005,
+      125200008,
+      125200001
+    ],
+    "bonusId": 231301,
+    "strCast": [
+      93,
+      121,
+      -2
+    ],
+    "conCast": [
+      93,
+      121,
+      -7
+    ],
+    "dexCast": [
+      93,
+      121,
+      0
+    ],
+    "spdCast": [
+      86,
+      112,
+      0
+    ],
+    "intCast": [
+      104,
+      135,
+      0
+    ],
+    "sprCast": [
+      118,
+      154,
+      6
+    ],
+    "loveCast": [
+      104,
+      135,
+      0
+    ],
+    "chaCast": [
+      104,
+      135,
+      3
+    ],
+    "slashRes": -25,
+    "bashRes": 25,
+    "pierceRes": -65,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 231401,
+    "charId": 2314,
+    "name": "シャール",
+    "altName": "[銀の手を受け継ぐ者]",
+    "rarity": "S",
+    "weaponType": "Spear",
+    "lp": 5,
+    "jutsuList": [
+      51
+    ],
+    "role": 1,
+    "skillRefs": [
+      110800019,
+      125100009,
+      110800002
+    ],
+    "bonusId": 231401,
+    "strCast": [
+      110,
+      151,
+      -1
+    ],
+    "conCast": [
+      99,
+      136,
+      0
+    ],
+    "dexCast": [
+      107,
+      146,
+      0
+    ],
+    "spdCast": [
+      110,
+      151,
+      1
+    ],
+    "intCast": [
+      99,
+      136,
+      3
+    ],
+    "sprCast": [
+      99,
+      136,
+      -2
+    ],
+    "loveCast": [
+      88,
+      122,
+      0
+    ],
+    "chaCast": [
+      103,
+      141,
+      -1
+    ],
+    "slashRes": -55,
+    "bashRes": 10,
+    "pierceRes": 45,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 231402,
+    "charId": 2314,
+    "name": "シャール",
+    "altName": "[朱鳥の術の使い手]",
+    "rarity": "SS",
+    "weaponType": "Spear",
+    "lp": 6,
+    "jutsuList": [
+      51
+    ],
+    "role": 4,
+    "skillRefs": [
+      110800008,
+      125100008,
+      110800006
+    ],
+    "bonusId": 231402,
+    "strCast": [
+      138,
+      172,
+      2
+    ],
+    "conCast": [
+      121,
+      151,
+      0
+    ],
+    "dexCast": [
+      121,
+      151,
+      0
+    ],
+    "spdCast": [
+      138,
+      172,
+      1
+    ],
+    "intCast": [
+      116,
+      146,
+      0
+    ],
+    "sprCast": [
+      108,
+      135,
+      -2
+    ],
+    "loveCast": [
+      99,
+      124,
+      -1
+    ],
+    "chaCast": [
+      116,
+      146,
+      -1
+    ],
+    "slashRes": -45,
+    "bashRes": 25,
+    "pierceRes": 65,
+    "heatRes": -45,
+    "coldRes": 45,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 231403,
+    "charId": 2314,
+    "name": "シャール",
+    "altName": "[ミューズを護る者]",
+    "rarity": "A",
+    "weaponType": "Spear",
+    "lp": 4,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110800007,
+      110800016,
+      110800018
+    ],
+    "bonusId": 231403,
+    "strCast": [
+      100,
+      130,
+      -2
+    ],
+    "conCast": [
+      107,
+      139,
+      5
+    ],
+    "dexCast": [
+      100,
+      130,
+      0
+    ],
+    "spdCast": [
+      114,
+      148,
+      3
+    ],
+    "intCast": [
+      93,
+      121,
+      0
+    ],
+    "sprCast": [
+      93,
+      121,
+      -6
+    ],
+    "loveCast": [
+      86,
+      112,
+      0
+    ],
+    "chaCast": [
+      103,
+      135,
+      0
+    ],
+    "slashRes": -65,
+    "bashRes": -25,
+    "pierceRes": 25,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 231501,
+    "charId": 2315,
+    "name": "ノーラ",
+    "altName": "[武器強化はお任せ！]",
+    "rarity": "A",
+    "weaponType": "Pole",
+    "lp": 4,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110400012,
+      110400011,
+      110400001
+    ],
+    "bonusId": 231501,
+    "strCast": [
+      107,
+      139,
+      6
+    ],
+    "conCast": [
+      100,
+      130,
+      3
+    ],
+    "dexCast": [
+      100,
+      130,
+      0
+    ],
+    "spdCast": [
+      89,
+      116,
+      0
+    ],
+    "intCast": [
+      89,
+      116,
+      -6
+    ],
+    "sprCast": [
+      110,
+      144,
+      0
+    ],
+    "loveCast": [
+      93,
+      121,
+      0
+    ],
+    "chaCast": [
+      107,
+      139,
+      -3
+    ],
+    "slashRes": -25,
+    "bashRes": 25,
+    "pierceRes": -65,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 231701,
+    "charId": 2317,
+    "name": "ロビン",
+    "altName": "[怪傑ロビン、参上！]",
+    "rarity": "A",
+    "weaponType": "Shortsword",
+    "lp": 4,
+    "jutsuList": [
+      54
+    ],
+    "role": 3,
+    "skillRefs": [
+      125400002,
+      110700005,
+      110700013
+    ],
+    "bonusId": 231701,
+    "strCast": [
+      103,
+      134,
+      -6
+    ],
+    "conCast": [
+      114,
+      148,
+      3
+    ],
+    "dexCast": [
+      100,
+      130,
+      6
+    ],
+    "spdCast": [
+      93,
+      120,
+      0
+    ],
+    "intCast": [
+      82,
+      107,
+      0
+    ],
+    "sprCast": [
+      103,
+      134,
+      0
+    ],
+    "loveCast": [
+      100,
+      130,
+      0
+    ],
+    "chaCast": [
+      103,
+      134,
+      -3
+    ],
+    "slashRes": -65,
+    "bashRes": -25,
+    "pierceRes": 25,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 231702,
+    "charId": 2317,
+    "name": "ロビン",
+    "altName": "[この世に悪は許さない]",
+    "rarity": "S",
+    "weaponType": "Shortsword",
+    "lp": 5,
+    "jutsuList": [
+      54
+    ],
+    "role": 4,
+    "skillRefs": [
+      110700012,
+      125400005,
+      110700008
+    ],
+    "bonusId": 231702,
+    "strCast": [
+      107,
+      146,
+      -1
+    ],
+    "conCast": [
+      103,
+      150,
+      -4
+    ],
+    "dexCast": [
+      110,
+      143,
+      3
+    ],
+    "spdCast": [
+      117,
+      154,
+      3
+    ],
+    "intCast": [
+      96,
+      131,
+      0
+    ],
+    "sprCast": [
+      103,
+      141,
+      -1
+    ],
+    "loveCast": [
+      81,
+      112,
+      0
+    ],
+    "chaCast": [
+      99,
+      136,
+      0
+    ],
+    "slashRes": -55,
+    "bashRes": 10,
+    "pierceRes": 45,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 231901,
+    "charId": 2319,
+    "name": "ウォード",
+    "altName": "[ウォードだ、金は無い]",
+    "rarity": "A",
+    "weaponType": "Greatsword",
+    "lp": 4,
+    "jutsuList": [],
+    "role": 2,
+    "skillRefs": [
+      110200012,
+      110200013,
+      110200003
+    ],
+    "bonusId": 231901,
+    "strCast": [
+      97,
+      126,
+      -1
+    ],
+    "conCast": [
+      100,
+      131,
+      -1
+    ],
+    "dexCast": [
+      107,
+      140,
+      3
+    ],
+    "spdCast": [
+      104,
+      135,
+      0
+    ],
+    "intCast": [
+      100,
+      131,
+      0
+    ],
+    "sprCast": [
+      104,
+      135,
+      -1
+    ],
+    "loveCast": [
+      93,
+      121,
+      6
+    ],
+    "chaCast": [
+      90,
+      117,
+      -6
+    ],
+    "slashRes": 25,
+    "bashRes": -65,
+    "pierceRes": -25,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 232101,
+    "charId": 2321,
+    "name": "ブラック",
+    "altName": "[お宝は全部俺のもんだ]",
+    "rarity": "S",
+    "weaponType": "Axe",
+    "lp": 5,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110300005,
+      110300014,
+      110300013
+    ],
+    "bonusId": 232101,
+    "strCast": [
+      117,
+      161,
+      3
+    ],
+    "conCast": [
+      110,
+      151,
+      -3
+    ],
+    "dexCast": [
+      99,
+      136,
+      0
+    ],
+    "spdCast": [
+      110,
+      151,
+      3
+    ],
+    "intCast": [
+      84,
+      116,
+      0
+    ],
+    "sprCast": [
+      102,
+      141,
+      -3
+    ],
+    "loveCast": [
+      84,
+      116,
+      0
+    ],
+    "chaCast": [
+      110,
+      151,
+      0
+    ],
+    "slashRes": 45,
+    "bashRes": -55,
+    "pierceRes": 10,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 232151,
+    "charId": 2321,
+    "name": "ハーマン",
+    "altName": "[フォルネウスに復讐だ]",
+    "rarity": "A",
+    "weaponType": "Axe",
+    "lp": 4,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110300006,
+      110300016,
+      110300011
+    ],
+    "bonusId": 232151,
+    "strCast": [
+      103,
+      135,
+      1
+    ],
+    "conCast": [
+      107,
+      139,
+      0
+    ],
+    "dexCast": [
+      100,
+      130,
+      1
+    ],
+    "spdCast": [
+      100,
+      130,
+      1
+    ],
+    "intCast": [
+      89,
+      116,
+      0
+    ],
+    "sprCast": [
+      100,
+      130,
+      -1
+    ],
+    "loveCast": [
+      103,
+      135,
+      5
+    ],
+    "chaCast": [
+      93,
+      121,
+      -7
+    ],
+    "slashRes": 25,
+    "bashRes": -65,
+    "pierceRes": -25,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 232301,
+    "charId": 2323,
+    "name": "ツィー・リン",
+    "altName": "[今日の糧を授けたまえ]",
+    "rarity": "A",
+    "weaponType": "Bow",
+    "lp": 4,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110900013,
+      110900009,
+      110900001
+    ],
+    "bonusId": 232301,
+    "strCast": [
+      89,
+      116,
+      -7
+    ],
+    "conCast": [
+      82,
+      107,
+      -1
+    ],
+    "dexCast": [
+      110,
+      143,
+      5
+    ],
+    "spdCast": [
+      100,
+      130,
+      0
+    ],
+    "intCast": [
+      107,
+      139,
+      1
+    ],
+    "sprCast": [
+      107,
+      139,
+      1
+    ],
+    "loveCast": [
+      103,
+      134,
+      1
+    ],
+    "chaCast": [
+      100,
+      130,
+      0
+    ],
+    "slashRes": -65,
+    "bashRes": -25,
+    "pierceRes": 25,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 232901,
+    "charId": 2329,
+    "name": "ゆきだるま",
+    "altName": "[究極のサンタクロース]",
+    "rarity": "S",
+    "weaponType": "Pole",
+    "lp": 5,
+    "jutsuList": [
+      52
+    ],
+    "role": 3,
+    "skillRefs": [
+      125200005,
+      110400009,
+      110400008
+    ],
+    "bonusId": 232901,
+    "strCast": [
+      102,
+      141,
+      -2
+    ],
+    "conCast": [
+      110,
+      151,
+      2
+    ],
+    "dexCast": [
+      92,
+      126,
+      0
+    ],
+    "spdCast": [
+      95,
+      131,
+      0
+    ],
+    "intCast": [
+      99,
+      136,
+      0
+    ],
+    "sprCast": [
+      106,
+      146,
+      -3
+    ],
+    "loveCast": [
+      106,
+      146,
+      0
+    ],
+    "chaCast": [
+      106,
+      146,
+      3
+    ],
+    "slashRes": 10,
+    "bashRes": 45,
+    "pierceRes": -55,
+    "heatRes": 45,
+    "coldRes": 45,
+    "elecRes": -35,
+    "sunRes": -35,
+    "shadowRes": -35
+  },
+  {
+    "id": 232902,
+    "charId": 2329,
+    "name": "ゆきだるま",
+    "altName": "[ゆきだるまなのだ]",
+    "rarity": "S",
+    "weaponType": "Pole",
+    "lp": 5,
+    "jutsuList": [
+      52
+    ],
+    "role": 1,
+    "skillRefs": [
+      110400014,
+      110400010,
+      110400001
+    ],
+    "bonusId": 232902,
+    "strCast": [
+      107,
+      147,
+      0
+    ],
+    "conCast": [
+      111,
+      152,
+      -2
+    ],
+    "dexCast": [
+      96,
+      132,
+      1
+    ],
+    "spdCast": [
+      100,
+      137,
+      1
+    ],
+    "intCast": [
+      92,
+      127,
+      0
+    ],
+    "sprCast": [
+      107,
+      147,
+      2
+    ],
+    "loveCast": [
+      96,
+      132,
+      -1
+    ],
+    "chaCast": [
+      107,
+      147,
+      -1
+    ],
+    "slashRes": 10,
+    "bashRes": 45,
+    "pierceRes": -55,
+    "heatRes": 45,
+    "coldRes": 45,
+    "elecRes": -35,
+    "sunRes": -35,
+    "shadowRes": -35
+  },
+  {
+    "id": 233001,
+    "charId": 2330,
+    "name": "ウンディーネ",
+    "altName": "[お願いがあるんだけど]",
+    "rarity": "A",
+    "weaponType": "Staff",
+    "lp": 4,
+    "jutsuList": [
+      52
+    ],
+    "role": 3,
+    "skillRefs": [
+      125200005,
+      125200004,
+      125200001
+    ],
+    "bonusId": 233001,
+    "strCast": [
+      97,
+      127,
+      -6
+    ],
+    "conCast": [
+      94,
+      122,
+      1
+    ],
+    "dexCast": [
+      104,
+      136,
+      1
+    ],
+    "spdCast": [
+      94,
+      122,
+      1
+    ],
+    "intCast": [
+      101,
+      131,
+      6
+    ],
+    "sprCast": [
+      104,
+      136,
+      -1
+    ],
+    "loveCast": [
+      94,
+      122,
+      -1
+    ],
+    "chaCast": [
+      108,
+      140,
+      -1
+    ],
+    "slashRes": -25,
+    "bashRes": 25,
+    "pierceRes": -65,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 233002,
+    "charId": 2330,
+    "name": "ウンディーネ",
+    "altName": "[玄武術なら任せて]",
+    "rarity": "S",
+    "weaponType": "Staff",
+    "lp": 5,
+    "jutsuList": [
+      52
+    ],
+    "role": 1,
+    "skillRefs": [
+      125200004,
+      125200008,
+      125200010
+    ],
+    "bonusId": 233002,
+    "strCast": [
+      84,
+      116,
+      -1
+    ],
+    "conCast": [
+      84,
+      116,
+      -1
+    ],
+    "dexCast": [
+      106,
+      146,
+      -1
+    ],
+    "spdCast": [
+      99,
+      136,
+      0
+    ],
+    "intCast": [
+      117,
+      161,
+      1
+    ],
+    "sprCast": [
+      117,
+      161,
+      1
+    ],
+    "loveCast": [
+      110,
+      151,
+      4
+    ],
+    "chaCast": [
+      99,
+      136,
+      -3
+    ],
+    "slashRes": 10,
+    "bashRes": 45,
+    "pierceRes": -55,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 233201,
+    "charId": 2332,
+    "name": "レオニード",
+    "altName": "[私には薔薇が似合う]",
+    "rarity": "A",
+    "weaponType": "Martial Arts",
+    "lp": 4,
+    "jutsuList": [
+      56
+    ],
+    "role": 4,
+    "skillRefs": [
+      125600001,
+      110500020,
+      110500027
+    ],
+    "bonusId": 233201,
+    "strCast": [
+      104,
+      140,
+      -1
+    ],
+    "conCast": [
+      100,
+      131,
+      -1
+    ],
+    "dexCast": [
+      107,
+      136,
+      3
+    ],
+    "spdCast": [
+      111,
+      144,
+      0
+    ],
+    "intCast": [
+      104,
+      135,
+      0
+    ],
+    "sprCast": [
+      93,
+      121,
+      -1
+    ],
+    "loveCast": [
+      83,
+      108,
+      -6
+    ],
+    "chaCast": [
+      93,
+      121,
+      6
+    ],
+    "slashRes": -25,
+    "bashRes": 25,
+    "pierceRes": -65,
+    "heatRes": -30,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 35
+  },
+  {
+    "id": 233202,
+    "charId": 2332,
+    "name": "レオニード",
+    "altName": "[聖杯の守り手]",
+    "rarity": "S",
+    "weaponType": "Martial Arts",
+    "lp": 5,
+    "jutsuList": [
+      56
+    ],
+    "role": 4,
+    "skillRefs": [
+      125600003,
+      125600005,
+      110500015
+    ],
+    "bonusId": 233202,
+    "strCast": [
+      113,
+      156,
+      1
+    ],
+    "conCast": [
+      110,
+      151,
+      0
+    ],
+    "dexCast": [
+      102,
+      141,
+      1
+    ],
+    "spdCast": [
+      110,
+      151,
+      1
+    ],
+    "intCast": [
+      95,
+      131,
+      0
+    ],
+    "sprCast": [
+      92,
+      126,
+      -1
+    ],
+    "loveCast": [
+      95,
+      131,
+      -4
+    ],
+    "chaCast": [
+      99,
+      136,
+      2
+    ],
+    "slashRes": 10,
+    "bashRes": 45,
+    "pierceRes": -55,
+    "heatRes": -30,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 40
+  },
+  {
+    "id": 234201,
+    "charId": 2342,
+    "name": "ボルカノ",
+    "altName": "[朱鳥術士ボルカノ]",
+    "rarity": "A",
+    "weaponType": "Staff",
+    "lp": 4,
+    "jutsuList": [
+      51
+    ],
+    "role": 4,
+    "skillRefs": [
+      125100006,
+      125100008,
+      125100009
+    ],
+    "bonusId": 234201,
+    "strCast": [
+      97,
+      127,
+      -6
+    ],
+    "conCast": [
+      101,
+      131,
+      2
+    ],
+    "dexCast": [
+      101,
+      131,
+      0
+    ],
+    "spdCast": [
+      111,
+      145,
+      1
+    ],
+    "intCast": [
+      108,
+      140,
+      6
+    ],
+    "sprCast": [
+      97,
+      127,
+      -1
+    ],
+    "loveCast": [
+      87,
+      113,
+      0
+    ],
+    "chaCast": [
+      94,
+      122,
+      -2
+    ],
+    "slashRes": -25,
+    "bashRes": 25,
+    "pierceRes": -65,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 234202,
+    "charId": 2342,
+    "name": "ボルカノ",
+    "altName": "[喜んで協力しよう]",
+    "rarity": "S",
+    "weaponType": "Staff",
+    "lp": 5,
+    "jutsuList": [
+      51
+    ],
+    "role": 1,
+    "skillRefs": [
+      125100004,
+      125100008,
+      125100001
+    ],
+    "bonusId": 234202,
+    "strCast": [
+      88,
+      122,
+      -5
+    ],
+    "conCast": [
+      99,
+      136,
+      -1
+    ],
+    "dexCast": [
+      103,
+      141,
+      0
+    ],
+    "spdCast": [
+      96,
+      131,
+      0
+    ],
+    "intCast": [
+      114,
+      156,
+      3
+    ],
+    "sprCast": [
+      110,
+      151,
+      0
+    ],
+    "loveCast": [
+      110,
+      151,
+      3
+    ],
+    "chaCast": [
+      96,
+      131,
+      0
+    ],
+    "slashRes": 10,
+    "bashRes": 45,
+    "pierceRes": -55,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 237901,
+    "charId": 2379,
+    "name": "キドラントの町長",
+    "altName": "[わたしが町長です]",
+    "rarity": "A",
+    "weaponType": "Pole",
+    "lp": 4,
+    "jutsuList": [],
+    "role": 4,
+    "skillRefs": [
+      110400012,
+      110400011,
+      110400010
+    ],
+    "bonusId": 237901,
+    "strCast": [
+      101,
+      131,
+      0
+    ],
+    "conCast": [
+      115,
+      150,
+      -5
+    ],
+    "dexCast": [
+      94,
+      122,
+      0
+    ],
+    "spdCast": [
+      101,
+      131,
+      0
+    ],
+    "intCast": [
+      97,
+      127,
+      0
+    ],
+    "sprCast": [
+      115,
+      150,
+      7
+    ],
+    "loveCast": [
+      83,
+      108,
+      -2
+    ],
+    "chaCast": [
+      90,
+      117,
+      -2
+    ],
+    "slashRes": -25,
+    "bashRes": 25,
+    "pierceRes": -65,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 238101,
+    "charId": 2381,
+    "name": "アスラ",
+    "altName": "[道場主ではない！]",
+    "rarity": "A",
+    "weaponType": "Martial Arts",
+    "lp": 4,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110500024,
+      110500027,
+      110500006
+    ],
+    "bonusId": 238101,
+    "strCast": [
+      114,
+      148,
+      3
+    ],
+    "conCast": [
+      107,
+      139,
+      0
+    ],
+    "dexCast": [
+      96,
+      126,
+      0
+    ],
+    "spdCast": [
+      103,
+      135,
+      0
+    ],
+    "intCast": [
+      93,
+      121,
+      0
+    ],
+    "sprCast": [
+      93,
+      121,
+      -3
+    ],
+    "loveCast": [
+      86,
+      112,
+      -6
+    ],
+    "chaCast": [
+      103,
+      135,
+      6
+    ],
+    "slashRes": -25,
+    "bashRes": 25,
+    "pierceRes": -65,
+    "heatRes": 10,
+    "coldRes": 10,
+    "elecRes": 10,
+    "sunRes": 10,
+    "shadowRes": 10
+  },
+  {
+    "id": 310101,
+    "charId": 3101,
+    "name": "ブルー",
+    "altName": "[我が名はブルー]",
+    "rarity": "A",
+    "weaponType": "Staff",
+    "lp": 4,
+    "jutsuList": [
+      55
+    ],
+    "role": 1,
+    "skillRefs": [
+      125500005,
+      125500002,
+      125500007
+    ],
+    "bonusId": 310101,
+    "strCast": [
+      90,
+      117,
+      -2
+    ],
+    "conCast": [
+      104,
+      135,
+      -7
+    ],
+    "dexCast": [
+      93,
+      121,
+      0
+    ],
+    "spdCast": [
+      93,
+      121,
+      0
+    ],
+    "intCast": [
+      104,
+      135,
+      0
+    ],
+    "sprCast": [
+      115,
+      149,
+      6
+    ],
+    "loveCast": [
+      104,
+      135,
+      3
+    ],
+    "chaCast": [
+      93,
+      121,
+      0
+    ],
+    "slashRes": -25,
+    "bashRes": 25,
+    "pierceRes": -65,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 310102,
+    "charId": 3101,
+    "name": "ブルー",
+    "altName": "[宿命の魔術士]",
+    "rarity": "SS",
+    "weaponType": "Staff",
+    "lp": 6,
+    "jutsuList": [
+      55
+    ],
+    "role": 4,
+    "skillRefs": [
+      125500001,
+      125500007,
+      125500003
+    ],
+    "bonusId": 310102,
+    "strCast": [
+      112,
+      140,
+      -1
+    ],
+    "conCast": [
+      116,
+      145,
+      -1
+    ],
+    "dexCast": [
+      116,
+      145,
+      -1
+    ],
+    "spdCast": [
+      128,
+      166,
+      0
+    ],
+    "intCast": [
+      133,
+      166,
+      1
+    ],
+    "sprCast": [
+      120,
+      150,
+      1
+    ],
+    "loveCast": [
+      116,
+      140,
+      0
+    ],
+    "chaCast": [
+      116,
+      145,
+      0
+    ],
+    "slashRes": 25,
+    "bashRes": 65,
+    "pierceRes": -45,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 310201,
+    "charId": 3102,
+    "name": "クーン",
+    "altName": "[ラモックスのクーン]",
+    "rarity": "A",
+    "weaponType": "Martial Arts",
+    "lp": 4,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110500019,
+      110500016,
+      110500026
+    ],
+    "bonusId": 310201,
+    "strCast": [
+      110,
+      144,
+      1
+    ],
+    "conCast": [
+      100,
+      130,
+      0
+    ],
+    "dexCast": [
+      103,
+      135,
+      1
+    ],
+    "spdCast": [
+      107,
+      139,
+      1
+    ],
+    "intCast": [
+      96,
+      126,
+      0
+    ],
+    "sprCast": [
+      86,
+      112,
+      -1
+    ],
+    "loveCast": [
+      96,
+      126,
+      -7
+    ],
+    "chaCast": [
+      96,
+      126,
+      5
+    ],
+    "slashRes": -25,
+    "bashRes": 25,
+    "pierceRes": -65,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 310202,
+    "charId": 3102,
+    "name": "クーン",
+    "altName": "[指輪を集めてます！]",
+    "rarity": "S",
+    "weaponType": "Martial Arts",
+    "lp": 5,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110500013,
+      110500027,
+      110500001
+    ],
+    "bonusId": 310202,
+    "strCast": [
+      103,
+      141,
+      -2
+    ],
+    "conCast": [
+      92,
+      126,
+      -1
+    ],
+    "dexCast": [
+      110,
+      151,
+      0
+    ],
+    "spdCast": [
+      121,
+      166,
+      3
+    ],
+    "intCast": [
+      110,
+      151,
+      0
+    ],
+    "sprCast": [
+      85,
+      117,
+      0
+    ],
+    "loveCast": [
+      96,
+      131,
+      -3
+    ],
+    "chaCast": [
+      99,
+      136,
+      3
+    ],
+    "slashRes": 10,
+    "bashRes": 45,
+    "pierceRes": -55,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 310401,
+    "charId": 3104,
+    "name": "アルカイザー",
+    "altName": "[アルカイザー、見参！]",
+    "rarity": "SS",
+    "weaponType": "Martial Arts",
+    "lp": 6,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110500024,
+      110500011,
+      110500008
+    ],
+    "bonusId": 310401,
+    "strCast": [
+      133,
+      174,
+      3
+    ],
+    "conCast": [
+      133,
+      174,
+      -1
+    ],
+    "dexCast": [
+      112,
+      147,
+      0
+    ],
+    "spdCast": [
+      116,
+      152,
+      0
+    ],
+    "intCast": [
+      103,
+      136,
+      0
+    ],
+    "sprCast": [
+      128,
+      169,
+      -3
+    ],
+    "loveCast": [
+      103,
+      136,
+      0
+    ],
+    "chaCast": [
+      128,
+      169,
+      0
+    ],
+    "slashRes": 25,
+    "bashRes": 65,
+    "pierceRes": -45,
+    "heatRes": -45,
+    "coldRes": 45,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 310402,
+    "charId": 3104,
+    "name": "レッド",
+    "altName": "[レッド様の一撃だ！]",
+    "rarity": "A",
+    "weaponType": "Martial Arts",
+    "lp": 4,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110500013,
+      110500021,
+      110500027
+    ],
+    "bonusId": 310402,
+    "strCast": [
+      110,
+      144,
+      3
+    ],
+    "conCast": [
+      110,
+      144,
+      -6
+    ],
+    "dexCast": [
+      93,
+      121,
+      0
+    ],
+    "spdCast": [
+      96,
+      126,
+      0
+    ],
+    "intCast": [
+      86,
+      112,
+      0
+    ],
+    "sprCast": [
+      107,
+      139,
+      3
+    ],
+    "loveCast": [
+      86,
+      112,
+      0
+    ],
+    "chaCast": [
+      107,
+      139,
+      0
+    ],
+    "slashRes": -25,
+    "bashRes": 25,
+    "pierceRes": -65,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 310403,
+    "charId": 3104,
+    "name": "レッド",
+    "altName": "[初詣は欠かせないぜ]",
+    "rarity": "S",
+    "weaponType": "Martial Arts",
+    "lp": 5,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110500025,
+      110500027,
+      110500002
+    ],
+    "bonusId": 310403,
+    "strCast": [
+      114,
+      157,
+      3
+    ],
+    "conCast": [
+      107,
+      147,
+      2
+    ],
+    "dexCast": [
+      100,
+      137,
+      0
+    ],
+    "spdCast": [
+      118,
+      162,
+      1
+    ],
+    "intCast": [
+      100,
+      137,
+      -3
+    ],
+    "sprCast": [
+      100,
+      137,
+      -1
+    ],
+    "loveCast": [
+      85,
+      117,
+      0
+    ],
+    "chaCast": [
+      92,
+      127,
+      -2
+    ],
+    "slashRes": 10,
+    "bashRes": 45,
+    "pierceRes": -55,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 311801,
+    "charId": 3118,
+    "name": "アニー",
+    "altName": "[痛い目に遭いたいのね]",
+    "rarity": "S",
+    "weaponType": "Sword",
+    "lp": 5,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110100022,
+      110100020,
+      110100027
+    ],
+    "bonusId": 311801,
+    "strCast": [
+      111,
+      152,
+      3
+    ],
+    "conCast": [
+      92,
+      127,
+      2
+    ],
+    "dexCast": [
+      107,
+      147,
+      0
+    ],
+    "spdCast": [
+      114,
+      157,
+      1
+    ],
+    "intCast": [
+      107,
+      147,
+      -3
+    ],
+    "sprCast": [
+      103,
+      142,
+      -1
+    ],
+    "loveCast": [
+      85,
+      117,
+      0
+    ],
+    "chaCast": [
+      96,
+      132,
+      -2
+    ],
+    "slashRes": 45,
+    "bashRes": -55,
+    "pierceRes": 10,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 311901,
+    "charId": 3119,
+    "name": "ライザ",
+    "altName": "[ご用件はなにかしら？]",
+    "rarity": "A",
+    "weaponType": "Martial Arts",
+    "lp": 4,
+    "jutsuList": [],
+    "role": 4,
+    "skillRefs": [
+      110500019,
+      110500021,
+      110500004
+    ],
+    "bonusId": 311901,
+    "strCast": [
+      108,
+      140,
+      6
+    ],
+    "conCast": [
+      90,
+      117,
+      2
+    ],
+    "dexCast": [
+      104,
+      136,
+      0
+    ],
+    "spdCast": [
+      111,
+      145,
+      1
+    ],
+    "intCast": [
+      104,
+      136,
+      -6
+    ],
+    "sprCast": [
+      101,
+      131,
+      -1
+    ],
+    "loveCast": [
+      83,
+      108,
+      0
+    ],
+    "chaCast": [
+      94,
+      122,
+      -2
+    ],
+    "slashRes": -25,
+    "bashRes": 25,
+    "pierceRes": -65,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 312301,
+    "charId": 3123,
+    "name": "ルージュ",
+    "altName": "[我が名はルージュ]",
+    "rarity": "A",
+    "weaponType": "Staff",
+    "lp": 4,
+    "jutsuList": [
+      56
+    ],
+    "role": 4,
+    "skillRefs": [
+      125600002,
+      125600004,
+      125600005
+    ],
+    "bonusId": 312301,
+    "strCast": [
+      104,
+      136,
+      0
+    ],
+    "conCast": [
+      104,
+      136,
+      2
+    ],
+    "dexCast": [
+      97,
+      127,
+      0
+    ],
+    "spdCast": [
+      119,
+      154,
+      1
+    ],
+    "intCast": [
+      108,
+      140,
+      0
+    ],
+    "sprCast": [
+      90,
+      117,
+      -1
+    ],
+    "loveCast": [
+      83,
+      108,
+      -6
+    ],
+    "chaCast": [
+      90,
+      117,
+      4
+    ],
+    "slashRes": -25,
+    "bashRes": 25,
+    "pierceRes": -65,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 312302,
+    "charId": 3123,
+    "name": "ルージュ",
+    "altName": "[力を探す旅人]",
+    "rarity": "S",
+    "weaponType": "Staff",
+    "lp": 5,
+    "jutsuList": [
+      56
+    ],
+    "role": 1,
+    "skillRefs": [
+      125600001,
+      125600005,
+      125600009
+    ],
+    "bonusId": 312302,
+    "strCast": [
+      88,
+      121,
+      -4
+    ],
+    "conCast": [
+      95,
+      131,
+      -1
+    ],
+    "dexCast": [
+      102,
+      141,
+      -1
+    ],
+    "spdCast": [
+      102,
+      141,
+      0
+    ],
+    "intCast": [
+      113,
+      156,
+      4
+    ],
+    "sprCast": [
+      110,
+      151,
+      1
+    ],
+    "loveCast": [
+      102,
+      141,
+      1
+    ],
+    "chaCast": [
+      102,
+      141,
+      0
+    ],
+    "slashRes": 10,
+    "bashRes": 45,
+    "pierceRes": -55,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 312303,
+    "charId": 3123,
+    "name": "ルージュ",
+    "altName": "[半身を求める者]",
+    "rarity": "SS",
+    "weaponType": "Staff",
+    "lp": 6,
+    "jutsuList": [
+      56
+    ],
+    "role": 4,
+    "skillRefs": [
+      125600001,
+      125600004,
+      125600014
+    ],
+    "bonusId": 312303,
+    "strCast": [
+      121,
+      151,
+      0
+    ],
+    "conCast": [
+      130,
+      162,
+      1
+    ],
+    "dexCast": [
+      113,
+      141,
+      0
+    ],
+    "spdCast": [
+      134,
+      152,
+      1
+    ],
+    "intCast": [
+      121,
+      166,
+      0
+    ],
+    "sprCast": [
+      125,
+      157,
+      -1
+    ],
+    "loveCast": [
+      100,
+      125,
+      0
+    ],
+    "chaCast": [
+      113,
+      141,
+      -2
+    ],
+    "slashRes": 25,
+    "bashRes": 65,
+    "pierceRes": -45,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 312401,
+    "charId": 3124,
+    "name": "ゲン",
+    "altName": "[ゲンだ、気楽にいこう]",
+    "rarity": "A",
+    "weaponType": "Greatsword",
+    "lp": 4,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110200027,
+      110200016,
+      110200018
+    ],
+    "bonusId": 312401,
+    "strCast": [
+      107,
+      140,
+      4
+    ],
+    "conCast": [
+      97,
+      126,
+      -1
+    ],
+    "dexCast": [
+      104,
+      135,
+      0
+    ],
+    "spdCast": [
+      115,
+      149,
+      3
+    ],
+    "intCast": [
+      93,
+      121,
+      -6
+    ],
+    "sprCast": [
+      93,
+      121,
+      0
+    ],
+    "loveCast": [
+      90,
+      117,
+      0
+    ],
+    "chaCast": [
+      97,
+      126,
+      0
+    ],
+    "slashRes": 25,
+    "bashRes": -65,
+    "pierceRes": -25,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 312402,
+    "charId": 3124,
+    "name": "ゲン",
+    "altName": "[剣豪源二郎信繁]",
+    "rarity": "S",
+    "weaponType": "Greatsword",
+    "lp": 5,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110200017,
+      110200018,
+      110200010
+    ],
+    "bonusId": 312402,
+    "strCast": [
+      110,
+      151,
+      3
+    ],
+    "conCast": [
+      110,
+      151,
+      0
+    ],
+    "dexCast": [
+      99,
+      136,
+      0
+    ],
+    "spdCast": [
+      99,
+      136,
+      0
+    ],
+    "intCast": [
+      92,
+      126,
+      0
+    ],
+    "sprCast": [
+      106,
+      146,
+      -3
+    ],
+    "loveCast": [
+      99,
+      136,
+      3
+    ],
+    "chaCast": [
+      102,
+      141,
+      -3
+    ],
+    "slashRes": 45,
+    "bashRes": -55,
+    "pierceRes": 10,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 320101,
+    "charId": 3201,
+    "name": "ギュスターヴ",
+    "altName": "[鋼のギュスターヴ]",
+    "rarity": "S",
+    "weaponType": "Greatsword",
+    "lp": 5,
+    "jutsuList": [],
+    "role": 2,
+    "skillRefs": [
+      110200027,
+      110200013,
+      110200002
+    ],
+    "bonusId": 320101,
+    "strCast": [
+      118,
+      162,
+      3
+    ],
+    "conCast": [
+      114,
+      157,
+      1
+    ],
+    "dexCast": [
+      96,
+      132,
+      1
+    ],
+    "spdCast": [
+      103,
+      142,
+      1
+    ],
+    "intCast": [
+      85,
+      117,
+      -3
+    ],
+    "sprCast": [
+      103,
+      142,
+      -1
+    ],
+    "loveCast": [
+      92,
+      127,
+      -1
+    ],
+    "chaCast": [
+      103,
+      142,
+      -1
+    ],
+    "slashRes": 45,
+    "bashRes": -55,
+    "pierceRes": 10,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 320102,
+    "charId": 3201,
+    "name": "ギュスターヴ",
+    "altName": "[いざ、出撃だ！]",
+    "rarity": "SS",
+    "weaponType": "Greatsword",
+    "lp": 6,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110200017,
+      110200016,
+      110200003
+    ],
+    "bonusId": 320102,
+    "strCast": [
+      137,
+      180,
+      2
+    ],
+    "conCast": [
+      133,
+      174,
+      0
+    ],
+    "dexCast": [
+      116,
+      152,
+      0
+    ],
+    "spdCast": [
+      133,
+      174,
+      1
+    ],
+    "intCast": [
+      103,
+      136,
+      0
+    ],
+    "sprCast": [
+      116,
+      152,
+      -3
+    ],
+    "loveCast": [
+      95,
+      124,
+      0
+    ],
+    "chaCast": [
+      124,
+      163,
+      -1
+    ],
+    "slashRes": 65,
+    "bashRes": -45,
+    "pierceRes": 25,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 320201,
+    "charId": 3202,
+    "name": "ウィル",
+    "altName": "[若き日のタイクーン]",
+    "rarity": "SS",
+    "weaponType": "Pole",
+    "lp": 6,
+    "jutsuList": [
+      51
+    ],
+    "role": 1,
+    "skillRefs": [
+      110400014,
+      125100009,
+      125100002
+    ],
+    "bonusId": 320201,
+    "strCast": [
+      117,
+      146,
+      -1
+    ],
+    "conCast": [
+      121,
+      151,
+      2
+    ],
+    "dexCast": [
+      121,
+      151,
+      0
+    ],
+    "spdCast": [
+      134,
+      167,
+      1
+    ],
+    "intCast": [
+      130,
+      162,
+      0
+    ],
+    "sprCast": [
+      117,
+      146,
+      -1
+    ],
+    "loveCast": [
+      104,
+      130,
+      0
+    ],
+    "chaCast": [
+      113,
+      141,
+      -2
+    ],
+    "slashRes": 25,
+    "bashRes": 65,
+    "pierceRes": -45,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 320301,
+    "charId": 3203,
+    "name": "リッチ",
+    "altName": "[俺はリッチ、金は無い]",
+    "rarity": "A",
+    "weaponType": "Sword",
+    "lp": 4,
+    "jutsuList": [
+      51
+    ],
+    "role": 3,
+    "skillRefs": [
+      125100006,
+      110100025,
+      125100009
+    ],
+    "bonusId": 320301,
+    "strCast": [
+      97,
+      127,
+      0
+    ],
+    "conCast": [
+      104,
+      136,
+      2
+    ],
+    "dexCast": [
+      97,
+      127,
+      0
+    ],
+    "spdCast": [
+      111,
+      145,
+      1
+    ],
+    "intCast": [
+      104,
+      136,
+      0
+    ],
+    "sprCast": [
+      101,
+      131,
+      -1
+    ],
+    "loveCast": [
+      94,
+      122,
+      6
+    ],
+    "chaCast": [
+      87,
+      113,
+      -8
+    ],
+    "slashRes": 25,
+    "bashRes": -65,
+    "pierceRes": -25,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 320302,
+    "charId": 3203,
+    "name": "リッチ",
+    "altName": "[俺は家族を守る]",
+    "rarity": "S",
+    "weaponType": "Sword",
+    "lp": 5,
+    "jutsuList": [
+      51
+    ],
+    "role": 1,
+    "skillRefs": [
+      110100028,
+      125100009,
+      110100024
+    ],
+    "bonusId": 320302,
+    "strCast": [
+      103,
+      141,
+      0
+    ],
+    "conCast": [
+      99,
+      136,
+      0
+    ],
+    "dexCast": [
+      107,
+      146,
+      0
+    ],
+    "spdCast": [
+      99,
+      136,
+      0
+    ],
+    "intCast": [
+      107,
+      146,
+      0
+    ],
+    "sprCast": [
+      110,
+      151,
+      0
+    ],
+    "loveCast": [
+      96,
+      131,
+      0
+    ],
+    "chaCast": [
+      96,
+      131,
+      0
+    ],
+    "slashRes": 45,
+    "bashRes": -55,
+    "pierceRes": 10,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 320401,
+    "charId": 3204,
+    "name": "ジニー",
+    "altName": "[森のアニマよ、力を！]",
+    "rarity": "S",
+    "weaponType": "Pole",
+    "lp": 5,
+    "jutsuList": [
+      53
+    ],
+    "role": 4,
+    "skillRefs": [
+      110400012,
+      125300005,
+      110400001
+    ],
+    "bonusId": 320401,
+    "strCast": [
+      121,
+      166,
+      5
+    ],
+    "conCast": [
+      88,
+      122,
+      0
+    ],
+    "dexCast": [
+      110,
+      151,
+      0
+    ],
+    "spdCast": [
+      110,
+      151,
+      1
+    ],
+    "intCast": [
+      96,
+      131,
+      -3
+    ],
+    "sprCast": [
+      103,
+      141,
+      -2
+    ],
+    "loveCast": [
+      85,
+      117,
+      0
+    ],
+    "chaCast": [
+      103,
+      141,
+      -1
+    ],
+    "slashRes": 10,
+    "bashRes": 45,
+    "pierceRes": -55,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 320402,
+    "charId": 3204,
+    "name": "ジニー",
+    "altName": "[私はジニー・ナイツよ]",
+    "rarity": "SS",
+    "weaponType": "Pole",
+    "lp": 6,
+    "jutsuList": [
+      53
+    ],
+    "role": 4,
+    "skillRefs": [
+      110400014,
+      110400009,
+      110400004
+    ],
+    "bonusId": 320402,
+    "strCast": [
+      133,
+      174,
+      3
+    ],
+    "conCast": [
+      112,
+      147,
+      0
+    ],
+    "dexCast": [
+      124,
+      163,
+      0
+    ],
+    "spdCast": [
+      120,
+      158,
+      0
+    ],
+    "intCast": [
+      120,
+      158,
+      0
+    ],
+    "sprCast": [
+      116,
+      152,
+      -3
+    ],
+    "loveCast": [
+      103,
+      136,
+      -1
+    ],
+    "chaCast": [
+      128,
+      169,
+      0
+    ],
+    "slashRes": 25,
+    "bashRes": 65,
+    "pierceRes": -45,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 320403,
+    "charId": 3204,
+    "name": "ジニー",
+    "altName": "[全然、寒くないよ]",
+    "rarity": "SS",
+    "weaponType": "Pole",
+    "lp": 6,
+    "jutsuList": [
+      53
+    ],
+    "role": 1,
+    "skillRefs": [
+      110400013,
+      110400005,
+      110400002
+    ],
+    "bonusId": 320403,
+    "strCast": [
+      141,
+      185,
+      3
+    ],
+    "conCast": [
+      112,
+      147,
+      0
+    ],
+    "dexCast": [
+      124,
+      163,
+      0
+    ],
+    "spdCast": [
+      116,
+      152,
+      0
+    ],
+    "intCast": [
+      107,
+      141,
+      -1
+    ],
+    "sprCast": [
+      124,
+      163,
+      -3
+    ],
+    "loveCast": [
+      103,
+      136,
+      0
+    ],
+    "chaCast": [
+      128,
+      169,
+      0
+    ],
+    "slashRes": 25,
+    "bashRes": 65,
+    "pierceRes": -45,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 321601,
+    "charId": 3216,
+    "name": "ヨハン",
+    "altName": "[気配は消えている]",
+    "rarity": "A",
+    "weaponType": "Martial Arts",
+    "lp": 4,
+    "jutsuList": [],
+    "role": 4,
+    "skillRefs": [
+      110500019,
+      110500020,
+      110500021
+    ],
+    "bonusId": 321601,
+    "strCast": [
+      107,
+      140,
+      4
+    ],
+    "conCast": [
+      104,
+      135,
+      -1
+    ],
+    "dexCast": [
+      90,
+      117,
+      0
+    ],
+    "spdCast": [
+      93,
+      121,
+      0
+    ],
+    "intCast": [
+      93,
+      121,
+      -6
+    ],
+    "sprCast": [
+      107,
+      140,
+      0
+    ],
+    "loveCast": [
+      104,
+      135,
+      0
+    ],
+    "chaCast": [
+      97,
+      126,
+      3
+    ],
+    "slashRes": -25,
+    "bashRes": 25,
+    "pierceRes": -65,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 321602,
+    "charId": 3216,
+    "name": "ヨハン",
+    "altName": "[サソリを背負う者]",
+    "rarity": "S",
+    "weaponType": "Martial Arts",
+    "lp": 5,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110500010,
+      110500011,
+      110500015
+    ],
+    "bonusId": 321602,
+    "strCast": [
+      111,
+      152,
+      0
+    ],
+    "conCast": [
+      114,
+      157,
+      -2
+    ],
+    "dexCast": [
+      96,
+      132,
+      1
+    ],
+    "spdCast": [
+      111,
+      152,
+      4
+    ],
+    "intCast": [
+      85,
+      117,
+      0
+    ],
+    "sprCast": [
+      103,
+      142,
+      -1
+    ],
+    "loveCast": [
+      89,
+      122,
+      -1
+    ],
+    "chaCast": [
+      107,
+      147,
+      -1
+    ],
+    "slashRes": 10,
+    "bashRes": 45,
+    "pierceRes": -55,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 410101,
+    "charId": 4101,
+    "name": "ローラ",
+    "altName": "[あたしに任せな]",
+    "rarity": "A",
+    "weaponType": "Spear",
+    "lp": 4,
+    "jutsuList": [],
+    "role": 2,
+    "skillRefs": [
+      110800019,
+      110800010,
+      110800013
+    ],
+    "bonusId": 410101,
+    "strCast": [
+      104,
+      135,
+      0
+    ],
+    "conCast": [
+      107,
+      140,
+      7
+    ],
+    "dexCast": [
+      97,
+      126,
+      1
+    ],
+    "spdCast": [
+      97,
+      126,
+      1
+    ],
+    "intCast": [
+      90,
+      117,
+      0
+    ],
+    "sprCast": [
+      104,
+      135,
+      -7
+    ],
+    "loveCast": [
+      86,
+      112,
+      -1
+    ],
+    "chaCast": [
+      111,
+      144,
+      -1
+    ],
+    "slashRes": -65,
+    "bashRes": -25,
+    "pierceRes": 25,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 410102,
+    "charId": 4101,
+    "name": "ローラ",
+    "altName": "[海狼のローラ様だ！]",
+    "rarity": "S",
+    "weaponType": "Spear",
+    "lp": 5,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110800009,
+      110800013,
+      110800002
+    ],
+    "bonusId": 410102,
+    "strCast": [
+      113,
+      155,
+      3
+    ],
+    "conCast": [
+      106,
+      145,
+      3
+    ],
+    "dexCast": [
+      102,
+      140,
+      0
+    ],
+    "spdCast": [
+      98,
+      135,
+      0
+    ],
+    "intCast": [
+      91,
+      125,
+      0
+    ],
+    "sprCast": [
+      106,
+      145,
+      -6
+    ],
+    "loveCast": [
+      84,
+      116,
+      0
+    ],
+    "chaCast": [
+      116,
+      160,
+      0
+    ],
+    "slashRes": -55,
+    "bashRes": 10,
+    "pierceRes": 45,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 411101,
+    "charId": 4111,
+    "name": "アンリ",
+    "altName": "[エスカータの王]",
+    "rarity": "A",
+    "weaponType": "Shortsword",
+    "lp": 4,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110700016,
+      110700017,
+      110700013
+    ],
+    "bonusId": 411101,
+    "strCast": [
+      93,
+      121,
+      -8
+    ],
+    "conCast": [
+      100,
+      130,
+      -1
+    ],
+    "dexCast": [
+      103,
+      135,
+      6
+    ],
+    "spdCast": [
+      96,
+      126,
+      0
+    ],
+    "intCast": [
+      100,
+      130,
+      0
+    ],
+    "sprCast": [
+      103,
+      135,
+      0
+    ],
+    "loveCast": [
+      110,
+      144,
+      3
+    ],
+    "chaCast": [
+      89,
+      116,
+      0
+    ],
+    "slashRes": -65,
+    "bashRes": -25,
+    "pierceRes": 25,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 411102,
+    "charId": 4111,
+    "name": "アンリ",
+    "altName": "[エスカータの王子]",
+    "rarity": "S",
+    "weaponType": "Shortsword",
+    "lp": 5,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110700012,
+      110700005,
+      110700018
+    ],
+    "bonusId": 411102,
+    "strCast": [
+      107,
+      146,
+      -1
+    ],
+    "conCast": [
+      103,
+      141,
+      -4
+    ],
+    "dexCast": [
+      110,
+      151,
+      3
+    ],
+    "spdCast": [
+      117,
+      161,
+      3
+    ],
+    "intCast": [
+      96,
+      131,
+      0
+    ],
+    "sprCast": [
+      103,
+      141,
+      -1
+    ],
+    "loveCast": [
+      81,
+      112,
+      0
+    ],
+    "chaCast": [
+      99,
+      136,
+      0
+    ],
+    "slashRes": -55,
+    "bashRes": 10,
+    "pierceRes": 45,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 610101,
+    "charId": 6101,
+    "name": "ウルピナ",
+    "altName": "[今日はおしとやかに]",
+    "rarity": "A",
+    "weaponType": "Sword",
+    "lp": 4,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110100022,
+      110100025,
+      110100020
+    ],
+    "bonusId": 610101,
+    "strCast": [
+      107,
+      139,
+      1
+    ],
+    "conCast": [
+      103,
+      134,
+      6
+    ],
+    "dexCast": [
+      103,
+      134,
+      1
+    ],
+    "spdCast": [
+      100,
+      130,
+      1
+    ],
+    "intCast": [
+      89,
+      116,
+      0
+    ],
+    "sprCast": [
+      100,
+      130,
+      -7
+    ],
+    "loveCast": [
+      89,
+      116,
+      -1
+    ],
+    "chaCast": [
+      107,
+      139,
+      -1
+    ],
+    "slashRes": 25,
+    "bashRes": -65,
+    "pierceRes": -25,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 610102,
+    "charId": 6101,
+    "name": "ウルピナ",
+    "altName": "[ユラニウス家の力]",
+    "rarity": "SS",
+    "weaponType": "Sword",
+    "lp": 6,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110100018,
+      110100010,
+      110100005
+    ],
+    "bonusId": 610102,
+    "strCast": [
+      130,
+      172,
+      0
+    ],
+    "conCast": [
+      108,
+      145,
+      2
+    ],
+    "dexCast": [
+      125,
+      165,
+      0
+    ],
+    "spdCast": [
+      134,
+      176,
+      1
+    ],
+    "intCast": [
+      125,
+      159,
+      -1
+    ],
+    "sprCast": [
+      121,
+      162,
+      -1
+    ],
+    "loveCast": [
+      100,
+      131,
+      0
+    ],
+    "chaCast": [
+      113,
+      148,
+      -2
+    ],
+    "slashRes": 65,
+    "bashRes": -45,
+    "pierceRes": 25,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 710101,
+    "charId": 7101,
+    "name": "ポルカ・リン・ウッド",
+    "altName": "[侯国塔士として！]",
+    "rarity": "A",
+    "weaponType": "Sword",
+    "lp": 4,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110100018,
+      110100014,
+      110100003
+    ],
+    "bonusId": 710101,
+    "strCast": [
+      103,
+      135,
+      1
+    ],
+    "conCast": [
+      107,
+      139,
+      0
+    ],
+    "dexCast": [
+      100,
+      130,
+      1
+    ],
+    "spdCast": [
+      100,
+      130,
+      1
+    ],
+    "intCast": [
+      89,
+      116,
+      0
+    ],
+    "sprCast": [
+      100,
+      130,
+      -1
+    ],
+    "loveCast": [
+      103,
+      135,
+      5
+    ],
+    "chaCast": [
+      93,
+      121,
+      -7
+    ],
+    "slashRes": 25,
+    "bashRes": -65,
+    "pierceRes": -25,
+    "heatRes": 35,
+    "coldRes": -65,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 710103,
+    "charId": 7101,
+    "name": "ポルカ・リン・ウッド",
+    "altName": "[俺に力を貸してくれ！]",
+    "rarity": "SS",
+    "weaponType": "Sword",
+    "lp": 6,
+    "jutsuList": [],
+    "role": 2,
+    "skillRefs": [
+      110100017,
+      110100016,
+      110100006
+    ],
+    "bonusId": 710103,
+    "strCast": [
+      138,
+      181,
+      0
+    ],
+    "conCast": [
+      134,
+      176,
+      1
+    ],
+    "dexCast": [
+      113,
+      148,
+      1
+    ],
+    "spdCast": [
+      121,
+      159,
+      1
+    ],
+    "intCast": [
+      100,
+      131,
+      -1
+    ],
+    "sprCast": [
+      121,
+      159,
+      -1
+    ],
+    "loveCast": [
+      108,
+      142,
+      -1
+    ],
+    "chaCast": [
+      121,
+      159,
+      -1
+    ],
+    "slashRes": 65,
+    "bashRes": -45,
+    "pierceRes": 25,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 710301,
+    "charId": 7103,
+    "name": "シン・ドゥ",
+    "altName": "[キャッ！]",
+    "rarity": "A",
+    "weaponType": "Staff",
+    "lp": 4,
+    "jutsuList": [
+      54
+    ],
+    "role": 3,
+    "skillRefs": [
+      125400008,
+      125400005,
+      125400006
+    ],
+    "bonusId": 710301,
+    "strCast": [
+      86,
+      112,
+      -7
+    ],
+    "conCast": [
+      93,
+      121,
+      -1
+    ],
+    "dexCast": [
+      100,
+      130,
+      -1
+    ],
+    "spdCast": [
+      100,
+      130,
+      0
+    ],
+    "intCast": [
+      110,
+      144,
+      7
+    ],
+    "sprCast": [
+      107,
+      139,
+      1
+    ],
+    "loveCast": [
+      100,
+      130,
+      1
+    ],
+    "chaCast": [
+      100,
+      130,
+      0
+    ],
+    "slashRes": -25,
+    "bashRes": 25,
+    "pierceRes": -65,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 710401,
+    "charId": 7104,
+    "name": "ヴァルドー",
+    "altName": "[命をもてあそぶな！]",
+    "rarity": "A",
+    "weaponType": "Martial Arts",
+    "lp": 4,
+    "jutsuList": [],
+    "role": 2,
+    "skillRefs": [
+      110500025,
+      110500021,
+      110500015
+    ],
+    "bonusId": 710401,
+    "strCast": [
+      110,
+      144,
+      6
+    ],
+    "conCast": [
+      114,
+      148,
+      3
+    ],
+    "dexCast": [
+      93,
+      121,
+      0
+    ],
+    "spdCast": [
+      93,
+      121,
+      0
+    ],
+    "intCast": [
+      82,
+      107,
+      -6
+    ],
+    "sprCast": [
+      107,
+      139,
+      0
+    ],
+    "loveCast": [
+      93,
+      121,
+      0
+    ],
+    "chaCast": [
+      103,
+      135,
+      -3
+    ],
+    "slashRes": -25,
+    "bashRes": 25,
+    "pierceRes": -65,
+    "heatRes": -65,
+    "coldRes": 35,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 710501,
+    "charId": 7105,
+    "name": "ようせい",
+    "altName": "[おいらにまかせな]",
+    "rarity": "A",
+    "weaponType": "Spear",
+    "lp": 4,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110800007,
+      110800014,
+      110800002
+    ],
+    "bonusId": 710501,
+    "strCast": [
+      115,
+      149,
+      2
+    ],
+    "conCast": [
+      93,
+      121,
+      -6
+    ],
+    "dexCast": [
+      104,
+      135,
+      0
+    ],
+    "spdCast": [
+      118,
+      154,
+      7
+    ],
+    "intCast": [
+      90,
+      117,
+      0
+    ],
+    "sprCast": [
+      93,
+      121,
+      -2
+    ],
+    "loveCast": [
+      83,
+      108,
+      0
+    ],
+    "chaCast": [
+      100,
+      131,
+      -1
+    ],
+    "slashRes": -65,
+    "bashRes": -25,
+    "pierceRes": 25,
+    "heatRes": 0,
+    "coldRes": 0,
+    "elecRes": 0,
+    "sunRes": 0,
+    "shadowRes": 0
+  },
+  {
+    "id": 999991,
+    "charId": 2101,
+    "name": "アルベルト",
+    "altName": "[左利きの戦士]",
+    "rarity": "S",
+    "weaponType": "Sword",
+    "lp": 4,
+    "jutsuList": [],
+    "role": 3,
+    "skillRefs": [
+      110100017,
+      125100008,
+      110100002
+    ],
+    "bonusId": 999991,
+    "strCast": [
+      106,
+      146,
+      1
+    ],
+    "conCast": [
+      110,
+      151,
+      0
+    ],
+    "dexCast": [
+      102,
+      141,
+      1
+    ],
+    "spdCast": [
+      102,
+      141,
+      1
+    ],
+    "intCast": [
+      92,
+      126,
+      0
+    ],
+    "sprCast": [
+      102,
+      141,
+      -1
+    ],
+    "loveCast": [
+      106,
+      146,
+      2
+    ],
+    "chaCast": [
+      95,
+      131,
+      -4
+    ],
+    "slashRes": 38,
+    "bashRes": -45,
+    "pierceRes": 10,
+    "heatRes": 27,
+    "coldRes": -41,
+    "elecRes": 26,
+    "sunRes": 26,
+    "shadowRes": 0
+  },
+  {
+    "id": 999992,
+    "charId": 2203,
+    "name": "最終皇帝(男)",
+    "altName": "[運命を背負う者]",
+    "rarity": "SS",
+    "weaponType": "Greatsword",
+    "lp": 5,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110200017,
+      110200016,
+      110200009
+    ],
+    "bonusId": 999992,
+    "strCast": [
+      128,
+      185,
+      1
+    ],
+    "conCast": [
+      116,
+      169,
+      0
+    ],
+    "dexCast": [
+      109,
+      158,
+      1
+    ],
+    "spdCast": [
+      113,
+      163,
+      1
+    ],
+    "intCast": [
+      90,
+      130,
+      -1
+    ],
+    "sprCast": [
+      105,
+      152,
+      -1
+    ],
+    "loveCast": [
+      101,
+      147,
+      -1
+    ],
+    "chaCast": [
+      105,
+      152,
+      -1
+    ],
+    "slashRes": -45,
+    "bashRes": -26,
+    "pierceRes": 26,
+    "heatRes": -19,
+    "coldRes": -20,
+    "elecRes": 20,
+    "sunRes": 20,
+    "shadowRes": -17
+  },
+  {
+    "id": 999993,
+    "charId": 3106,
+    "name": "アセルス",
+    "altName": "[我が名はアセルス！]",
+    "rarity": "SS",
+    "weaponType": "Sword",
+    "lp": 5,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110100022,
+      110100013,
+      110100004
+    ],
+    "bonusId": 999993,
+    "strCast": [
+      121,
+      175,
+      2
+    ],
+    "conCast": [
+      94,
+      136,
+      0
+    ],
+    "dexCast": [
+      117,
+      170,
+      0
+    ],
+    "spdCast": [
+      121,
+      175,
+      1
+    ],
+    "intCast": [
+      113,
+      164,
+      0
+    ],
+    "sprCast": [
+      102,
+      147,
+      -2
+    ],
+    "loveCast": [
+      90,
+      131,
+      -1
+    ],
+    "chaCast": [
+      109,
+      158,
+      -1
+    ],
+    "slashRes": -45,
+    "bashRes": -26,
+    "pierceRes": 26,
+    "heatRes": -19,
+    "coldRes": -20,
+    "elecRes": 20,
+    "sunRes": 20,
+    "shadowRes": -17
+  },
+  {
+    "id": 999994,
+    "charId": 7101,
+    "name": "ポルカ・リン・ウッド",
+    "altName": "[◆二つ名未定◆]",
+    "rarity": "A",
+    "weaponType": "Sword",
+    "lp": 4,
+    "jutsuList": [],
+    "role": 1,
+    "skillRefs": [
+      110100018,
+      110100014,
+      110100003
+    ],
+    "bonusId": 999994,
+    "strCast": [
+      103,
+      135,
+      1
+    ],
+    "conCast": [
+      107,
+      139,
+      0
+    ],
+    "dexCast": [
+      100,
+      130,
+      1
+    ],
+    "spdCast": [
+      100,
+      130,
+      1
+    ],
+    "intCast": [
+      89,
+      116,
+      0
+    ],
+    "sprCast": [
+      100,
+      130,
+      -1
+    ],
+    "loveCast": [
+      103,
+      135,
+      5
+    ],
+    "chaCast": [
+      93,
+      121,
+      -7
+    ],
+    "slashRes": 25,
+    "bashRes": -50,
+    "pierceRes": -27,
+    "heatRes": -17,
+    "coldRes": -20,
+    "elecRes": -19,
+    "sunRes": -19,
+    "shadowRes": -45
+  },
+  {
+    "id": 999995,
+    "charId": 7102,
+    "name": "リズ・リン・ウッド",
+    "altName": "[◆二つ名未定◆]",
+    "rarity": "A",
+    "weaponType": "Bow",
+    "lp": 7,
+    "jutsuList": [
+      52
+    ],
+    "role": 1,
+    "skillRefs": [
+      110900013,
+      125200008,
+      125200010
+    ],
+    "bonusId": 999995,
+    "strCast": [
+      82,
+      107,
+      -1
+    ],
+    "conCast": [
+      82,
+      107,
+      -1
+    ],
+    "dexCast": [
+      103,
+      135,
+      -1
+    ],
+    "spdCast": [
+      96,
+      126,
+      0
+    ],
+    "intCast": [
+      114,
+      148,
+      1
+    ],
+    "sprCast": [
+      114,
+      148,
+      1
+    ],
+    "loveCast": [
+      107,
+      139,
+      7
+    ],
+    "chaCast": [
+      96,
+      126,
+      -6
+    ],
+    "slashRes": -45,
+    "bashRes": -26,
+    "pierceRes": 26,
+    "heatRes": -19,
+    "coldRes": -20,
+    "elecRes": 20,
+    "sunRes": 20,
+    "shadowRes": -17
+  },
+  {
+    "id": 999996,
+    "charId": 2341,
+    "name": "教授",
+    "altName": "[◆二つ名未定◆]",
+    "rarity": "S",
+    "weaponType": "Bow",
+    "lp": 7,
+    "jutsuList": [
+      52
+    ],
+    "role": 1,
+    "skillRefs": [
+      110900013,
+      125200008,
+      125200010
+    ],
+    "bonusId": 999996,
+    "strCast": [
+      82,
+      107,
+      -1
+    ],
+    "conCast": [
+      82,
+      107,
+      -1
+    ],
+    "dexCast": [
+      103,
+      135,
+      -1
+    ],
+    "spdCast": [
+      96,
+      126,
+      0
+    ],
+    "intCast": [
+      114,
+      148,
+      1
+    ],
+    "sprCast": [
+      114,
+      148,
+      1
+    ],
+    "loveCast": [
+      107,
+      139,
+      4
+    ],
+    "chaCast": [
+      96,
+      126,
+      -3
+    ],
+    "slashRes": -45,
+    "bashRes": -26,
+    "pierceRes": 26,
+    "heatRes": -19,
+    "coldRes": -20,
+    "elecRes": 20,
+    "sunRes": 20,
+    "shadowRes": -17
+  }
+]
