@@ -1,4 +1,4 @@
-export default class styleInfo {
+export default class StyleInfo {
     constructor (
         strCast, conCast, dexCast, spdCast,
         intCast, sprCast, loveCast, chaCast,
@@ -7,6 +7,20 @@ export default class styleInfo {
         slashRes, bashRes, pierceRes, heatRes,
         coldRes, elecRes, sunRes, shadowRes, charId
     ) {
+        /**
+         * Style info
+         */
+        this.id = id;
+        this.charId = charId; // Owner of style
+        this.name = name;
+        this.altName = altName;
+        this.rarity = rarity;
+        this.weaponType = weaponType;
+        this.lp = lp;
+        this.jutsuList = jutsuList // Array[3]
+        this.role = role;
+        this.skillRefs = skillRefs; // Array[3]
+        this.bonusId = bonusId;
         /**
          * Stats:
          * [0] - min
@@ -22,19 +36,6 @@ export default class styleInfo {
         this.loveCast = loveCast;
         this.chaCast = chaCast;
         /**
-         * Style info
-         */
-        this.id = id;
-        this.name = name;
-        this.altName = altName;
-        this.rarity = rarity;
-        this.weaponType = weaponType;
-        this.lp = lp;
-        this.jutsuList = jutsuList // Array[3]
-        this.role = role;
-        this.skillRefs = skillRefs; // Array[3]
-        this.bonusId = bonusId;
-        /**
          * Resistances
          */
         this.slashRes = slashRes;
@@ -45,6 +46,5 @@ export default class styleInfo {
         this.elecRes = elecRes;
         this.sunRes = sunRes;
         this.shadowRes = shadowRes;
-        this.charId = charId; // Owner of style
     }
 }

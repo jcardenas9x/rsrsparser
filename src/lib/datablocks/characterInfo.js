@@ -1,6 +1,6 @@
 'use strict';
 
-export default class characterInfo {
+export default class CharacterInfo {
     constructor (
         id, name, str, con, dex,
         spd, int, spr, love, cha

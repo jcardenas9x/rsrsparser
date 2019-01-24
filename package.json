@@ -1,7 +1,7 @@
 {
   "name": "rsrsparser",
   "version": "0.1.0",
-  "description": "Parses data for RSRS into a serialized JSON format",
+  "description": "Parses data for RSRS into a serialized JSON format and then dumps them into files",
   "main": "index.js",
   "scripts": {
     "start": "babel-node src/index.js",

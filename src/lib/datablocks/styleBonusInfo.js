@@ -1,4 +1,4 @@
-export default class styleBonusInfo {
+export default class StyleBonusInfo {
     constructor (id, styleId, level, type, value) {
         this.id = id;
         this.styleId = styleId;
