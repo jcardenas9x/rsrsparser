@@ -59,7 +59,7 @@ export const textReadStyle = (file) => {
                         let key = dataString[0].trim();
                         let value = dataString[1].trim();
                         switch(key) {
-                            case "int id": StyleInfoList[fileListIndex].id = parseInt(value); break;
+                            case "int id": StyleInfoList[fileListIndex].objId = parseInt(value); break;
                             case "string name": StyleInfoList[fileListIndex].name = value.replace(/"/g, ''); break;
                             case "string another_name": StyleInfoList[fileListIndex].altName = value.replace(/"/g, ''); break;
                             case "int rarity": StyleInfoList[fileListIndex].rarity = Typevars.styleRarities[parseInt(value)]; break;

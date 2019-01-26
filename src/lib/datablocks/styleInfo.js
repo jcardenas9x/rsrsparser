@@ -10,7 +10,7 @@ export default class StyleInfo {
         /**
          * Style info
          */
-        this.id = id;
+        this.objId = id;
         this.charId = charId; // Owner of style
         this.name = name;
         this.altName = altName;

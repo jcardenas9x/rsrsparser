@@ -46,7 +46,7 @@ export const textReadAbility = (file) => {
                         let key = dataString[0].trim();
                         let value = dataString[1].trim();
                         switch (key) {
-                            case "int id": AbilityInfoList[fileListIndex].id = parseInt(value); break;
+                            case "int id": AbilityInfoList[fileListIndex].objId = parseInt(value); break;
                             case "string name": AbilityInfoList[fileListIndex].name = value.replace(/"/g, ''); break;
                             case "string flavor_text": AbilityInfoList[fileListIndex].flavorText = value.replace(/"/g, ''); break;
                             case "int icon": 

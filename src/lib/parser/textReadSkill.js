@@ -58,7 +58,7 @@ export const textReadSkill = (file) => {
                         let value = dataString[1].trim();
                         switch (key) {
                             case "int id": 
-                                SkillInfoList[fileListIndex].id = parseInt(value); break;
+                                SkillInfoList[fileListIndex].objId = parseInt(value); break;
                             case "string name": SkillInfoList[fileListIndex].name = value.replace(/"/g, ''); break;
                             case "string flavor_text": SkillInfoList[fileListIndex].flavorText = value.replace(/"/g, ''); break;
                             case "int size": 

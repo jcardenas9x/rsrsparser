@@ -46,7 +46,7 @@ export const textReadStyleBonus = (file) => {
                         let key = dataString[0].trim();
                         let value = dataString[1].trim();
                         switch (key) {
-                            case "int id": StyleBonusInfoList[fileListIndex].id = parseInt(value); break;
+                            case "int id": StyleBonusInfoList[fileListIndex].objId = parseInt(value); break;
                             case "int style_id": StyleBonusInfoList[fileListIndex].styleId = parseInt(value); break;
                             case "int reached_level": StyleBonusInfoList[fileListIndex].level = parseInt(value); break;
                             case "int style_bonus_type": StyleBonusInfoList[fileListIndex].type = parseInt(value); break;

@@ -1,6 +1,6 @@
 [
   {
-    "id": 110100000,
+    "objId": 110100000,
     "name": "通常攻撃(剣)",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 剣で攻撃する<br>",
     "attackAttributes": [
@@ -14,7 +14,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 110100001,
+    "objId": 110100001,
     "name": "剣閃",
     "flavorText": "攻撃/近/敵横一列 ( 斬 ) 剣で範囲攻撃する<br>",
     "attackAttributes": [
@@ -32,7 +32,7 @@
     ]
   },
   {
-    "id": 110100002,
+    "objId": 110100002,
     "name": "光速剣",
     "flavorText": "攻撃/遠/敵単体 ( 斬 ) 剣で攻撃する<br>",
     "attackAttributes": [
@@ -50,7 +50,7 @@
     ]
   },
   {
-    "id": 110100003,
+    "objId": 110100003,
     "name": "真空斬り",
     "flavorText": "攻撃/遠/敵単体 ( 斬 ) 剣で攻撃する<br>",
     "attackAttributes": [
@@ -68,7 +68,7 @@
     ]
   },
   {
-    "id": 110100004,
+    "objId": 110100004,
     "name": "ロザリオインペール",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 剣で攻撃する [特効：不死]<br>",
     "attackAttributes": [
@@ -88,7 +88,7 @@
     ]
   },
   {
-    "id": 110100005,
+    "objId": 110100005,
     "name": "マルチウェイ",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 剣で攻撃する<br>",
     "attackAttributes": [
@@ -106,7 +106,7 @@
     ]
   },
   {
-    "id": 110100006,
+    "objId": 110100006,
     "name": "黄龍剣",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 剣で攻撃する<br>",
     "attackAttributes": [
@@ -124,7 +124,7 @@
     ]
   },
   {
-    "id": 110100007,
+    "objId": 110100007,
     "name": "デミルーンエコー",
     "flavorText": "攻撃/近/敵単体 ( 斬+雷 ) 剣で攻撃する<br>",
     "attackAttributes": [
@@ -143,7 +143,7 @@
     ]
   },
   {
-    "id": 110100008,
+    "objId": 110100008,
     "name": "不動剣",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 剣で攻撃する [ディレイ]<br>敵の注意を引きつける(中)",
     "attackAttributes": [
@@ -161,7 +161,7 @@
     ]
   },
   {
-    "id": 110100009,
+    "objId": 110100009,
     "name": "無月散水",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 剣で攻撃する<br>",
     "attackAttributes": [
@@ -179,7 +179,7 @@
     ]
   },
   {
-    "id": 110100010,
+    "objId": 110100010,
     "name": "疾風剣",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 剣で攻撃する [ファスト]<br>",
     "attackAttributes": [
@@ -196,7 +196,7 @@
     ]
   },
   {
-    "id": 110100011,
+    "objId": 110100011,
     "name": "龍尾返し",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 剣で攻撃する<br>",
     "attackAttributes": [
@@ -213,7 +213,7 @@
     ]
   },
   {
-    "id": 110100012,
+    "objId": 110100012,
     "name": "音速剣",
     "flavorText": "攻撃/遠/敵単体 ( 斬 ) 剣で攻撃する<br>",
     "attackAttributes": [
@@ -230,7 +230,7 @@
     ]
   },
   {
-    "id": 110100013,
+    "objId": 110100013,
     "name": "天地二段",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 剣で攻撃する<br>対象をスタンさせる(確率中)",
     "attackAttributes": [
@@ -247,7 +247,7 @@
     ]
   },
   {
-    "id": 110100014,
+    "objId": 110100014,
     "name": "五月雨斬り",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 剣で攻撃する [ファスト]<br>",
     "attackAttributes": [
@@ -264,7 +264,7 @@
     ]
   },
   {
-    "id": 110100015,
+    "objId": 110100015,
     "name": "クロスブレイク",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 剣で攻撃する<br>",
     "attackAttributes": [
@@ -281,7 +281,7 @@
     ]
   },
   {
-    "id": 110100016,
+    "objId": 110100016,
     "name": "パリイ",
     "flavorText": "防御/自身  回避技。敵の直接攻撃を受け流す<br>",
     "attackAttributes": [
@@ -298,7 +298,7 @@
     ]
   },
   {
-    "id": 110100017,
+    "objId": 110100017,
     "name": "なぎ払い",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 剣で攻撃する<br>対象をスタンさせる(確率中)",
     "attackAttributes": [
@@ -314,7 +314,7 @@
     ]
   },
   {
-    "id": 110100018,
+    "objId": 110100018,
     "name": "失礼剣",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 剣で攻撃する<br>敵の注意を引きつける(小)",
     "attackAttributes": [
@@ -330,7 +330,7 @@
     ]
   },
   {
-    "id": 110100019,
+    "objId": 110100019,
     "name": "かすみ二段",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 剣で攻撃する<br>",
     "attackAttributes": [
@@ -346,7 +346,7 @@
     ]
   },
   {
-    "id": 110100020,
+    "objId": 110100020,
     "name": "つむじ風",
     "flavorText": "攻撃/近/敵横一列 ( 斬 ) 剣で範囲攻撃する<br>",
     "attackAttributes": [
@@ -363,7 +363,7 @@
     ]
   },
   {
-    "id": 110100021,
+    "objId": 110100021,
     "name": "変幻自在",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 剣で攻撃する<br>対象を眠り状態にする(確率中)",
     "attackAttributes": [
@@ -381,7 +381,7 @@
     ]
   },
   {
-    "id": 110100022,
+    "objId": 110100022,
     "name": "二段斬り",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 剣で攻撃する<br>",
     "attackAttributes": [
@@ -397,7 +397,7 @@
     ]
   },
   {
-    "id": 110100023,
+    "objId": 110100023,
     "name": "残像剣",
     "flavorText": "攻撃/近/敵全体 ( 斬 ) 剣で全体攻撃する<br>",
     "attackAttributes": [
@@ -414,7 +414,7 @@
     ]
   },
   {
-    "id": 110100024,
+    "objId": 110100024,
     "name": "分身剣",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 剣で攻撃する<br>",
     "attackAttributes": [
@@ -432,7 +432,7 @@
     ]
   },
   {
-    "id": 110100025,
+    "objId": 110100025,
     "name": "みじん斬り",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 剣で攻撃する<br>",
     "attackAttributes": [
@@ -449,7 +449,7 @@
     ]
   },
   {
-    "id": 110100026,
+    "objId": 110100026,
     "name": "二刀烈風剣",
     "flavorText": "攻撃/近/敵全体 ( 斬 ) 剣で全体攻撃する [特効：浮遊]<br>",
     "attackAttributes": [
@@ -469,7 +469,7 @@
     ]
   },
   {
-    "id": 110100027,
+    "objId": 110100027,
     "name": "烈風剣",
     "flavorText": "攻撃/近/敵全体 ( 斬 ) 剣で全体攻撃する [特効：浮遊]<br>",
     "attackAttributes": [
@@ -489,7 +489,7 @@
     ]
   },
   {
-    "id": 110100028,
+    "objId": 110100028,
     "name": "落月破斬",
     "flavorText": "攻撃/遠/敵単体 ( 斬 ) 剣で攻撃する<br>",
     "attackAttributes": [
@@ -505,7 +505,7 @@
     ]
   },
   {
-    "id": 110100029,
+    "objId": 110100029,
     "name": "ライジングノヴァ",
     "flavorText": "攻撃/近/敵単体 ( 斬+熱 ) 剣で攻撃する<br>",
     "attackAttributes": [
@@ -524,7 +524,7 @@
     ]
   },
   {
-    "id": 110100030,
+    "objId": 110100030,
     "name": "デミルーン",
     "flavorText": "攻撃/近/敵単体 ( 斬+雷 ) 剣で攻撃する<br>",
     "attackAttributes": [
@@ -542,7 +542,7 @@
     ]
   },
   {
-    "id": 110100033,
+    "objId": 110100033,
     "name": "カウンター",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 剣で攻撃する<br>",
     "attackAttributes": [
@@ -556,7 +556,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 110200000,
+    "objId": 110200000,
     "name": "通常攻撃(大剣)",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 大剣で攻撃する<br>",
     "attackAttributes": [
@@ -570,7 +570,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 110200001,
+    "objId": 110200001,
     "name": "ツバメ返し",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 大剣で攻撃する [特効：浮遊]<br>",
     "attackAttributes": [
@@ -590,7 +590,7 @@
     ]
   },
   {
-    "id": 110200002,
+    "objId": 110200002,
     "name": "払車剣",
     "flavorText": "攻撃/近/敵全体 ( 斬 ) 大剣で全体攻撃する<br>",
     "attackAttributes": [
@@ -608,7 +608,7 @@
     ]
   },
   {
-    "id": 110200003,
+    "objId": 110200003,
     "name": "ベアクラッシュ",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 大剣で攻撃する<br>",
     "attackAttributes": [
@@ -626,7 +626,7 @@
     ]
   },
   {
-    "id": 110200004,
+    "objId": 110200004,
     "name": "ヴァンダライズ",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 大剣で攻撃する<br>",
     "attackAttributes": [
@@ -644,7 +644,7 @@
     ]
   },
   {
-    "id": 110200005,
+    "objId": 110200005,
     "name": "地ずり残月",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 大剣で攻撃する<br>対象の素早さを低下させる(中)",
     "attackAttributes": [
@@ -662,7 +662,7 @@
     ]
   },
   {
-    "id": 110200006,
+    "objId": 110200006,
     "name": "木の葉落とし",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 大剣で攻撃する<br>",
     "attackAttributes": [
@@ -680,7 +680,7 @@
     ]
   },
   {
-    "id": 110200007,
+    "objId": 110200007,
     "name": "月影の太刀",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 大剣で攻撃する<br>",
     "attackAttributes": [
@@ -698,7 +698,7 @@
     ]
   },
   {
-    "id": 110200008,
+    "objId": 110200008,
     "name": "ムーランルージュ",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 大剣で攻撃する [ファスト]<br>",
     "attackAttributes": [
@@ -716,7 +716,7 @@
     ]
   },
   {
-    "id": 110200009,
+    "objId": 110200009,
     "name": "無明剣",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 大剣で攻撃する<br>",
     "attackAttributes": [
@@ -734,7 +734,7 @@
     ]
   },
   {
-    "id": 110200010,
+    "objId": 110200010,
     "name": "濁流剣",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 大剣で攻撃する<br>",
     "attackAttributes": [
@@ -752,7 +752,7 @@
     ]
   },
   {
-    "id": 110200011,
+    "objId": 110200011,
     "name": "清流剣",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 大剣で攻撃する<br>",
     "attackAttributes": [
@@ -770,7 +770,7 @@
     ]
   },
   {
-    "id": 110200012,
+    "objId": 110200012,
     "name": "スマッシュ",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 大剣で攻撃する<br>",
     "attackAttributes": [
@@ -786,7 +786,7 @@
     ]
   },
   {
-    "id": 110200013,
+    "objId": 110200013,
     "name": "ブルクラッシュ",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 大剣で攻撃する<br>",
     "attackAttributes": [
@@ -803,7 +803,7 @@
     ]
   },
   {
-    "id": 110200014,
+    "objId": 110200014,
     "name": "水鳥剣",
     "flavorText": "攻撃/近/敵縦一列 ( 斬 ) 大剣で範囲攻撃する<br>",
     "attackAttributes": [
@@ -820,7 +820,7 @@
     ]
   },
   {
-    "id": 110200015,
+    "objId": 110200015,
     "name": "V-インパクト",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 大剣で攻撃する<br>",
     "attackAttributes": [
@@ -838,7 +838,7 @@
     ]
   },
   {
-    "id": 110200016,
+    "objId": 110200016,
     "name": "流し斬り",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 大剣で攻撃する<br>対象の腕力を低下させる(小)",
     "attackAttributes": [
@@ -855,7 +855,7 @@
     ]
   },
   {
-    "id": 110200017,
+    "objId": 110200017,
     "name": "払い抜け",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 大剣で攻撃する<br>",
     "attackAttributes": [
@@ -871,7 +871,7 @@
     ]
   },
   {
-    "id": 110200018,
+    "objId": 110200018,
     "name": "逆風の太刀",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 大剣で攻撃する<br>対象の素早さを低下させる(小)",
     "attackAttributes": [
@@ -888,7 +888,7 @@
     ]
   },
   {
-    "id": 110200019,
+    "objId": 110200019,
     "name": "かすみ青眼",
     "flavorText": "防御/自身  カウンター技。敵の直接攻撃に対し反撃を行う<br>",
     "attackAttributes": [
@@ -905,7 +905,7 @@
     ]
   },
   {
-    "id": 110200020,
+    "objId": 110200020,
     "name": "雷殺斬",
     "flavorText": "攻撃/近/敵単体 ( 斬+雷 ) 大剣で攻撃する<br>",
     "attackAttributes": [
@@ -924,7 +924,7 @@
     ]
   },
   {
-    "id": 110200021,
+    "objId": 110200021,
     "name": "秘踏みの太刀",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 大剣で攻撃する [特効：水棲]<br>対象を即死させる(確率小)",
     "attackAttributes": [
@@ -944,7 +944,7 @@
     ]
   },
   {
-    "id": 110200022,
+    "objId": 110200022,
     "name": "風雪即意付け",
     "flavorText": "攻撃/近/敵単体 ( 斬+冷 ) 大剣で攻撃する<br>対象をマヒさせる(確率中)",
     "attackAttributes": [
@@ -963,7 +963,7 @@
     ]
   },
   {
-    "id": 110200023,
+    "objId": 110200023,
     "name": "三花仙",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 大剣で攻撃する<br>",
     "attackAttributes": [
@@ -981,7 +981,7 @@
     ]
   },
   {
-    "id": 110200024,
+    "objId": 110200024,
     "name": "乱れ雪月花",
     "flavorText": "攻撃/近/敵単体 ( 斬+冷 ) 大剣で攻撃する<br>",
     "attackAttributes": [
@@ -1000,7 +1000,7 @@
     ]
   },
   {
-    "id": 110200025,
+    "objId": 110200025,
     "name": "無無剣",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 大剣で攻撃する<br>",
     "attackAttributes": [
@@ -1017,7 +1017,7 @@
     ]
   },
   {
-    "id": 110200026,
+    "objId": 110200026,
     "name": "地走り",
     "flavorText": "攻撃/近/敵横一列 ( 斬 ) 大剣で範囲攻撃する<br>",
     "attackAttributes": [
@@ -1034,7 +1034,7 @@
     ]
   },
   {
-    "id": 110200027,
+    "objId": 110200027,
     "name": "みね打ち",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 大剣で攻撃する<br>対象をマヒさせる(確率中)",
     "attackAttributes": [
@@ -1050,7 +1050,7 @@
     ]
   },
   {
-    "id": 110200028,
+    "objId": 110200028,
     "name": "かすみ青眼",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 大剣で攻撃する<br>",
     "attackAttributes": [
@@ -1064,7 +1064,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 110200029,
+    "objId": 110200029,
     "name": "カウンター",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 大剣で攻撃する<br>",
     "attackAttributes": [
@@ -1078,7 +1078,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 110200030,
+    "objId": 110200030,
     "name": "月影",
     "flavorText": "攻撃/遠/敵全体 ( 斬+陰 ) 大剣で全体攻撃する<br>",
     "attackAttributes": [
@@ -1097,7 +1097,7 @@
     ]
   },
   {
-    "id": 110200031,
+    "objId": 110200031,
     "name": "切り返し",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 大剣で攻撃する<br>",
     "attackAttributes": [
@@ -1113,7 +1113,7 @@
     ]
   },
   {
-    "id": 110300000,
+    "objId": 110300000,
     "name": "通常攻撃(斧)",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 斧で攻撃する<br>",
     "attackAttributes": [
@@ -1127,7 +1127,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 110300001,
+    "objId": 110300001,
     "name": "スカイドライヴ",
     "flavorText": "攻撃/遠/敵単体 ( 斬 ) 斧で攻撃する<br>",
     "attackAttributes": [
@@ -1145,7 +1145,7 @@
     ]
   },
   {
-    "id": 110300002,
+    "objId": 110300002,
     "name": "富岳八景",
     "flavorText": "攻撃/近/敵単体 ( 斬+熱 ) 斧で攻撃する<br>",
     "attackAttributes": [
@@ -1164,7 +1164,7 @@
     ]
   },
   {
-    "id": 110300003,
+    "objId": 110300003,
     "name": "高速ナブラ",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 斧で攻撃する<br>",
     "attackAttributes": [
@@ -1182,7 +1182,7 @@
     ]
   },
   {
-    "id": 110300004,
+    "objId": 110300004,
     "name": "マキ割ダイナミック",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 斧で攻撃する [特効：植物]<br>",
     "attackAttributes": [
@@ -1202,7 +1202,7 @@
     ]
   },
   {
-    "id": 110300005,
+    "objId": 110300005,
     "name": "トマホーク",
     "flavorText": "攻撃/遠/敵単体 ( 斬 ) 斧で攻撃する<br>",
     "attackAttributes": [
@@ -1218,7 +1218,7 @@
     ]
   },
   {
-    "id": 110300006,
+    "objId": 110300006,
     "name": "断ち割り",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 斧で攻撃する<br>",
     "attackAttributes": [
@@ -1234,7 +1234,7 @@
     ]
   },
   {
-    "id": 110300007,
+    "objId": 110300007,
     "name": "旋回撃",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 斧で攻撃する<br>",
     "attackAttributes": [
@@ -1250,7 +1250,7 @@
     ]
   },
   {
-    "id": 110300008,
+    "objId": 110300008,
     "name": "一人時間差",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 斧で攻撃する<br>",
     "attackAttributes": [
@@ -1267,7 +1267,7 @@
     ]
   },
   {
-    "id": 110300009,
+    "objId": 110300009,
     "name": "地獄断面",
     "flavorText": "防御/自身  カウンター技。敵の直接攻撃に対し反撃を行う<br>",
     "attackAttributes": [
@@ -1285,7 +1285,7 @@
     ]
   },
   {
-    "id": 110300010,
+    "objId": 110300010,
     "name": "大木断",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 斧で攻撃する [特効：植物]<br>",
     "attackAttributes": [
@@ -1304,7 +1304,7 @@
     ]
   },
   {
-    "id": 110300011,
+    "objId": 110300011,
     "name": "かかと斬り",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 斧で攻撃する<br>対象の素早さを低下させる(小)",
     "attackAttributes": [
@@ -1321,7 +1321,7 @@
     ]
   },
   {
-    "id": 110300012,
+    "objId": 110300012,
     "name": "飛翔脳天撃",
     "flavorText": "攻撃/遠/敵単体 ( 斬 ) 斧で攻撃する<br>",
     "attackAttributes": [
@@ -1339,7 +1339,7 @@
     ]
   },
   {
-    "id": 110300013,
+    "objId": 110300013,
     "name": "ブレードロール",
     "flavorText": "攻撃/近/敵全体 ( 斬 ) 斧で全体攻撃する<br>",
     "attackAttributes": [
@@ -1357,7 +1357,7 @@
     ]
   },
   {
-    "id": 110300014,
+    "objId": 110300014,
     "name": "かぶと割り",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 斧で攻撃する [特効：虫]<br>対象の体力を低下させる(小)",
     "attackAttributes": [
@@ -1376,7 +1376,7 @@
     ]
   },
   {
-    "id": 110300015,
+    "objId": 110300015,
     "name": "スカルクラッシュ",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 斧で攻撃する [特効：骨]<br>",
     "attackAttributes": [
@@ -1396,7 +1396,7 @@
     ]
   },
   {
-    "id": 110300016,
+    "objId": 110300016,
     "name": "ヨーヨー",
     "flavorText": "攻撃/遠/敵単体 ( 斬 ) 斧で攻撃する<br>",
     "attackAttributes": [
@@ -1413,7 +1413,7 @@
     ]
   },
   {
-    "id": 110300017,
+    "objId": 110300017,
     "name": "地獄断面",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 斧で攻撃する<br>",
     "attackAttributes": [
@@ -1427,7 +1427,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 110300018,
+    "objId": 110300018,
     "name": "通常攻撃(斧ABL反撃）",
     "flavorText": "攻撃/近/敵単体 ( 斬 ) 斧で攻撃する<br>",
     "attackAttributes": [
@@ -1441,7 +1441,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 110400000,
+    "objId": 110400000,
     "name": "通常攻撃(棍棒)",
     "flavorText": "攻撃/近/敵単体 ( 打 ) 棍棒で攻撃する<br>",
     "attackAttributes": [
@@ -1455,7 +1455,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 110400001,
+    "objId": 110400001,
     "name": "削岩撃",
     "flavorText": "攻撃/近/敵単体 ( 打 ) 棍棒で攻撃する [特効：岩石]<br>",
     "attackAttributes": [
@@ -1475,7 +1475,7 @@
     ]
   },
   {
-    "id": 110400002,
+    "objId": 110400002,
     "name": "ウォータームーン",
     "flavorText": "攻撃/近/敵単体 ( 打 ) 棍棒で攻撃する<br>対象の精神を低下させる(小)",
     "attackAttributes": [
@@ -1493,7 +1493,7 @@
     ]
   },
   {
-    "id": 110400003,
+    "objId": 110400003,
     "name": "グランドスラム",
     "flavorText": "攻撃/近/敵全体 ( 打 ) 棍棒で全体攻撃する<br>",
     "attackAttributes": [
@@ -1511,7 +1511,7 @@
     ]
   },
   {
-    "id": 110400004,
+    "objId": 110400004,
     "name": "かめごうら割り",
     "flavorText": "攻撃/近/敵単体 ( 打 ) 棍棒で攻撃する<br>対象の体力を低下させる(中)",
     "attackAttributes": [
@@ -1529,7 +1529,7 @@
     ]
   },
   {
-    "id": 110400005,
+    "objId": 110400005,
     "name": "大震撃",
     "flavorText": "攻撃/近/敵全体 ( 打 ) 棍棒で全体攻撃する<br>対象をスタンさせる(確率小)",
     "attackAttributes": [
@@ -1546,7 +1546,7 @@
     ]
   },
   {
-    "id": 110400006,
+    "objId": 110400006,
     "name": "ブロック",
     "flavorText": "防御/味方単体  仲間の身代わりに攻撃を受ける。さらに身代わり時の被ダメージを軽減する<br>",
     "attackAttributes": [
@@ -1563,7 +1563,7 @@
     ]
   },
   {
-    "id": 110400007,
+    "objId": 110400007,
     "name": "ヒートビート",
     "flavorText": "攻撃/近/敵単体 ( 打 ) 棍棒で攻撃する<br>自身の腕力が上昇する(小)",
     "attackAttributes": [
@@ -1580,7 +1580,7 @@
     ]
   },
   {
-    "id": 110400008,
+    "objId": 110400008,
     "name": "冷徹撃",
     "flavorText": "攻撃/近/敵単体 ( 打+冷 ) 棍棒で攻撃する<br>",
     "attackAttributes": [
@@ -1599,7 +1599,7 @@
     ]
   },
   {
-    "id": 110400009,
+    "objId": 110400009,
     "name": "疾風打",
     "flavorText": "攻撃/近/敵単体 ( 打 ) 棍棒で攻撃する<br>自身の素早さが上昇する(小)",
     "attackAttributes": [
@@ -1616,7 +1616,7 @@
     ]
   },
   {
-    "id": 110400010,
+    "objId": 110400010,
     "name": "脳天割り",
     "flavorText": "攻撃/近/敵単体 ( 打 ) 棍棒で攻撃する<br>対象の知力を低下させる(小)",
     "attackAttributes": [
@@ -1633,7 +1633,7 @@
     ]
   },
   {
-    "id": 110400011,
+    "objId": 110400011,
     "name": "骨砕き",
     "flavorText": "攻撃/近/敵単体 ( 打 ) 棍棒で攻撃する [特効：骨]<br>対象の腕力を低下させる(小)",
     "attackAttributes": [
@@ -1652,7 +1652,7 @@
     ]
   },
   {
-    "id": 110400012,
+    "objId": 110400012,
     "name": "ハードヒット",
     "flavorText": "攻撃/近/敵単体 ( 打 ) 棍棒で攻撃する<br>",
     "attackAttributes": [
@@ -1668,7 +1668,7 @@
     ]
   },
   {
-    "id": 110400013,
+    "objId": 110400013,
     "name": "返し突き",
     "flavorText": "攻撃/近/敵単体 ( 打 ) 棍棒で攻撃する<br>",
     "attackAttributes": [
@@ -1684,7 +1684,7 @@
     ]
   },
   {
-    "id": 110400014,
+    "objId": 110400014,
     "name": "回し打ち",
     "flavorText": "攻撃/近/敵単体 ( 打 ) 棍棒で攻撃する<br>",
     "attackAttributes": [
@@ -1700,7 +1700,7 @@
     ]
   },
   {
-    "id": 110400015,
+    "objId": 110400015,
     "name": "ジャストミート",
     "flavorText": "防御/自身  カウンター技。敵の直接攻撃に対し反撃を行う<br>",
     "attackAttributes": [
@@ -1717,7 +1717,7 @@
     ]
   },
   {
-    "id": 110400016,
+    "objId": 110400016,
     "name": "ジャストミート",
     "flavorText": "攻撃/近/敵単体 ( 打 ) 棍棒で攻撃する<br>",
     "attackAttributes": [
@@ -1731,7 +1731,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 110400017,
+    "objId": 110400017,
     "name": "カウンター",
     "flavorText": "攻撃/近/敵単体 ( 打 ) 棍棒で攻撃する<br>",
     "attackAttributes": [
@@ -1745,7 +1745,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 110500000,
+    "objId": 110500000,
     "name": "通常攻撃(体術)",
     "flavorText": "攻撃/近/敵単体 ( 打 ) 体術で攻撃する<br>",
     "attackAttributes": [
@@ -1759,7 +1759,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 110500001,
+    "objId": 110500001,
     "name": "滝登り",
     "flavorText": "攻撃/近/敵単体 ( 打+冷 ) 体術で攻撃する<br>",
     "attackAttributes": [
@@ -1778,7 +1778,7 @@
     ]
   },
   {
-    "id": 110500002,
+    "objId": 110500002,
     "name": "羅刹掌",
     "flavorText": "攻撃/近/敵単体 ( 打 ) 体術で攻撃する [ディレイ]<br>対象を即死させる(確率小)",
     "attackAttributes": [
@@ -1796,7 +1796,7 @@
     ]
   },
   {
-    "id": 110500003,
+    "objId": 110500003,
     "name": "龍神烈火拳",
     "flavorText": "攻撃/近/敵単体 ( 打 ) 体術で攻撃する<br>",
     "attackAttributes": [
@@ -1814,7 +1814,7 @@
     ]
   },
   {
-    "id": 110500004,
+    "objId": 110500004,
     "name": "風殺陣",
     "flavorText": "攻撃/近/敵単体 ( 打 ) 体術で攻撃する<br>対象をスタンさせる(確率中)",
     "attackAttributes": [
@@ -1832,7 +1832,7 @@
     ]
   },
   {
-    "id": 110500005,
+    "objId": 110500005,
     "name": "ふみつけ",
     "flavorText": "攻撃/近/敵単体 ( 打 ) 体術で攻撃する<br>",
     "attackAttributes": [
@@ -1850,7 +1850,7 @@
     ]
   },
   {
-    "id": 110500006,
+    "objId": 110500006,
     "name": "タイガーブレイク",
     "flavorText": "攻撃/近/敵単体 ( 打+陽 ) 体術で攻撃する<br>自身の腕力が上昇する(小)",
     "attackAttributes": [
@@ -1869,7 +1869,7 @@
     ]
   },
   {
-    "id": 110500007,
+    "objId": 110500007,
     "name": "千手観音",
     "flavorText": "攻撃/近/敵単体 ( 打 ) 体術で攻撃する<br>",
     "attackAttributes": [
@@ -1887,7 +1887,7 @@
     ]
   },
   {
-    "id": 110500008,
+    "objId": 110500008,
     "name": "アル・フェニックス",
     "flavorText": "攻撃/近/敵単体 ( 打+陽 ) 体術で攻撃する<br>",
     "attackAttributes": [
@@ -1906,7 +1906,7 @@
     ]
   },
   {
-    "id": 110500009,
+    "objId": 110500009,
     "name": "真アル・フェニックス",
     "flavorText": "攻撃/近/敵単体 ( 打+陽 ) 体術で攻撃する<br>",
     "attackAttributes": [
@@ -1925,7 +1925,7 @@
     ]
   },
   {
-    "id": 110500010,
+    "objId": 110500010,
     "name": "コークスクリュー",
     "flavorText": "攻撃/近/敵単体 ( 打 ) 体術で攻撃する<br>",
     "attackAttributes": [
@@ -1941,7 +1941,7 @@
     ]
   },
   {
-    "id": 110500011,
+    "objId": 110500011,
     "name": "マシンガンジャブ",
     "flavorText": "攻撃/近/敵単体 ( 打 ) 体術で攻撃する<br>",
     "attackAttributes": [
@@ -1958,7 +1958,7 @@
     ]
   },
   {
-    "id": 110500012,
+    "objId": 110500012,
     "name": "ジョルトカウンター",
     "flavorText": "防御/自身  カウンター技。敵の直接攻撃に対し反撃を行う<br>",
     "attackAttributes": [
@@ -1976,7 +1976,7 @@
     ]
   },
   {
-    "id": 110500013,
+    "objId": 110500013,
     "name": "ソバット",
     "flavorText": "攻撃/近/敵単体 ( 打 ) 体術で攻撃する<br>",
     "attackAttributes": [
@@ -1992,7 +1992,7 @@
     ]
   },
   {
-    "id": 110500014,
+    "objId": 110500014,
     "name": "旋風脚",
     "flavorText": "攻撃/近/敵縦一列 ( 打 ) 体術で範囲攻撃する<br>",
     "attackAttributes": [
@@ -2010,7 +2010,7 @@
     ]
   },
   {
-    "id": 110500015,
+    "objId": 110500015,
     "name": "稲妻キック",
     "flavorText": "攻撃/近/敵単体 ( 打+雷 ) 体術で攻撃する<br>",
     "attackAttributes": [
@@ -2029,7 +2029,7 @@
     ]
   },
   {
-    "id": 110500016,
+    "objId": 110500016,
     "name": "三角蹴り",
     "flavorText": "攻撃/近/敵単体 ( 打 ) 体術で攻撃する<br>",
     "attackAttributes": [
@@ -2046,7 +2046,7 @@
     ]
   },
   {
-    "id": 110500017,
+    "objId": 110500017,
     "name": "カポエラキック",
     "flavorText": "攻撃/遠/敵単体 ( 打 ) 体術で攻撃する<br>対象をマヒさせる(確率中)",
     "attackAttributes": [
@@ -2064,7 +2064,7 @@
     ]
   },
   {
-    "id": 110500018,
+    "objId": 110500018,
     "name": "三龍旋",
     "flavorText": "攻撃/近/敵単体 ( 打 ) 体術で攻撃する<br>",
     "attackAttributes": [
@@ -2082,7 +2082,7 @@
     ]
   },
   {
-    "id": 110500019,
+    "objId": 110500019,
     "name": "空気投げ",
     "flavorText": "攻撃/近/敵単体 ( 打 ) 体術で攻撃する<br>対象をスタンさせる(確率中)",
     "attackAttributes": [
@@ -2098,7 +2098,7 @@
     ]
   },
   {
-    "id": 110500020,
+    "objId": 110500020,
     "name": "かわづ掛け",
     "flavorText": "攻撃/近/敵単体 ( 打 ) 体術で攻撃する<br>対象をスタンさせる(確率中)",
     "attackAttributes": [
@@ -2115,7 +2115,7 @@
     ]
   },
   {
-    "id": 110500021,
+    "objId": 110500021,
     "name": "サブミッション",
     "flavorText": "攻撃/近/敵単体 ( 打 ) 体術で攻撃する<br>対象の腕力を低下させる(小)",
     "attackAttributes": [
@@ -2132,7 +2132,7 @@
     ]
   },
   {
-    "id": 110500022,
+    "objId": 110500022,
     "name": "当て身投げ",
     "flavorText": "防御/自身  カウンター技。敵の直接攻撃に対し反撃を行う<br>まれにスタンさせることがある",
     "attackAttributes": [
@@ -2149,7 +2149,7 @@
     ]
   },
   {
-    "id": 110500023,
+    "objId": 110500023,
     "name": "ナイアガラバスター",
     "flavorText": "攻撃/近/敵単体 ( 打 ) 体術で攻撃する [特効：水棲]<br>",
     "attackAttributes": [
@@ -2169,7 +2169,7 @@
     ]
   },
   {
-    "id": 110500024,
+    "objId": 110500024,
     "name": "短勁",
     "flavorText": "攻撃/近/敵単体 ( 打 ) 体術で攻撃する<br>",
     "attackAttributes": [
@@ -2185,7 +2185,7 @@
     ]
   },
   {
-    "id": 110500025,
+    "objId": 110500025,
     "name": "気弾",
     "flavorText": "攻撃/遠/敵単体 ( 打 ) 体術で攻撃する<br>",
     "attackAttributes": [
@@ -2201,7 +2201,7 @@
     ]
   },
   {
-    "id": 110500026,
+    "objId": 110500026,
     "name": "活殺破邪法",
     "flavorText": "攻撃/遠/敵単体 ( 打 ) 体術で攻撃する [特効：不死]<br>",
     "attackAttributes": [
@@ -2220,7 +2220,7 @@
     ]
   },
   {
-    "id": 110500027,
+    "objId": 110500027,
     "name": "練気掌",
     "flavorText": "攻撃/遠/敵全体 ( 打 ) 体術で全体攻撃する<br>",
     "attackAttributes": [
@@ -2237,7 +2237,7 @@
     ]
   },
   {
-    "id": 110500028,
+    "objId": 110500028,
     "name": "虎狼砲",
     "flavorText": "攻撃/遠/敵単体 ( 打 ) 体術で攻撃する<br>",
     "attackAttributes": [
@@ -2255,7 +2255,7 @@
     ]
   },
   {
-    "id": 110500029,
+    "objId": 110500029,
     "name": "カウンター",
     "flavorText": "攻撃/近/敵単体 ( 打 ) 体術で攻撃する<br>",
     "attackAttributes": [
@@ -2269,7 +2269,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 110500030,
+    "objId": 110500030,
     "name": "ジョルトカウンター",
     "flavorText": "攻撃/近/敵単体 ( 打 ) 体術で攻撃する<br>",
     "attackAttributes": [
@@ -2283,7 +2283,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 110500031,
+    "objId": 110500031,
     "name": "当て身投げ",
     "flavorText": "攻撃/近/敵単体 ( 打 ) 体術で攻撃する<br>対象をスタンさせる(確率中)",
     "attackAttributes": [
@@ -2297,7 +2297,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 110600000,
+    "objId": 110600000,
     "name": "通常攻撃(銃)",
     "flavorText": "攻撃/遠/敵単体 ( 打 ) 銃で攻撃する<br>",
     "attackAttributes": [
@@ -2311,7 +2311,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 110600001,
+    "objId": 110600001,
     "name": "精密射撃",
     "flavorText": "攻撃/遠/敵単体 ( 打 ) 銃で攻撃する<br>",
     "attackAttributes": [
@@ -2327,7 +2327,7 @@
     ]
   },
   {
-    "id": 110600002,
+    "objId": 110600002,
     "name": "集中射撃",
     "flavorText": "攻撃/遠/敵単体 ( 打 ) 銃で攻撃する<br>",
     "attackAttributes": [
@@ -2343,7 +2343,7 @@
     ]
   },
   {
-    "id": 110600003,
+    "objId": 110600003,
     "name": "でたらめ弾",
     "flavorText": "攻撃/遠/敵全体 ( 打 ) 銃で全体攻撃する<br>",
     "attackAttributes": [
@@ -2359,7 +2359,7 @@
     ]
   },
   {
-    "id": 110600004,
+    "objId": 110600004,
     "name": "曲射",
     "flavorText": "攻撃/遠/敵単体 ( 打 ) 銃で攻撃する<br>",
     "attackAttributes": [
@@ -2376,7 +2376,7 @@
     ]
   },
   {
-    "id": 110600005,
+    "objId": 110600005,
     "name": "全体射撃",
     "flavorText": "攻撃/遠/敵全体 ( 打 ) 銃で全体攻撃する<br>",
     "attackAttributes": [
@@ -2393,7 +2393,7 @@
     ]
   },
   {
-    "id": 110600006,
+    "objId": 110600006,
     "name": "地上掃射",
     "flavorText": "攻撃/近/敵全体 ( 打 ) 銃で全体攻撃する<br>対象をスタンさせる(確率小)",
     "attackAttributes": [
@@ -2410,7 +2410,7 @@
     ]
   },
   {
-    "id": 110600007,
+    "objId": 110600007,
     "name": "十字砲火",
     "flavorText": "攻撃/遠/敵単体 ( 打 ) 銃で攻撃する [特効：不死]<br>",
     "attackAttributes": [
@@ -2430,7 +2430,7 @@
     ]
   },
   {
-    "id": 110600008,
+    "objId": 110600008,
     "name": "二丁乱射",
     "flavorText": "攻撃/遠/敵全体 ( 打 ) 銃で全体攻撃する<br>",
     "attackAttributes": [
@@ -2448,7 +2448,7 @@
     ]
   },
   {
-    "id": 110600009,
+    "objId": 110600009,
     "name": "跳弾",
     "flavorText": "攻撃/遠/敵単体 ( 打 ) 銃で攻撃する<br>",
     "attackAttributes": [
@@ -2466,7 +2466,7 @@
     ]
   },
   {
-    "id": 110600010,
+    "objId": 110600010,
     "name": "カウンター",
     "flavorText": "攻撃/遠/敵単体 ( 打 ) 銃で攻撃する<br>",
     "attackAttributes": [
@@ -2480,7 +2480,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 110700000,
+    "objId": 110700000,
     "name": "通常攻撃(小剣)",
     "flavorText": "攻撃/近/敵単体 ( 突 ) 小剣で攻撃する<br>",
     "attackAttributes": [
@@ -2494,7 +2494,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 110700001,
+    "objId": 110700001,
     "name": "円舞剣",
     "flavorText": "攻撃/近/敵全体 ( 突 ) 小剣で全体攻撃する<br>",
     "attackAttributes": [
@@ -2511,7 +2511,7 @@
     ]
   },
   {
-    "id": 110700002,
+    "objId": 110700002,
     "name": "スクリュードライバ",
     "flavorText": "攻撃/近/敵単体 ( 突 ) 小剣で攻撃する [特効：女性]<br>",
     "attackAttributes": [
@@ -2531,7 +2531,7 @@
     ]
   },
   {
-    "id": 110700003,
+    "objId": 110700003,
     "name": "サザンクロス",
     "flavorText": "攻撃/近/敵単体 ( 突 ) 小剣で攻撃する [特効：不死]<br>",
     "attackAttributes": [
@@ -2551,7 +2551,7 @@
     ]
   },
   {
-    "id": 110700004,
+    "objId": 110700004,
     "name": "ファイナルレター",
     "flavorText": "攻撃/近/敵単体 ( 突 ) 小剣で攻撃する<br>対象を即死させる(確率小)",
     "attackAttributes": [
@@ -2569,7 +2569,7 @@
     ]
   },
   {
-    "id": 110700005,
+    "objId": 110700005,
     "name": "アクセルスナイパー",
     "flavorText": "攻撃/近/敵単体 ( 突 ) 小剣で攻撃する<br>自身の素早さが上昇する(小)",
     "attackAttributes": [
@@ -2586,7 +2586,7 @@
     ]
   },
   {
-    "id": 110700006,
+    "objId": 110700006,
     "name": "マタドール",
     "flavorText": "防御/自身  カウンター技。敵の直接攻撃に対し反撃を行う<br>",
     "attackAttributes": [
@@ -2604,7 +2604,7 @@
     ]
   },
   {
-    "id": 110700007,
+    "objId": 110700007,
     "name": "毒蜂",
     "flavorText": "攻撃/近/敵単体 ( 突 ) 小剣で攻撃する<br>対象を毒状態にする(確率中)",
     "attackAttributes": [
@@ -2621,7 +2621,7 @@
     ]
   },
   {
-    "id": 110700008,
+    "objId": 110700008,
     "name": "氷雪刻",
     "flavorText": "攻撃/近/敵単体 ( 突+冷 ) 小剣で攻撃する<br>",
     "attackAttributes": [
@@ -2640,7 +2640,7 @@
     ]
   },
   {
-    "id": 110700009,
+    "objId": 110700009,
     "name": "ライトニングピアス",
     "flavorText": "攻撃/近/敵単体 ( 突+雷 ) 小剣で攻撃する<br>",
     "attackAttributes": [
@@ -2659,7 +2659,7 @@
     ]
   },
   {
-    "id": 110700010,
+    "objId": 110700010,
     "name": "フェイント",
     "flavorText": "攻撃/近/敵単体 ( 突 ) 小剣で攻撃する<br>対象をスタンさせる(確率中)",
     "attackAttributes": [
@@ -2675,7 +2675,7 @@
     ]
   },
   {
-    "id": 110700011,
+    "objId": 110700011,
     "name": "ファイアクラッカー",
     "flavorText": "攻撃/近/敵全体 ( 突+熱 ) 小剣で全体攻撃する<br>",
     "attackAttributes": [
@@ -2694,7 +2694,7 @@
     ]
   },
   {
-    "id": 110700012,
+    "objId": 110700012,
     "name": "高速突き",
     "flavorText": "攻撃/近/敵単体 ( 突 ) 小剣で攻撃する<br>",
     "attackAttributes": [
@@ -2710,7 +2710,7 @@
     ]
   },
   {
-    "id": 110700013,
+    "objId": 110700013,
     "name": "スネークショット",
     "flavorText": "攻撃/近/敵単体 ( 突 ) 小剣で攻撃する [特効：カエル]<br>",
     "attackAttributes": [
@@ -2729,7 +2729,7 @@
     ]
   },
   {
-    "id": 110700014,
+    "objId": 110700014,
     "name": "小転",
     "flavorText": "攻撃/近/敵単体 ( 突 ) 小剣で攻撃する<br>",
     "attackAttributes": [
@@ -2746,7 +2746,7 @@
     ]
   },
   {
-    "id": 110700015,
+    "objId": 110700015,
     "name": "感電衝",
     "flavorText": "攻撃/近/敵単体 ( 突 ) 小剣で攻撃する<br>対象をマヒさせる(確率中)",
     "attackAttributes": [
@@ -2763,7 +2763,7 @@
     ]
   },
   {
-    "id": 110700016,
+    "objId": 110700016,
     "name": "カットイン",
     "flavorText": "攻撃/近/敵単体 ( 突 ) 小剣で攻撃する<br>",
     "attackAttributes": [
@@ -2779,7 +2779,7 @@
     ]
   },
   {
-    "id": 110700017,
+    "objId": 110700017,
     "name": "ペネトレイト",
     "flavorText": "攻撃/近/敵単体 ( 突 ) 小剣で攻撃する<br>",
     "attackAttributes": [
@@ -2796,7 +2796,7 @@
     ]
   },
   {
-    "id": 110700018,
+    "objId": 110700018,
     "name": "乱れ突き",
     "flavorText": "攻撃/近/敵単体 ( 突 ) 小剣で攻撃する<br>",
     "attackAttributes": [
@@ -2814,7 +2814,7 @@
     ]
   },
   {
-    "id": 110700019,
+    "objId": 110700019,
     "name": "金のトロイメライ",
     "flavorText": "攻撃/近/敵単体 ( 突 ) 小剣で攻撃する<br>",
     "attackAttributes": [
@@ -2832,7 +2832,7 @@
     ]
   },
   {
-    "id": 110700020,
+    "objId": 110700020,
     "name": "三星衝",
     "flavorText": "攻撃/近/敵単体 ( 突 ) 小剣で攻撃する<br>",
     "attackAttributes": [
@@ -2850,7 +2850,7 @@
     ]
   },
   {
-    "id": 110700021,
+    "objId": 110700021,
     "name": "カウンター",
     "flavorText": "攻撃/近/敵単体 ( 突 ) 小剣で攻撃する<br>",
     "attackAttributes": [
@@ -2864,7 +2864,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 110700022,
+    "objId": 110700022,
     "name": "マタドール",
     "flavorText": "攻撃/近/敵単体 ( 突 ) 小剣で攻撃する<br>",
     "attackAttributes": [
@@ -2878,7 +2878,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 110800000,
+    "objId": 110800000,
     "name": "通常攻撃(槍)",
     "flavorText": "攻撃/近/敵単体 ( 突 ) 槍で攻撃する<br>",
     "attackAttributes": [
@@ -2892,7 +2892,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 110800001,
+    "objId": 110800001,
     "name": "独妙点穴",
     "flavorText": "攻撃/近/敵単体 ( 突 ) 槍で攻撃する<br>",
     "attackAttributes": [
@@ -2910,7 +2910,7 @@
     ]
   },
   {
-    "id": 110800002,
+    "objId": 110800002,
     "name": "活殺獣神衝",
     "flavorText": "攻撃/近/敵単体 ( 突 ) 槍で攻撃する<br>対象の器用さを低下させる(小)",
     "attackAttributes": [
@@ -2928,7 +2928,7 @@
     ]
   },
   {
-    "id": 110800003,
+    "objId": 110800003,
     "name": "スパイラルチャージ",
     "flavorText": "攻撃/近/敵単体 ( 突 ) 槍で攻撃する<br>対象の体力を低下させる(中)",
     "attackAttributes": [
@@ -2946,7 +2946,7 @@
     ]
   },
   {
-    "id": 110800004,
+    "objId": 110800004,
     "name": "下り飛竜",
     "flavorText": "攻撃/近/敵単体 ( 突 ) 槍で攻撃する<br>",
     "attackAttributes": [
@@ -2964,7 +2964,7 @@
     ]
   },
   {
-    "id": 110800005,
+    "objId": 110800005,
     "name": "流星衝",
     "flavorText": "攻撃/遠/敵単体 ( 突 ) 槍で攻撃する<br>対象をマヒさせる(確率中)",
     "attackAttributes": [
@@ -2982,7 +2982,7 @@
     ]
   },
   {
-    "id": 110800006,
+    "objId": 110800006,
     "name": "無双三段",
     "flavorText": "攻撃/近/敵単体 ( 突 ) 槍で攻撃する<br>",
     "attackAttributes": [
@@ -3000,7 +3000,7 @@
     ]
   },
   {
-    "id": 110800007,
+    "objId": 110800007,
     "name": "二段突き",
     "flavorText": "攻撃/近/敵単体 ( 突 ) 槍で攻撃する<br>",
     "attackAttributes": [
@@ -3016,7 +3016,7 @@
     ]
   },
   {
-    "id": 110800008,
+    "objId": 110800008,
     "name": "足払い",
     "flavorText": "攻撃/近/敵単体 ( 突 ) 槍で攻撃する<br>対象をスタンさせる(確率中/浮遊している敵には無効)",
     "attackAttributes": [
@@ -3032,7 +3032,7 @@
     ]
   },
   {
-    "id": 110800009,
+    "objId": 110800009,
     "name": "スウィング",
     "flavorText": "攻撃/近/敵全体 ( 突 ) 槍で全体攻撃する<br>対象をスタンさせる(確率小)",
     "attackAttributes": [
@@ -3048,7 +3048,7 @@
     ]
   },
   {
-    "id": 110800010,
+    "objId": 110800010,
     "name": "十方",
     "flavorText": "攻撃/近/敵単体 ( 突 ) 槍で攻撃する<br>",
     "attackAttributes": [
@@ -3065,7 +3065,7 @@
     ]
   },
   {
-    "id": 110800011,
+    "objId": 110800011,
     "name": "大車輪",
     "flavorText": "攻撃/近/敵全体 ( 突 ) 槍で全体攻撃する<br>",
     "attackAttributes": [
@@ -3083,7 +3083,7 @@
     ]
   },
   {
-    "id": 110800012,
+    "objId": 110800012,
     "name": "風車",
     "flavorText": "防御/自身  カウンター技。敵の直接攻撃に対し反撃を行う<br>",
     "attackAttributes": [
@@ -3101,7 +3101,7 @@
     ]
   },
   {
-    "id": 110800013,
+    "objId": 110800013,
     "name": "双龍破",
     "flavorText": "攻撃/近/敵横一列 ( 突 ) 槍で範囲攻撃する<br>",
     "attackAttributes": [
@@ -3118,7 +3118,7 @@
     ]
   },
   {
-    "id": 110800014,
+    "objId": 110800014,
     "name": "チャージ",
     "flavorText": "攻撃/近/敵単体 ( 突 ) 槍で攻撃する<br>",
     "attackAttributes": [
@@ -3135,7 +3135,7 @@
     ]
   },
   {
-    "id": 110800015,
+    "objId": 110800015,
     "name": "ポセイドンシュート",
     "flavorText": "攻撃/近/敵単体 ( 突 ) 槍で攻撃する [特効：魚]<br>",
     "attackAttributes": [
@@ -3155,7 +3155,7 @@
     ]
   },
   {
-    "id": 110800016,
+    "objId": 110800016,
     "name": "エイミング",
     "flavorText": "攻撃/近/敵単体 ( 突 ) 槍で攻撃する<br>",
     "attackAttributes": [
@@ -3172,7 +3172,7 @@
     ]
   },
   {
-    "id": 110800017,
+    "objId": 110800017,
     "name": "ジャベリン",
     "flavorText": "攻撃/遠/敵単体 ( 突 ) 槍で攻撃する<br>",
     "attackAttributes": [
@@ -3189,7 +3189,7 @@
     ]
   },
   {
-    "id": 110800018,
+    "objId": 110800018,
     "name": "螺旋突き",
     "flavorText": "攻撃/近/敵単体 ( 突 ) 槍で攻撃する<br>",
     "attackAttributes": [
@@ -3206,7 +3206,7 @@
     ]
   },
   {
-    "id": 110800019,
+    "objId": 110800019,
     "name": "閃光突き",
     "flavorText": "攻撃/近/敵単体 ( 突 ) 槍で攻撃する<br>",
     "attackAttributes": [
@@ -3222,7 +3222,7 @@
     ]
   },
   {
-    "id": 110800020,
+    "objId": 110800020,
     "name": "稲妻突き",
     "flavorText": "攻撃/近/敵単体 ( 突+雷 ) 槍で攻撃する<br>",
     "attackAttributes": [
@@ -3240,7 +3240,7 @@
     ]
   },
   {
-    "id": 110800021,
+    "objId": 110800021,
     "name": "脳削り",
     "flavorText": "攻撃/近/敵単体 ( 突 ) 槍で攻撃する<br>対象の知力を低下させる(小)",
     "attackAttributes": [
@@ -3257,7 +3257,7 @@
     ]
   },
   {
-    "id": 110800022,
+    "objId": 110800022,
     "name": "光の腕",
     "flavorText": "攻撃/近/敵単体 ( 突 ) 槍で攻撃する<br>",
     "attackAttributes": [
@@ -3275,7 +3275,7 @@
     ]
   },
   {
-    "id": 110800023,
+    "objId": 110800023,
     "name": "石砕無尽",
     "flavorText": "攻撃/近/敵単体 ( 突 ) 槍で攻撃する [特効：岩石]<br>",
     "attackAttributes": [
@@ -3295,7 +3295,7 @@
     ]
   },
   {
-    "id": 110800024,
+    "objId": 110800024,
     "name": "サイコバインド",
     "flavorText": "攻撃/遠/敵全体 ( 突 ) 槍で全体攻撃する<br>対象をマヒさせる(確率小)",
     "attackAttributes": [
@@ -3313,7 +3313,7 @@
     ]
   },
   {
-    "id": 110800025,
+    "objId": 110800025,
     "name": "アルダーストライク",
     "flavorText": "攻撃/近/敵単体 ( 突+冷 ) 槍で攻撃する<br>",
     "attackAttributes": [
@@ -3332,7 +3332,7 @@
     ]
   },
   {
-    "id": 110800026,
+    "objId": 110800026,
     "name": "風車",
     "flavorText": "攻撃/近/敵単体 ( 突 ) 槍で攻撃する<br>",
     "attackAttributes": [
@@ -3346,7 +3346,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 110800027,
+    "objId": 110800027,
     "name": "カウンター",
     "flavorText": "攻撃/近/敵単体 ( 突 ) 槍で攻撃する<br>",
     "attackAttributes": [
@@ -3360,7 +3360,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 110900000,
+    "objId": 110900000,
     "name": "通常攻撃(弓)",
     "flavorText": "攻撃/遠/敵単体 ( 突 ) 弓で攻撃する<br>",
     "attackAttributes": [
@@ -3374,7 +3374,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 110900001,
+    "objId": 110900001,
     "name": "ハートシーカー",
     "flavorText": "攻撃/遠/敵単体 ( 突 ) 弓で攻撃する<br>対象を魅了状態にする(確率中)",
     "attackAttributes": [
@@ -3392,7 +3392,7 @@
     ]
   },
   {
-    "id": 110900002,
+    "objId": 110900002,
     "name": "ザップショット",
     "flavorText": "攻撃/遠/敵単体 ( 突 ) 弓で攻撃する<br>対象を即死させる(確率小)",
     "attackAttributes": [
@@ -3410,7 +3410,7 @@
     ]
   },
   {
-    "id": 110900003,
+    "objId": 110900003,
     "name": "落鳳破",
     "flavorText": "攻撃/遠/敵単体 ( 突 ) 弓で攻撃する [特効：浮遊]<br>",
     "attackAttributes": [
@@ -3430,7 +3430,7 @@
     ]
   },
   {
-    "id": 110900004,
+    "objId": 110900004,
     "name": "連射",
     "flavorText": "攻撃/近/敵単体 ( 突 ) 弓で攻撃する<br>",
     "attackAttributes": [
@@ -3448,7 +3448,7 @@
     ]
   },
   {
-    "id": 110900005,
+    "objId": 110900005,
     "name": "ミリオンダラー",
     "flavorText": "攻撃/遠/敵全体 ( 突 ) 弓で全体攻撃する<br>",
     "attackAttributes": [
@@ -3466,7 +3466,7 @@
     ]
   },
   {
-    "id": 110900006,
+    "objId": 110900006,
     "name": "フェニックスアロー",
     "flavorText": "攻撃/遠/敵単体 ( 突+熱 ) 弓で攻撃する<br>自身のHPを回復する(小)",
     "attackAttributes": [
@@ -3485,7 +3485,7 @@
     ]
   },
   {
-    "id": 110900007,
+    "objId": 110900007,
     "name": "でたらめ矢",
     "flavorText": "攻撃/遠/敵全体 ( 突 ) 弓で全体攻撃する<br>",
     "attackAttributes": [
@@ -3501,7 +3501,7 @@
     ]
   },
   {
-    "id": 110900008,
+    "objId": 110900008,
     "name": "アローレイン",
     "flavorText": "攻撃/遠/敵全体 ( 突 ) 弓で全体攻撃する<br>",
     "attackAttributes": [
@@ -3518,7 +3518,7 @@
     ]
   },
   {
-    "id": 110900009,
+    "objId": 110900009,
     "name": "ビーストスレイヤー",
     "flavorText": "攻撃/遠/敵単体 ( 突 ) 弓で攻撃する [特効：獣]<br>",
     "attackAttributes": [
@@ -3537,7 +3537,7 @@
     ]
   },
   {
-    "id": 110900010,
+    "objId": 110900010,
     "name": "スパローショット",
     "flavorText": "攻撃/遠/敵単体 ( 突 ) 弓で攻撃する [特効：虫]<br>",
     "attackAttributes": [
@@ -3557,7 +3557,7 @@
     ]
   },
   {
-    "id": 110900011,
+    "objId": 110900011,
     "name": "サイドワインダー",
     "flavorText": "攻撃/遠/敵単体 ( 突 ) 弓で攻撃する [ファスト] [特効：カエル]<br>",
     "attackAttributes": [
@@ -3576,7 +3576,7 @@
     ]
   },
   {
-    "id": 110900012,
+    "objId": 110900012,
     "name": "瞬速の矢",
     "flavorText": "攻撃/遠/敵単体 ( 突 ) 弓で攻撃する [ファスト]<br>",
     "attackAttributes": [
@@ -3593,7 +3593,7 @@
     ]
   },
   {
-    "id": 110900013,
+    "objId": 110900013,
     "name": "二本射ち",
     "flavorText": "攻撃/遠/敵単体 ( 突 ) 弓で攻撃する<br>",
     "attackAttributes": [
@@ -3609,7 +3609,7 @@
     ]
   },
   {
-    "id": 110900014,
+    "objId": 110900014,
     "name": "狙い射ち",
     "flavorText": "攻撃/遠/敵単体 ( 突 ) 弓で攻撃する<br>",
     "attackAttributes": [
@@ -3625,7 +3625,7 @@
     ]
   },
   {
-    "id": 110900015,
+    "objId": 110900015,
     "name": "プラズマショット",
     "flavorText": "攻撃/遠/敵単体 ( 突+雷 ) 弓で攻撃する<br>",
     "attackAttributes": [
@@ -3644,7 +3644,7 @@
     ]
   },
   {
-    "id": 110900016,
+    "objId": 110900016,
     "name": "イド・ブレイク",
     "flavorText": "攻撃/遠/敵単体 ( 突 ) 弓で攻撃する<br>対象を混乱させる(確率中)",
     "attackAttributes": [
@@ -3661,7 +3661,7 @@
     ]
   },
   {
-    "id": 110900017,
+    "objId": 110900017,
     "name": "カウンター",
     "flavorText": "攻撃/遠/敵単体 ( 突 ) 弓で攻撃する<br>",
     "attackAttributes": [
@@ -3675,7 +3675,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 111000000,
+    "objId": 111000000,
     "name": "通常攻撃(杖)",
     "flavorText": "攻撃/近/敵単体 ( 打 ) 杖で攻撃する<br>自身の知力が上昇する(小)",
     "attackAttributes": [
@@ -3689,7 +3689,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 111000001,
+    "objId": 111000001,
     "name": "カウンター",
     "flavorText": "攻撃/近/敵単体 ( 打 ) 杖で攻撃する<br>自身の腕力が上昇する(小)",
     "attackAttributes": [
@@ -3703,7 +3703,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 125100001,
+    "objId": 125100001,
     "name": "ファイアストーム",
     "flavorText": "攻撃/遠/敵全体 ( 熱 ) 火術で全体攻撃する<br>",
     "attackAttributes": [
@@ -3720,7 +3720,7 @@
     ]
   },
   {
-    "id": 125100002,
+    "objId": 125100002,
     "name": "焼殺",
     "flavorText": "攻撃/遠/敵単体 ( 熱 ) 火術で攻撃する<br>対象を即死させる(確率小)",
     "attackAttributes": [
@@ -3738,7 +3738,7 @@
     ]
   },
   {
-    "id": 125100003,
+    "objId": 125100003,
     "name": "火の鳥",
     "flavorText": "攻撃/遠/敵全体 ( 熱 ) 火術で全体攻撃する<br>",
     "attackAttributes": [
@@ -3756,7 +3756,7 @@
     ]
   },
   {
-    "id": 125100004,
+    "objId": 125100004,
     "name": "ファイアボール",
     "flavorText": "攻撃/遠/敵単体 ( 熱 ) 火術で攻撃する<br>",
     "attackAttributes": [
@@ -3772,7 +3772,7 @@
     ]
   },
   {
-    "id": 125100005,
+    "objId": 125100005,
     "name": "ヒロイズム",
     "flavorText": "補助/自身  対象の攻撃力を上昇させる(小)<br>",
     "attackAttributes": [
@@ -3788,7 +3788,7 @@
     ]
   },
   {
-    "id": 125100006,
+    "objId": 125100006,
     "name": "ハードファイア",
     "flavorText": "補助/味方単体  対象の素早さを上昇させる(小)<br>",
     "attackAttributes": [
@@ -3804,7 +3804,7 @@
     ]
   },
   {
-    "id": 125100007,
+    "objId": 125100007,
     "name": "セルフバーニング",
     "flavorText": "補助/自身  炎をまとい、近づいた敵にダメージを与える<br>敵から受ける熱属性の攻撃を無効化する",
     "attackAttributes": [
@@ -3821,7 +3821,7 @@
     ]
   },
   {
-    "id": 125100008,
+    "objId": 125100008,
     "name": "フレイムウィップ",
     "flavorText": "攻撃/遠/敵単体 ( 熱 ) 火術で攻撃する<br>対象をマヒさせる(確率中)",
     "attackAttributes": [
@@ -3838,7 +3838,7 @@
     ]
   },
   {
-    "id": 125100009,
+    "objId": 125100009,
     "name": "フレイムナーガ",
     "flavorText": "攻撃/遠/敵単体 ( 熱 ) 火術で攻撃する [特効：カエル]<br>",
     "attackAttributes": [
@@ -3857,7 +3857,7 @@
     ]
   },
   {
-    "id": 125100012,
+    "objId": 125100012,
     "name": "リヴァイヴァ",
     "flavorText": "回復/味方単体  テストデータ<br>",
     "attackAttributes": [
@@ -3875,7 +3875,7 @@
     ]
   },
   {
-    "id": 125100013,
+    "objId": 125100013,
     "name": "クリムゾンフレア",
     "flavorText": "攻撃/遠/敵単体 ( 熱 ) 火術で攻撃する<br>対象の知力を低下させる(中)",
     "attackAttributes": [
@@ -3893,7 +3893,7 @@
     ]
   },
   {
-    "id": 125100014,
+    "objId": 125100014,
     "name": "セルフバーニング",
     "flavorText": "攻撃/遠/敵単体 ( 熱 ) 火術で攻撃する<br>敵から受ける熱属性の攻撃を無効化する",
     "attackAttributes": [
@@ -3907,7 +3907,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 125200001,
+    "objId": 125200001,
     "name": "ダイヤモンドダスト",
     "flavorText": "攻撃/遠/敵全体 ( 冷 ) 水術で全体攻撃する<br>",
     "attackAttributes": [
@@ -3924,7 +3924,7 @@
     ]
   },
   {
-    "id": 125200002,
+    "objId": 125200002,
     "name": "サンダークラップ",
     "flavorText": "攻撃/遠/敵全体 ( 雷 ) 水術で全体攻撃する<br>対象をスタンさせる(確率小)",
     "attackAttributes": [
@@ -3942,7 +3942,7 @@
     ]
   },
   {
-    "id": 125200003,
+    "objId": 125200003,
     "name": "神雷",
     "flavorText": "攻撃/遠/敵単体 ( 雷 ) 水術で攻撃する<br>対象をマヒさせる(確率中)",
     "attackAttributes": [
@@ -3960,7 +3960,7 @@
     ]
   },
   {
-    "id": 125200004,
+    "objId": 125200004,
     "name": "スコール",
     "flavorText": "攻撃/遠/敵全体 ( 冷 ) 水術で全体攻撃する [特効：火精]<br>",
     "attackAttributes": [
@@ -3978,7 +3978,7 @@
     ]
   },
   {
-    "id": 125200005,
+    "objId": 125200005,
     "name": "生命の水",
     "flavorText": "回復/味方単体  HPを回復する<br>",
     "attackAttributes": [
@@ -3994,7 +3994,7 @@
     ]
   },
   {
-    "id": 125200006,
+    "objId": 125200006,
     "name": "浄化の水",
     "flavorText": "補助/味方全体  対象の状態異常をすべて解除する<br>",
     "attackAttributes": [
@@ -4011,7 +4011,7 @@
     ]
   },
   {
-    "id": 125200008,
+    "objId": 125200008,
     "name": "ウォーターガン",
     "flavorText": "攻撃/遠/敵単体 ( 冷 ) 水術で攻撃する<br>",
     "attackAttributes": [
@@ -4028,7 +4028,7 @@
     ]
   },
   {
-    "id": 125200009,
+    "objId": 125200009,
     "name": "召雷",
     "flavorText": "攻撃/遠/敵単体 ( 雷 ) 水術で攻撃する<br>対象をマヒさせる(確率中)",
     "attackAttributes": [
@@ -4044,7 +4044,7 @@
     ]
   },
   {
-    "id": 125200010,
+    "objId": 125200010,
     "name": "サイクロンスクィーズ",
     "flavorText": "攻撃/遠/敵単体 ( 冷 ) 水術で攻撃する<br>対象をスタンさせる(確率中)",
     "attackAttributes": [
@@ -4062,7 +4062,7 @@
     ]
   },
   {
-    "id": 125200011,
+    "objId": 125200011,
     "name": "天雷",
     "flavorText": "攻撃/遠/敵単体 ( 冷 ) 水術で攻撃する<br>対象をマヒさせる(確率中)",
     "attackAttributes": [
@@ -4079,7 +4079,7 @@
     ]
   },
   {
-    "id": 125200012,
+    "objId": 125200012,
     "name": "生命の雨",
     "flavorText": "回復/味方全体  HPを回復する<br>",
     "attackAttributes": [
@@ -4097,7 +4097,7 @@
     ]
   },
   {
-    "id": 125200013,
+    "objId": 125200013,
     "name": "クイックタイム",
     "flavorText": "補助/味方全体  テストデータ<br>",
     "attackAttributes": [
@@ -4115,7 +4115,7 @@
     ]
   },
   {
-    "id": 125200014,
+    "objId": 125200014,
     "name": "吹雪",
     "flavorText": "攻撃/遠/敵全体 ( 冷 ) 水術で全体攻撃する<br>",
     "attackAttributes": [
@@ -4133,7 +4133,7 @@
     ]
   },
   {
-    "id": 125200015,
+    "objId": 125200015,
     "name": "大召雷",
     "flavorText": "攻撃/遠/敵全体 ( 雷 ) 水術で全体攻撃する<br>対象をマヒさせる(確率小)",
     "attackAttributes": [
@@ -4151,7 +4151,7 @@
     ]
   },
   {
-    "id": 125300001,
+    "objId": 125300001,
     "name": "ストーンシャワー",
     "flavorText": "攻撃/遠/敵全体 ( 打 ) 土術で全体攻撃する<br>",
     "attackAttributes": [
@@ -4169,7 +4169,7 @@
     ]
   },
   {
-    "id": 125300002,
+    "objId": 125300002,
     "name": "ストーンバレット",
     "flavorText": "攻撃/遠/敵単体 ( 打 ) 土術で攻撃する<br>",
     "attackAttributes": [
@@ -4185,7 +4185,7 @@
     ]
   },
   {
-    "id": 125300003,
+    "objId": 125300003,
     "name": "足がらめ",
     "flavorText": "補助/敵全体  対象をスタンさせる(確率中/浮遊している敵には無効)<br>",
     "attackAttributes": [
@@ -4202,7 +4202,7 @@
     ]
   },
   {
-    "id": 125300004,
+    "objId": 125300004,
     "name": "金剛力",
     "flavorText": "補助/味方単体  対象の腕力を上昇させる(小)<br>",
     "attackAttributes": [
@@ -4219,7 +4219,7 @@
     ]
   },
   {
-    "id": 125300005,
+    "objId": 125300005,
     "name": "デルタ・ペトラ",
     "flavorText": "攻撃/遠/敵全体 ( 打 ) 土術で全体攻撃する<br>対象を石化させる(確率小)",
     "attackAttributes": [
@@ -4236,7 +4236,7 @@
     ]
   },
   {
-    "id": 125300006,
+    "objId": 125300006,
     "name": "ロックアーマー",
     "flavorText": "補助/味方単体  敵から受ける被ダメージを低下させる(小)<br>",
     "attackAttributes": [
@@ -4253,7 +4253,7 @@
     ]
   },
   {
-    "id": 125300007,
+    "objId": 125300007,
     "name": "アースヒール",
     "flavorText": "回復/味方単体  HPを回復する<br>",
     "attackAttributes": [
@@ -4270,7 +4270,7 @@
     ]
   },
   {
-    "id": 125300008,
+    "objId": 125300008,
     "name": "クラック",
     "flavorText": "攻撃/遠/敵全体 ( 打 ) 土術で全体攻撃する<br>対象をスタンさせる(確率小/浮遊している敵には無効)",
     "attackAttributes": [
@@ -4286,7 +4286,7 @@
     ]
   },
   {
-    "id": 125300009,
+    "objId": 125300009,
     "name": "超重力",
     "flavorText": "攻撃/遠/敵単体 ( 打 ) 土術で攻撃する<br>対象の素早さを低下させる(中)",
     "attackAttributes": [
@@ -4304,7 +4304,7 @@
     ]
   },
   {
-    "id": 125300010,
+    "objId": 125300010,
     "name": "竜脈",
     "flavorText": "補助/味方単体  対象の攻撃力を上昇させる(中)<br>",
     "attackAttributes": [
@@ -4322,7 +4322,7 @@
     ]
   },
   {
-    "id": 125400001,
+    "objId": 125400001,
     "name": "ウインドカッター",
     "flavorText": "攻撃/遠/敵単体 ( 斬 ) 風術で攻撃する<br>",
     "attackAttributes": [
@@ -4338,7 +4338,7 @@
     ]
   },
   {
-    "id": 125400002,
+    "objId": 125400002,
     "name": "エアスクリーン",
     "flavorText": "補助/味方単体  敵から受ける被ダメージを減少させる(小)<br>",
     "attackAttributes": [
@@ -4354,7 +4354,7 @@
     ]
   },
   {
-    "id": 125400004,
+    "objId": 125400004,
     "name": "サクション",
     "flavorText": "攻撃/遠/敵単体 ( 斬 ) 風術で攻撃する<br>自身のHPを回復する(小)",
     "attackAttributes": [
@@ -4371,7 +4371,7 @@
     ]
   },
   {
-    "id": 125400005,
+    "objId": 125400005,
     "name": "ナップ",
     "flavorText": "補助/敵全体  対象を眠り状態にする(確率小)<br>",
     "attackAttributes": [
@@ -4388,7 +4388,7 @@
     ]
   },
   {
-    "id": 125400006,
+    "objId": 125400006,
     "name": "ソーンバインド",
     "flavorText": "攻撃/遠/敵全体 ( 斬 ) 風術で全体攻撃する<br>対象をスタンさせる(確率中/浮遊している敵には無効)",
     "attackAttributes": [
@@ -4405,7 +4405,7 @@
     ]
   },
   {
-    "id": 125400007,
+    "objId": 125400007,
     "name": "トルネード",
     "flavorText": "攻撃/遠/敵全体 ( 斬 ) 風術で全体攻撃する [特効：浮遊]<br>",
     "attackAttributes": [
@@ -4425,7 +4425,7 @@
     ]
   },
   {
-    "id": 125400008,
+    "objId": 125400008,
     "name": "ニードルショット",
     "flavorText": "攻撃/遠/敵単体 ( 斬 ) 風術で攻撃する<br>",
     "attackAttributes": [
@@ -4441,7 +4441,7 @@
     ]
   },
   {
-    "id": 125400009,
+    "objId": 125400009,
     "name": "かまいたち",
     "flavorText": "攻撃/遠/敵全体 ( 斬 ) 風術で全体攻撃する<br>",
     "attackAttributes": [
@@ -4458,7 +4458,7 @@
     ]
   },
   {
-    "id": 125400010,
+    "objId": 125400010,
     "name": "茨の呪縛",
     "flavorText": "攻撃/遠/敵単体 ( 斬 ) 風術で攻撃する<br>対象の素早さを低下させる(小)",
     "attackAttributes": [
@@ -4475,7 +4475,7 @@
     ]
   },
   {
-    "id": 125400011,
+    "objId": 125400011,
     "name": "スーパーソニック",
     "flavorText": "攻撃/遠/敵全体 ( 斬 ) 風術で全体攻撃する [特効：獣、虫]<br>",
     "attackAttributes": [
@@ -4496,7 +4496,7 @@
     ]
   },
   {
-    "id": 125400012,
+    "objId": 125400012,
     "name": "メディテーション",
     "flavorText": "補助/味方単体  対象の知力を上昇させる(小)<br>",
     "attackAttributes": [
@@ -4513,7 +4513,7 @@
     ]
   },
   {
-    "id": 125500001,
+    "objId": 125500001,
     "name": "太陽光線",
     "flavorText": "攻撃/遠/敵単体 ( 陽+熱 ) 光術で攻撃する [特効：不死]<br>",
     "attackAttributes": [
@@ -4532,7 +4532,7 @@
     ]
   },
   {
-    "id": 125500002,
+    "objId": 125500002,
     "name": "太陽風",
     "flavorText": "攻撃/遠/敵全体 ( 陽+熱 ) 光術で全体攻撃する<br>",
     "attackAttributes": [
@@ -4550,7 +4550,7 @@
     ]
   },
   {
-    "id": 125500003,
+    "objId": 125500003,
     "name": "超風",
     "flavorText": "攻撃/遠/敵全体 ( 陽 ) 光術で全体攻撃する<br>",
     "attackAttributes": [
@@ -4568,7 +4568,7 @@
     ]
   },
   {
-    "id": 125500004,
+    "objId": 125500004,
     "name": "ギャラクシィ",
     "flavorText": "攻撃/遠/敵全体 ( 陽 ) 光術で全体攻撃する<br>",
     "attackAttributes": [
@@ -4586,7 +4586,7 @@
     ]
   },
   {
-    "id": 125500005,
+    "objId": 125500005,
     "name": "ライトボール",
     "flavorText": "攻撃/遠/敵全体 ( 陽 ) 光術で全体攻撃する<br>対象を暗闇状態にする(確率大)",
     "attackAttributes": [
@@ -4602,7 +4602,7 @@
     ]
   },
   {
-    "id": 125500006,
+    "objId": 125500006,
     "name": "ヒールライト",
     "flavorText": "回復/味方単体  HPを回復する<br>",
     "attackAttributes": [
@@ -4618,7 +4618,7 @@
     ]
   },
   {
-    "id": 125500007,
+    "objId": 125500007,
     "name": "フラッシュファイア",
     "flavorText": "攻撃/遠/敵全体 ( 陽 ) 光術で全体攻撃する [特効：不死]<br>",
     "attackAttributes": [
@@ -4637,7 +4637,7 @@
     ]
   },
   {
-    "id": 125500009,
+    "objId": 125500009,
     "name": "妖精光",
     "flavorText": "補助/味方単体  対象の素早さを上昇させる(大)<br>",
     "attackAttributes": [
@@ -4654,7 +4654,7 @@
     ]
   },
   {
-    "id": 125500010,
+    "objId": 125500010,
     "name": "再生光",
     "flavorText": "回復/味方単体  HPを回復する<br>対象の状態異常をすべて解除する",
     "attackAttributes": [
@@ -4671,7 +4671,7 @@
     ]
   },
   {
-    "id": 125600001,
+    "objId": 125600001,
     "name": "ペイン",
     "flavorText": "攻撃/遠/敵単体 ( 陰 ) 闇術で攻撃する<br>対象をスタンさせる(確率中)",
     "attackAttributes": [
@@ -4687,7 +4687,7 @@
     ]
   },
   {
-    "id": 125600002,
+    "objId": 125600002,
     "name": "影しばり",
     "flavorText": "攻撃/遠/敵単体 ( 陰 ) 闇術で攻撃する<br>対象をマヒさせる(確率大)",
     "attackAttributes": [
@@ -4703,7 +4703,7 @@
     ]
   },
   {
-    "id": 125600003,
+    "objId": 125600003,
     "name": "ウィークネス",
     "flavorText": "攻撃/遠/敵単体 ( 陰 ) 闇術で攻撃する<br>対象の体力を低下させる(小)",
     "attackAttributes": [
@@ -4719,7 +4719,7 @@
     ]
   },
   {
-    "id": 125600004,
+    "objId": 125600004,
     "name": "エナジースティール",
     "flavorText": "攻撃/遠/敵単体 ( 陰 ) 闇術で攻撃する<br>自身のHPを回復する(小)",
     "attackAttributes": [
@@ -4736,7 +4736,7 @@
     ]
   },
   {
-    "id": 125600005,
+    "objId": 125600005,
     "name": "ポイゾナスブロウ",
     "flavorText": "攻撃/遠/敵単体 ( 陰 ) 闇術で攻撃する<br>対象を毒状態にする(確率中)",
     "attackAttributes": [
@@ -4753,7 +4753,7 @@
     ]
   },
   {
-    "id": 125600006,
+    "objId": 125600006,
     "name": "ゴーストライト",
     "flavorText": "攻撃/遠/敵単体 ( 陰 ) 闇術で攻撃する<br>対象を魅了状態にする(確率中)",
     "attackAttributes": [
@@ -4770,7 +4770,7 @@
     ]
   },
   {
-    "id": 125600007,
+    "objId": 125600007,
     "name": "エナジーストーム",
     "flavorText": "攻撃/遠/敵全体 ( 陰 ) 闇術で全体攻撃する<br>",
     "attackAttributes": [
@@ -4787,7 +4787,7 @@
     ]
   },
   {
-    "id": 125600008,
+    "objId": 125600008,
     "name": "ソウルフリーズ",
     "flavorText": "攻撃/遠/敵全体 ( 陰 ) 闇術で全体攻撃する<br>対象をマヒさせる(確率小)",
     "attackAttributes": [
@@ -4805,7 +4805,7 @@
     ]
   },
   {
-    "id": 125600009,
+    "objId": 125600009,
     "name": "ダークスフィア",
     "flavorText": "攻撃/遠/敵単体 ( 陰 ) 闇術で攻撃する<br>",
     "attackAttributes": [
@@ -4823,7 +4823,7 @@
     ]
   },
   {
-    "id": 125600013,
+    "objId": 125600013,
     "name": "サイコノイズ",
     "flavorText": "攻撃/遠/敵全体 ( 陰 ) 闇術で全体攻撃する<br>対象の知力を低下させる(小)",
     "attackAttributes": [
@@ -4841,7 +4841,7 @@
     ]
   },
   {
-    "id": 125600014,
+    "objId": 125600014,
     "name": "ヴァーミリオンサンズ",
     "flavorText": "攻撃/遠/敵全体 ( 陰 ) 闇術で全体攻撃する<br>対象を暗闇状態にする(確率小)",
     "attackAttributes": [
@@ -4859,7 +4859,7 @@
     ]
   },
   {
-    "id": 601000400,
+    "objId": 601000400,
     "name": "通常攻撃(剣)",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -4873,7 +4873,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 601003405,
+    "objId": 601003405,
     "name": "真空斬り",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -4887,7 +4887,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 601014403,
+    "objId": 601014403,
     "name": "五月雨斬り",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -4901,7 +4901,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 601018401,
+    "objId": 601018401,
     "name": "失礼剣",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -4915,7 +4915,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 601020603,
+    "objId": 601020603,
     "name": "つむじ風",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -4929,7 +4929,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 601022401,
+    "objId": 601022401,
     "name": "二段斬り",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -4943,7 +4943,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 601024405,
+    "objId": 601024405,
     "name": "分身剣",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -4957,7 +4957,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 602000400,
+    "objId": 602000400,
     "name": "通常攻撃(大剣)",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -4971,7 +4971,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 602005408,
+    "objId": 602005408,
     "name": "地ずり残月",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -4985,7 +4985,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 602010405,
+    "objId": 602010405,
     "name": "濁流剣",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -4999,7 +4999,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 602012401,
+    "objId": 602012401,
     "name": "スマッシュ",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5013,7 +5013,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 602026603,
+    "objId": 602026603,
     "name": "地走り",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5027,7 +5027,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 603000400,
+    "objId": 603000400,
     "name": "通常攻撃(斧)",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5041,7 +5041,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 603002408,
+    "objId": 603002408,
     "name": "富岳八景",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5056,7 +5056,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 603005401,
+    "objId": 603005401,
     "name": "トマホーク",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5070,7 +5070,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 603008403,
+    "objId": 603008403,
     "name": "一人時間差",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5084,7 +5084,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 603013505,
+    "objId": 603013505,
     "name": "ブレードロール",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5098,7 +5098,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 603014403,
+    "objId": 603014403,
     "name": "かぶと割り",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5112,7 +5112,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 604000400,
+    "objId": 604000400,
     "name": "通常攻撃(棍棒)",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5126,7 +5126,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 604001405,
+    "objId": 604001405,
     "name": "削岩撃",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5140,7 +5140,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 604004408,
+    "objId": 604004408,
     "name": "かめごうら割り",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5154,7 +5154,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 604010403,
+    "objId": 604010403,
     "name": "脳天割り",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5168,7 +5168,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 604012401,
+    "objId": 604012401,
     "name": "ハードヒット",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5182,7 +5182,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 605000400,
+    "objId": 605000400,
     "name": "通常攻撃(体術)",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5196,7 +5196,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 605001405,
+    "objId": 605001405,
     "name": "滝登り",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5211,7 +5211,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 605005408,
+    "objId": 605005408,
     "name": "ふみつけ",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5225,7 +5225,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 605007408,
+    "objId": 605007408,
     "name": "千手観音",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5239,7 +5239,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 605010401,
+    "objId": 605010401,
     "name": "コークスクリュー",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5253,7 +5253,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 605013401,
+    "objId": 605013401,
     "name": "ソバット",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5267,7 +5267,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 605019431,
+    "objId": 605019431,
     "name": "空気投げ",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5281,7 +5281,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 605021403,
+    "objId": 605021403,
     "name": "サブミッション",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5295,7 +5295,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 605027503,
+    "objId": 605027503,
     "name": "練気掌",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5309,7 +5309,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 607000400,
+    "objId": 607000400,
     "name": "通常攻撃(小剣)",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5323,7 +5323,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 607001503,
+    "objId": 607001503,
     "name": "円舞剣",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5337,7 +5337,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 607003408,
+    "objId": 607003408,
     "name": "サザンクロス",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5351,7 +5351,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 607012401,
+    "objId": 607012401,
     "name": "高速突き",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5365,7 +5365,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 607014403,
+    "objId": 607014403,
     "name": "小転",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5379,7 +5379,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 607015443,
+    "objId": 607015443,
     "name": "感電衝",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5393,7 +5393,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 607016401,
+    "objId": 607016401,
     "name": "カットイン",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5407,7 +5407,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 607019405,
+    "objId": 607019405,
     "name": "金のトロイメライ",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5421,7 +5421,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 608000400,
+    "objId": 608000400,
     "name": "通常攻撃(槍)",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5435,7 +5435,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 608001405,
+    "objId": 608001405,
     "name": "独妙点穴",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5449,7 +5449,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 608005448,
+    "objId": 608005448,
     "name": "流星衝",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5463,7 +5463,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 608008431,
+    "objId": 608008431,
     "name": "足払い",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5477,7 +5477,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 608021403,
+    "objId": 608021403,
     "name": "脳削り",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5491,7 +5491,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 610000400,
+    "objId": 610000400,
     "name": "通常攻撃(杖)",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5505,7 +5505,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 651001503,
+    "objId": 651001503,
     "name": "ファイアストーム",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5519,7 +5519,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 651006201,
+    "objId": 651006201,
     "name": "ハードファイア",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5533,7 +5533,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 651007103,
+    "objId": 651007103,
     "name": "セルフバーニング",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5547,7 +5547,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 652004501,
+    "objId": 652004501,
     "name": "スコール",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5561,7 +5561,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 652005201,
+    "objId": 652005201,
     "name": "生命の水",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5575,7 +5575,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 652008403,
+    "objId": 652008403,
     "name": "ウォーターガン",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5589,7 +5589,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 652010435,
+    "objId": 652010435,
     "name": "サイクロンスクィーズ",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5603,7 +5603,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 653003533,
+    "objId": 653003533,
     "name": "足がらめ",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5617,7 +5617,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 653005593,
+    "objId": 653005593,
     "name": "デルタ・ペトラ",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5631,7 +5631,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 656001431,
+    "objId": 656001431,
     "name": "ペイン",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5645,7 +5645,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 656004403,
+    "objId": 656004403,
     "name": "エナジースティール",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5659,7 +5659,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 656005413,
+    "objId": 656005413,
     "name": "ポイゾナスブロウ",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5673,7 +5673,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 656014528,
+    "objId": 656014528,
     "name": "ヴァーミリオンサンズ",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5687,7 +5687,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 901000400,
+    "objId": 901000400,
     "name": "攻撃",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5701,7 +5701,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 901001400,
+    "objId": 901001400,
     "name": "攻撃",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5715,7 +5715,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 901002603,
+    "objId": 901002603,
     "name": "つむじ風",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5729,7 +5729,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 901003441,
+    "objId": 901003441,
     "name": "マヒ爪",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5743,7 +5743,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 901004411,
+    "objId": 901004411,
     "name": "毒爪",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5757,7 +5757,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 901005401,
+    "objId": 901005401,
     "name": "ファングクラッシュ",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5771,7 +5771,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 901005405,
+    "objId": 901005405,
     "name": "ファングクラッシュ",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5785,7 +5785,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 901006405,
+    "objId": 901006405,
     "name": "みじん斬り",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5799,7 +5799,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 901007403,
+    "objId": 901007403,
     "name": "音速剣",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5813,7 +5813,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 901008405,
+    "objId": 901008405,
     "name": "真空斬り",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5827,7 +5827,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 901009403,
+    "objId": 901009403,
     "name": "二段斬り",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5841,7 +5841,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 901010403,
+    "objId": 901010403,
     "name": "落月破斬",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5855,7 +5855,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 901011431,
+    "objId": 901011431,
     "name": "なぎ払い",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5869,7 +5869,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 901012403,
+    "objId": 901012403,
     "name": "かすみ二段",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5883,7 +5883,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 901013405,
+    "objId": 901013405,
     "name": "龍尾返し",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5897,7 +5897,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 901014405,
+    "objId": 901014405,
     "name": "地獄爪殺法",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5911,7 +5911,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 901015403,
+    "objId": 901015403,
     "name": "かぎ爪",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5925,7 +5925,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 901016503,
+    "objId": 901016503,
     "name": "烈風剣",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5939,7 +5939,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 902000400,
+    "objId": 902000400,
     "name": "攻撃",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5953,7 +5953,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 902001403,
+    "objId": 902001403,
     "name": "強撃",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5967,7 +5967,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 902002503,
+    "objId": 902002503,
     "name": "月影",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5982,7 +5982,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 902003703,
+    "objId": 902003703,
     "name": "水鳥剣",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -5996,7 +5996,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 902004408,
+    "objId": 902004408,
     "name": "清流剣",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6010,7 +6010,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 902005405,
+    "objId": 902005405,
     "name": "無無剣",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6024,7 +6024,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 902006405,
+    "objId": 902006405,
     "name": "流し斬り",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6038,7 +6038,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 902007441,
+    "objId": 902007441,
     "name": "みね打ち",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6052,7 +6052,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 902008403,
+    "objId": 902008403,
     "name": "払い抜け",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6066,7 +6066,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 903000400,
+    "objId": 903000400,
     "name": "攻撃",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6080,7 +6080,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 903001403,
+    "objId": 903001403,
     "name": "トマホーク",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6094,7 +6094,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 903002405,
+    "objId": 903002405,
     "name": "スカルクラッシュ",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6108,7 +6108,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 904000400,
+    "objId": 904000400,
     "name": "攻撃",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6122,7 +6122,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 904001401,
+    "objId": 904001401,
     "name": "脳天割り",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6136,7 +6136,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 904002403,
+    "objId": 904002403,
     "name": "ダブルヒット",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6150,7 +6150,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 904003405,
+    "objId": 904003405,
     "name": "トリプルヒット",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6164,7 +6164,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 904004403,
+    "objId": 904004403,
     "name": "骨砕き",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6178,7 +6178,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 904005401,
+    "objId": 904005401,
     "name": "返し突き",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6192,7 +6192,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 904006601,
+    "objId": 904006601,
     "name": "地裂撃",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6206,7 +6206,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 904006603,
+    "objId": 904006603,
     "name": "地裂撃",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6220,7 +6220,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 904007503,
+    "objId": 904007503,
     "name": "グランドスラム",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6234,7 +6234,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 904008401,
+    "objId": 904008401,
     "name": "削岩撃",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6248,7 +6248,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 904008403,
+    "objId": 904008403,
     "name": "削岩撃",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6262,7 +6262,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 904009533,
+    "objId": 904009533,
     "name": "大震撃",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6276,7 +6276,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 904010405,
+    "objId": 904010405,
     "name": "ハードヒット",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6290,7 +6290,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905000400,
+    "objId": 905000400,
     "name": "攻撃",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6304,7 +6304,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905001400,
+    "objId": 905001400,
     "name": "攻撃",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6318,7 +6318,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905002400,
+    "objId": 905002400,
     "name": "攻撃",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6332,7 +6332,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905003411,
+    "objId": 905003411,
     "name": "花粉",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6346,7 +6346,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905003421,
+    "objId": 905003421,
     "name": "花粉",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6360,7 +6360,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905003463,
+    "objId": 905003463,
     "name": "花粉",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6374,7 +6374,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905003511,
+    "objId": 905003511,
     "name": "花粉",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6388,7 +6388,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905003521,
+    "objId": 905003521,
     "name": "花粉",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6402,7 +6402,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905003523,
+    "objId": 905003523,
     "name": "花粉",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6416,7 +6416,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905003563,
+    "objId": 905003563,
     "name": "花粉",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6430,7 +6430,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905004403,
+    "objId": 905004403,
     "name": "火炎",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6444,7 +6444,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905004503,
+    "objId": 905004503,
     "name": "火炎",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6458,7 +6458,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905005403,
+    "objId": 905005403,
     "name": "吸血",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6472,7 +6472,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905005413,
+    "objId": 905005413,
     "name": "吸血",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6486,7 +6486,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905006441,
+    "objId": 905006441,
     "name": "巻きつき",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6500,7 +6500,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905006443,
+    "objId": 905006443,
     "name": "巻きつき",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6514,7 +6514,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905007445,
+    "objId": 905007445,
     "name": "凝視",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6528,7 +6528,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905007475,
+    "objId": 905007475,
     "name": "凝視",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6542,7 +6542,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905007495,
+    "objId": 905007495,
     "name": "凝視",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6556,7 +6556,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905008403,
+    "objId": 905008403,
     "name": "触手",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6570,7 +6570,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905008405,
+    "objId": 905008405,
     "name": "触手",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6584,7 +6584,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905009403,
+    "objId": 905009403,
     "name": "尾撃",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6598,7 +6598,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905009405,
+    "objId": 905009405,
     "name": "尾撃",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6612,7 +6612,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905010411,
+    "objId": 905010411,
     "name": "猛毒ガス",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6626,7 +6626,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905010513,
+    "objId": 905010513,
     "name": "猛毒ガス",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6640,7 +6640,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905011503,
+    "objId": 905011503,
     "name": "アシッドスプレー",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6654,7 +6654,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905012403,
+    "objId": 905012403,
     "name": "エルフショット",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6668,7 +6668,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905013445,
+    "objId": 905013445,
     "name": "カポエラキック",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6682,7 +6682,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905014401,
+    "objId": 905014401,
     "name": "キック",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6696,7 +6696,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905014403,
+    "objId": 905014403,
     "name": "キック",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6710,7 +6710,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905015403,
+    "objId": 905015403,
     "name": "コークスクリュー",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6724,7 +6724,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905016405,
+    "objId": 905016405,
     "name": "サラマンダークロー",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6738,7 +6738,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905017403,
+    "objId": 905017403,
     "name": "ソバット",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6752,7 +6752,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905018403,
+    "objId": 905018403,
     "name": "ダガージョー",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6766,7 +6766,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905019405,
+    "objId": 905019405,
     "name": "ダブルアタック",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6780,7 +6780,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905020763,
+    "objId": 905020763,
     "name": "テラーボイス",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6794,7 +6794,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905021401,
+    "objId": 905021401,
     "name": "ハサミ",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6808,7 +6808,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905022503,
+    "objId": 905022503,
     "name": "ぶちかまし",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6822,7 +6822,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905023405,
+    "objId": 905023405,
     "name": "ふみつけ",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6836,7 +6836,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905024181,
+    "objId": 905024181,
     "name": "ベルセルク",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6850,7 +6850,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905025511,
+    "objId": 905025511,
     "name": "ポイズンガス",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6864,7 +6864,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905026405,
+    "objId": 905026405,
     "name": "稲妻キック",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6878,7 +6878,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905027405,
+    "objId": 905027405,
     "name": "遠当て",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6892,7 +6892,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905028405,
+    "objId": 905028405,
     "name": "角",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6906,7 +6906,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905029403,
+    "objId": 905029403,
     "name": "岩石",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6920,7 +6920,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905030401,
+    "objId": 905030401,
     "name": "気弾",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6934,7 +6934,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905031401,
+    "objId": 905031401,
     "name": "強酸",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6948,7 +6948,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905032403,
+    "objId": 905032403,
     "name": "強打",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6962,7 +6962,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905033405,
+    "objId": 905033405,
     "name": "死神のカマ",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6976,7 +6976,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905034503,
+    "objId": 905034503,
     "name": "死人ゴケ",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -6990,7 +6990,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905035493,
+    "objId": 905035493,
     "name": "石化クチバシ",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7004,7 +7004,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905036503,
+    "objId": 905036503,
     "name": "赤竜波",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7018,7 +7018,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905037408,
+    "objId": 905037408,
     "name": "千手観音",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7032,7 +7032,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905038433,
+    "objId": 905038433,
     "name": "体当たり",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7046,7 +7046,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905039405,
+    "objId": 905039405,
     "name": "体落とし",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7060,7 +7060,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905040403,
+    "objId": 905040403,
     "name": "大回転",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7074,7 +7074,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905041503,
+    "objId": 905041503,
     "name": "地震",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7088,7 +7088,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905042411,
+    "objId": 905042411,
     "name": "毒撃",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7102,7 +7102,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905043403,
+    "objId": 905043403,
     "name": "突進",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7116,7 +7116,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905044401,
+    "objId": 905044401,
     "name": "泡",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7130,7 +7130,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905045401,
+    "objId": 905045401,
     "name": "火炎",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7144,7 +7144,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905046105,
+    "objId": 905046105,
     "name": "カウンター",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7158,7 +7158,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 905047401,
+    "objId": 905047401,
     "name": "カウンター",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7172,7 +7172,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 906000400,
+    "objId": 906000400,
     "name": "攻撃",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7186,7 +7186,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 907000400,
+    "objId": 907000400,
     "name": "攻撃",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7200,7 +7200,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 907001400,
+    "objId": 907001400,
     "name": "攻撃",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7214,7 +7214,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 907002413,
+    "objId": 907002413,
     "name": "毒針",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7228,7 +7228,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 907003405,
+    "objId": 907003405,
     "name": "乱れ突き",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7242,7 +7242,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 907004421,
+    "objId": 907004421,
     "name": "クチバシ",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7256,7 +7256,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 907005573,
+    "objId": 907005573,
     "name": "テンプテーション",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7270,7 +7270,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 907006503,
+    "objId": 907006503,
     "name": "マリオネット",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7284,7 +7284,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 907007400,
+    "objId": 907007400,
     "name": "攻撃",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7298,7 +7298,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 907008405,
+    "objId": 907008405,
     "name": "スクリュードライバ",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7312,7 +7312,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 907009403,
+    "objId": 907009403,
     "name": "スネークショット",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7326,7 +7326,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 907010401,
+    "objId": 907010401,
     "name": "針",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7340,7 +7340,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 907011401,
+    "objId": 907011401,
     "name": "アクセルスナイパー",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7354,7 +7354,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 907012401,
+    "objId": 907012401,
     "name": "牙",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7368,7 +7368,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 907013401,
+    "objId": 907013401,
     "name": "牙",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7382,7 +7382,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 907014441,
+    "objId": 907014441,
     "name": "マヒ牙",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7396,7 +7396,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 907015413,
+    "objId": 907015413,
     "name": "毒牙",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7410,7 +7410,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 907016443,
+    "objId": 907016443,
     "name": "麻痺牙",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7424,7 +7424,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 907017431,
+    "objId": 907017431,
     "name": "フェイント",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7438,7 +7438,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 907018503,
+    "objId": 907018503,
     "name": "円舞剣",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7452,7 +7452,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 908000400,
+    "objId": 908000400,
     "name": "攻撃",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7466,7 +7466,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 908001401,
+    "objId": 908001401,
     "name": "ツノ",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7480,7 +7480,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 908002431,
+    "objId": 908002431,
     "name": "足払い",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7494,7 +7494,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 908003403,
+    "objId": 908003403,
     "name": "二段突き",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7508,7 +7508,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 908004401,
+    "objId": 908004401,
     "name": "エイミング",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7522,7 +7522,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 908005401,
+    "objId": 908005401,
     "name": "グライダースパイク",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7536,7 +7536,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 908006405,
+    "objId": 908006405,
     "name": "くし刺し",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7550,7 +7550,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 908007543,
+    "objId": 908007543,
     "name": "サイコバインド",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7564,7 +7564,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 908008403,
+    "objId": 908008403,
     "name": "稲妻突き",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7578,7 +7578,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 908009405,
+    "objId": 908009405,
     "name": "活殺獣神衝",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7592,7 +7592,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 908010503,
+    "objId": 908010503,
     "name": "大車輪",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7606,7 +7606,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 908011403,
+    "objId": 908011403,
     "name": "脳削り",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7620,7 +7620,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 908012403,
+    "objId": 908012403,
     "name": "チャージ",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7634,7 +7634,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 909000400,
+    "objId": 909000400,
     "name": "攻撃",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7648,7 +7648,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 909001400,
+    "objId": 909001400,
     "name": "攻撃",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7662,7 +7662,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 909002411,
+    "objId": 909002411,
     "name": "毒針",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7676,7 +7676,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 909003411,
+    "objId": 909003411,
     "name": "毒液",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7690,7 +7690,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 909004503,
+    "objId": 909004503,
     "name": "アローレイン",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7704,7 +7704,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 909005461,
+    "objId": 909005461,
     "name": "イド・ブレイク",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7718,7 +7718,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 909006401,
+    "objId": 909006401,
     "name": "二本射ち",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7732,7 +7732,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 909007401,
+    "objId": 909007401,
     "name": "粘液",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7746,7 +7746,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 909008405,
+    "objId": 909008405,
     "name": "落鳳破",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7760,7 +7760,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 909009421,
+    "objId": 909009421,
     "name": "スミ",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7774,7 +7774,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 909010403,
+    "objId": 909010403,
     "name": "溶解液",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7788,7 +7788,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 909011501,
+    "objId": 909011501,
     "name": "でたらめ矢",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7802,7 +7802,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 951001501,
+    "objId": 951001501,
     "name": "火炎",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7816,7 +7816,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 951002105,
+    "objId": 951002105,
     "name": "セルフバーニング",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7830,7 +7830,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 951002405,
+    "objId": 951002405,
     "name": "セルフバーニング",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7844,7 +7844,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 951003503,
+    "objId": 951003503,
     "name": "ファイアストーム",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7858,7 +7858,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 951004443,
+    "objId": 951004443,
     "name": "フレイムウィップ",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7872,7 +7872,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 951005408,
+    "objId": 951005408,
     "name": "ヘルファイア",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7886,7 +7886,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 951006503,
+    "objId": 951006503,
     "name": "熱風",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7900,7 +7900,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 951007401,
+    "objId": 951007401,
     "name": "ファイアボール",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7914,7 +7914,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 951008201,
+    "objId": 951008201,
     "name": "ハードファイア",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7928,7 +7928,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 951009303,
+    "objId": 951009303,
     "name": "ファイアウォール",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7942,7 +7942,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 951010403,
+    "objId": 951010403,
     "name": "高温ガス",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7956,7 +7956,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 951011503,
+    "objId": 951011503,
     "name": "炎",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7970,7 +7970,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 951012505,
+    "objId": 951012505,
     "name": "火の鳥",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7984,7 +7984,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 952001503,
+    "objId": 952001503,
     "name": "大召雷",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -7998,7 +7998,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 952002503,
+    "objId": 952002503,
     "name": "ダイアモンドダスト",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8012,7 +8012,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 952003101,
+    "objId": 952003101,
     "name": "水舞い",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8026,7 +8026,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 952004103,
+    "objId": 952004103,
     "name": "フリーズバリア",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8040,7 +8040,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 952005203,
+    "objId": 952005203,
     "name": "生命の水",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8054,7 +8054,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 952006403,
+    "objId": 952006403,
     "name": "体力吸収",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8068,7 +8068,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 952007501,
+    "objId": 952007501,
     "name": "スコール",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8082,7 +8082,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 952007503,
+    "objId": 952007503,
     "name": "スコール",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8096,7 +8096,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 952008405,
+    "objId": 952008405,
     "name": "落雷",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8110,7 +8110,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 952008505,
+    "objId": 952008505,
     "name": "落雷",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8124,7 +8124,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 952009603,
+    "objId": 952009603,
     "name": "電撃",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8138,7 +8138,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 952010503,
+    "objId": 952010503,
     "name": "メイルシュトローム",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8152,7 +8152,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 952011435,
+    "objId": 952011435,
     "name": "サイクロンスクィーズ",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8166,7 +8166,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 952012401,
+    "objId": 952012401,
     "name": "電撃",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8180,7 +8180,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 952013503,
+    "objId": 952013503,
     "name": "吹雪",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8194,7 +8194,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 953001503,
+    "objId": 953001503,
     "name": "ストーンシャワー",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8208,7 +8208,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 953002203,
+    "objId": 953002203,
     "name": "金剛力",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8222,7 +8222,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 953003533,
+    "objId": 953003533,
     "name": "足がらめ",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8236,7 +8236,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 953004201,
+    "objId": 953004201,
     "name": "アースヒール",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8250,7 +8250,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 953005503,
+    "objId": 953005503,
     "name": "アースライザー",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8264,7 +8264,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 953006533,
+    "objId": 953006533,
     "name": "クラック",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8278,7 +8278,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 953007405,
+    "objId": 953007405,
     "name": "サンダーボール",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8292,7 +8292,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 953008403,
+    "objId": 953008403,
     "name": "ストーンスキン",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8306,7 +8306,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 953009403,
+    "objId": 953009403,
     "name": "ストーンバレット",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8320,7 +8320,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 954001403,
+    "objId": 954001403,
     "name": "冷気",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8334,7 +8334,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 954001503,
+    "objId": 954001503,
     "name": "冷気",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8348,7 +8348,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 954002401,
+    "objId": 954002401,
     "name": "ウインドカッター",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8362,7 +8362,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 954003413,
+    "objId": 954003413,
     "name": "イルストーム",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8376,7 +8376,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 954004201,
+    "objId": 954004201,
     "name": "エアスクリーン",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8390,7 +8390,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 954005403,
+    "objId": 954005403,
     "name": "サクション",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8404,7 +8404,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 954006553,
+    "objId": 954006553,
     "name": "ナップ",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8418,7 +8418,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 954007503,
+    "objId": 954007503,
     "name": "メガサクション",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8432,7 +8432,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 954008401,
+    "objId": 954008401,
     "name": "冷気",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8446,7 +8446,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 954009533,
+    "objId": 954009533,
     "name": "ソーンバインド",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8460,7 +8460,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 954010501,
+    "objId": 954010501,
     "name": "かまいたち",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8474,7 +8474,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 954010503,
+    "objId": 954010503,
     "name": "かまいたち",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8488,7 +8488,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 955001401,
+    "objId": 955001401,
     "name": "太陽光線",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8502,7 +8502,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 955002773,
+    "objId": 955002773,
     "name": "フェロモン",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8516,7 +8516,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 955003521,
+    "objId": 955003521,
     "name": "ライトボール",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8530,7 +8530,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 955004405,
+    "objId": 955004405,
     "name": "ライフスティール",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8544,7 +8544,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 955005503,
+    "objId": 955005503,
     "name": "太陽風",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8558,7 +8558,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 955006503,
+    "objId": 955006503,
     "name": "ヒートウェイヴ",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8572,7 +8572,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 956001451,
+    "objId": 956001451,
     "name": "催眠",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8586,7 +8586,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 956001553,
+    "objId": 956001553,
     "name": "催眠",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8600,7 +8600,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 956001753,
+    "objId": 956001753,
     "name": "催眠",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8614,7 +8614,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 956002461,
+    "objId": 956002461,
     "name": "超音波",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8628,7 +8628,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 956002563,
+    "objId": 956002563,
     "name": "超音波",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8642,7 +8642,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 956003411,
+    "objId": 956003411,
     "name": "毒霧",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8656,7 +8656,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 956003511,
+    "objId": 956003511,
     "name": "毒霧",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8670,7 +8670,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 956004491,
+    "objId": 956004491,
     "name": "凝視",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8684,7 +8684,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 956005411,
+    "objId": 956005411,
     "name": "猛毒ガス",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8698,7 +8698,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 956006473,
+    "objId": 956006473,
     "name": "ゴーストライト",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8712,7 +8712,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 956007408,
+    "objId": 956007408,
     "name": "ソウルスティール",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8726,7 +8726,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 956008403,
+    "objId": 956008403,
     "name": "ダークスフィア",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8740,7 +8740,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 956009431,
+    "objId": 956009431,
     "name": "ペイン",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8754,7 +8754,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 956010413,
+    "objId": 956010413,
     "name": "ポイゾナスブロウ",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8768,7 +8768,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 956011463,
+    "objId": 956011463,
     "name": "ホラー",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8782,7 +8782,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 956012553,
+    "objId": 956012553,
     "name": "ナイトコール",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8796,7 +8796,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 956013553,
+    "objId": 956013553,
     "name": "ララバイ",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8810,7 +8810,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 956014473,
+    "objId": 956014473,
     "name": "誘惑",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8824,7 +8824,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 956014573,
+    "objId": 956014573,
     "name": "誘惑",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [
@@ -8838,7 +8838,7 @@
     "kakuseiMaterialSetIds": []
   },
   {
-    "id": 956015441,
+    "objId": 956015441,
     "name": "影しばり",
     "flavorText": "エネミースキルはテキストを表示しない",
     "attackAttributes": [

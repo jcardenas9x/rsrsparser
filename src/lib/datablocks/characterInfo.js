@@ -5,7 +5,7 @@ export default class CharacterInfo {
         id, name, str, con, dex,
         spd, int, spr, love, cha
     ) {
-        this.id = id;
+        this.objId = id;
         this.name = name;
         this.str = str;
         this.con = con;

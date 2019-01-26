@@ -4,7 +4,7 @@ export default class SkillInfo {
         attackAttributes, criticalTargets, powerGrade,
         bp, lp, kakuseiCount, kakuseiMaterialSetIds
     ) {
-        this.id = id;
+        this.objId = id;
         this.name = name;
         this.flavorText = flavorText;
         this.attackAttributes = attackAttributes;

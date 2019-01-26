@@ -46,7 +46,7 @@ export const textReadCharacter = (file) => {
                         let key = dataString[0].trim();
                         let value = dataString[1].trim();
                         switch (key) {
-                            case "int id": CharacterInfoList[fileListIndex].id = parseInt(value); break;
+                            case "int id": CharacterInfoList[fileListIndex].objId = parseInt(value); break;
                             case "string name": CharacterInfoList[fileListIndex].name = value.replace(/"/g, ''); break;
                             case "int promote_wanryoku": CharacterInfoList[fileListIndex].str = parseInt(value); break;
                             case "int promote_tairyoku": CharacterInfoList[fileListIndex].con = parseInt(value); break;
